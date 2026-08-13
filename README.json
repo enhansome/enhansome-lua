@@ -14,7 +14,7 @@
             "last_commit": "2026-04-01T00:54:16Z",
             "owner": "yuin",
             "repo": "gopher-lua",
-            "stars": 6966
+            "stars": 6965
           }
         },
         {
@@ -84,7 +84,7 @@
             "last_commit": "2018-07-27T08:18:28Z",
             "owner": "daurnimator",
             "repo": "lua.vm.js",
-            "stars": 841
+            "stars": 840
           }
         },
         {
@@ -98,7 +98,7 @@
             "last_commit": "2025-02-17T09:14:09Z",
             "owner": "aarzilli",
             "repo": "golua",
-            "stars": 700
+            "stars": 699
           }
         },
         {
@@ -145,7 +145,7 @@
                 "last_commit": "2026-08-07T19:00:03Z",
                 "owner": "lua",
                 "repo": "lua",
-                "stars": 10215
+                "stars": 10219
               }
             }
           ]
@@ -336,10 +336,10 @@
           "repo_info": {
             "archived": false,
             "language": "Lua",
-            "last_commit": "2026-07-30T20:18:49Z",
+            "last_commit": "2026-08-13T13:14:46Z",
             "owner": "lunarmodules",
             "repo": "Penlight",
-            "stars": 2120
+            "stars": 2121
           }
         },
         {
@@ -691,7 +691,7 @@
                 "last_commit": "2026-08-04T09:27:18Z",
                 "owner": "Kong",
                 "repo": "kong",
-                "stars": 43970
+                "stars": 43974
               }
             },
             {
@@ -705,7 +705,7 @@
                 "last_commit": "2022-10-28T09:53:01Z",
                 "owner": "sailorproject",
                 "repo": "sailor",
-                "stars": 937
+                "stars": 936
               }
             },
             {
@@ -783,7 +783,7 @@
             "last_commit": "2026-08-11T21:45:08Z",
             "owner": "lunarmodules",
             "repo": "lua_cliargs",
-            "stars": 127
+            "stars": 128
           }
         }
       ],
@@ -1479,7 +1479,7 @@
             "last_commit": "2026-07-29T14:33:10Z",
             "owner": "lipp",
             "repo": "lua-websockets",
-            "stars": 420
+            "stars": 418
           }
         },
         {
@@ -1720,7 +1720,7 @@
             "last_commit": "2022-12-18T19:53:23Z",
             "owner": "mpeterv",
             "repo": "luacheck",
-            "stars": 2045
+            "stars": 2046
           }
         },
         {
@@ -1890,10 +1890,10 @@
           "repo_info": {
             "archived": false,
             "language": "Lua",
-            "last_commit": "2026-08-12T17:36:14Z",
+            "last_commit": "2026-08-13T15:35:10Z",
             "owner": "koreader",
             "repo": "koreader",
-            "stars": 28949
+            "stars": 28961
           }
         },
         {
@@ -1964,7 +1964,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T04:10:02.524Z",
+    "last_updated": "2026-08-13T17:07:00.302Z",
     "original_repository": "LewisJEllis/awesome-lua",
     "original_repository_sha": "5cda10f263190f2c926d95652044a17ef937d6f8",
     "enhanced_repository": "enhansome/enhansome-lua",
