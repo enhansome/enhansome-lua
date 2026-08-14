@@ -14,7 +14,7 @@
             "last_commit": "2026-04-01T00:54:16Z",
             "owner": "yuin",
             "repo": "gopher-lua",
-            "stars": 6965
+            "stars": 6962
           }
         },
         {
@@ -42,7 +42,7 @@
             "last_commit": "2026-08-04T06:45:45Z",
             "owner": "moonsharp-devs",
             "repo": "moonsharp",
-            "stars": 1611
+            "stars": 1612
           }
         },
         {
@@ -145,7 +145,7 @@
                 "last_commit": "2026-08-07T19:00:03Z",
                 "owner": "lua",
                 "repo": "lua",
-                "stars": 10219
+                "stars": 10223
               }
             }
           ]
@@ -443,7 +443,7 @@
             "last_commit": "2026-06-22T15:19:55Z",
             "owner": "Overtorment",
             "repo": "NoobHub",
-            "stars": 357
+            "stars": 356
           }
         },
         {
@@ -497,7 +497,7 @@
                 "last_commit": "2023-09-29T16:28:50Z",
                 "owner": "kikito",
                 "repo": "bump.lua",
-                "stars": 1097
+                "stars": 1098
               }
             }
           ]
@@ -691,7 +691,7 @@
                 "last_commit": "2026-08-04T09:27:18Z",
                 "owner": "Kong",
                 "repo": "kong",
-                "stars": 43974
+                "stars": 43983
               }
             },
             {
@@ -705,7 +705,7 @@
                 "last_commit": "2022-10-28T09:53:01Z",
                 "owner": "sailorproject",
                 "repo": "sailor",
-                "stars": 936
+                "stars": 935
               }
             },
             {
@@ -719,7 +719,7 @@
                 "last_commit": "2021-05-07T08:33:05Z",
                 "owner": "ledgetech",
                 "repo": "ledge",
-                "stars": 459
+                "stars": 458
               }
             }
           ]
@@ -780,7 +780,7 @@
           "repo_info": {
             "archived": false,
             "language": "Lua",
-            "last_commit": "2026-08-11T21:45:08Z",
+            "last_commit": "2026-08-14T14:54:07Z",
             "owner": "lunarmodules",
             "repo": "lua_cliargs",
             "stars": 128
@@ -1243,7 +1243,7 @@
                 "last_commit": "2022-05-23T14:28:11Z",
                 "owner": "daurnimator",
                 "repo": "lpeg_patterns",
-                "stars": 130
+                "stars": 129
               }
             },
             {
@@ -1332,7 +1332,7 @@
           "repo_info": {
             "archived": false,
             "language": "Lua",
-            "last_commit": "2026-08-01T15:18:15Z",
+            "last_commit": "2026-08-14T13:44:24Z",
             "owner": "lunarmodules",
             "repo": "say",
             "stars": 51
@@ -1669,7 +1669,7 @@
           "repo_info": {
             "archived": false,
             "language": "Lua",
-            "last_commit": "2026-08-01T14:58:22Z",
+            "last_commit": "2026-08-14T07:44:20Z",
             "owner": "lunarmodules",
             "repo": "luassert",
             "stars": 248
@@ -1890,10 +1890,10 @@
           "repo_info": {
             "archived": false,
             "language": "Lua",
-            "last_commit": "2026-08-13T15:35:10Z",
+            "last_commit": "2026-08-14T16:36:00Z",
             "owner": "koreader",
             "repo": "koreader",
-            "stars": 28961
+            "stars": 28988
           }
         },
         {
@@ -1964,7 +1964,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T17:07:00.302Z",
+    "last_updated": "2026-08-14T17:04:18.276Z",
     "original_repository": "LewisJEllis/awesome-lua",
     "original_repository_sha": "5cda10f263190f2c926d95652044a17ef937d6f8",
     "enhanced_repository": "enhansome/enhansome-lua",
