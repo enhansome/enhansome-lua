@@ -145,7 +145,7 @@
                 "last_commit": "2026-08-07T19:00:03Z",
                 "owner": "lua",
                 "repo": "lua",
-                "stars": 10227
+                "stars": 10230
               }
             }
           ]
@@ -325,7 +325,7 @@
             "last_commit": "2025-04-15T14:55:30Z",
             "owner": "luafun",
             "repo": "luafun",
-            "stars": 2259
+            "stars": 2260
           }
         },
         {
@@ -339,7 +339,7 @@
             "last_commit": "2026-08-15T09:13:03Z",
             "owner": "lunarmodules",
             "repo": "Penlight",
-            "stars": 2121
+            "stars": 2122
           }
         },
         {
@@ -415,7 +415,7 @@
             "last_commit": "2023-11-19T23:59:15Z",
             "owner": "rxi",
             "repo": "lume",
-            "stars": 1237
+            "stars": 1238
           }
         },
         {
@@ -462,7 +462,7 @@
                 "last_commit": "2026-06-18T20:27:08Z",
                 "owner": "love2d-community",
                 "repo": "awesome-love2d",
-                "stars": 4467
+                "stars": 4468
               }
             },
             {
@@ -567,7 +567,7 @@
                 "last_commit": "2023-09-15T02:33:44Z",
                 "owner": "Stabyourself",
                 "repo": "mari0",
-                "stars": 768
+                "stars": 769
               }
             },
             {
@@ -670,7 +670,7 @@
                 "last_commit": "2026-08-11T08:14:16Z",
                 "owner": "ledgetech",
                 "repo": "lua-resty-http",
-                "stars": 2081
+                "stars": 2079
               }
             }
           ]
@@ -688,7 +688,7 @@
               "repo_info": {
                 "archived": false,
                 "language": "Lua",
-                "last_commit": "2026-08-04T09:27:18Z",
+                "last_commit": "2026-08-16T14:44:43Z",
                 "owner": "Kong",
                 "repo": "kong",
                 "stars": 43987
@@ -921,7 +921,7 @@
             "last_commit": "2023-10-02T15:30:26Z",
             "owner": "leafo",
             "repo": "etlua",
-            "stars": 257
+            "stars": 258
           }
         }
       ],
@@ -1845,7 +1845,7 @@
             "last_commit": "2026-04-02T18:48:54Z",
             "owner": "luvit",
             "repo": "luvit",
-            "stars": 3959
+            "stars": 3960
           }
         },
         {
@@ -1890,10 +1890,10 @@
           "repo_info": {
             "archived": false,
             "language": "Lua",
-            "last_commit": "2026-08-15T15:20:00Z",
+            "last_commit": "2026-08-16T16:24:24Z",
             "owner": "koreader",
             "repo": "koreader",
-            "stars": 29021
+            "stars": 29057
           }
         },
         {
@@ -1932,7 +1932,7 @@
             "last_commit": "2026-06-18T20:27:08Z",
             "owner": "love2d-community",
             "repo": "awesome-love2d",
-            "stars": 4467
+            "stars": 4468
           }
         },
         {
@@ -1964,7 +1964,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T16:36:00.095Z",
+    "last_updated": "2026-08-16T16:36:53.516Z",
     "original_repository": "LewisJEllis/awesome-lua",
     "original_repository_sha": "5cda10f263190f2c926d95652044a17ef937d6f8",
     "enhanced_repository": "enhansome/enhansome-lua",
