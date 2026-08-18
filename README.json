@@ -14,7 +14,7 @@
             "last_commit": "2026-04-01T00:54:16Z",
             "owner": "yuin",
             "repo": "gopher-lua",
-            "stars": 6962
+            "stars": 6963
           }
         },
         {
@@ -56,7 +56,7 @@
             "last_commit": "2026-07-17T11:48:50Z",
             "owner": "scoder",
             "repo": "lupa",
-            "stars": 1149
+            "stars": 1150
           }
         },
         {
@@ -145,7 +145,7 @@
                 "last_commit": "2026-08-07T19:00:03Z",
                 "owner": "lua",
                 "repo": "lua",
-                "stars": 10231
+                "stars": 10236
               }
             }
           ]
@@ -339,7 +339,7 @@
             "last_commit": "2026-08-15T09:13:03Z",
             "owner": "lunarmodules",
             "repo": "Penlight",
-            "stars": 2122
+            "stars": 2123
           }
         },
         {
@@ -462,7 +462,7 @@
                 "last_commit": "2026-06-18T20:27:08Z",
                 "owner": "love2d-community",
                 "repo": "awesome-love2d",
-                "stars": 4468
+                "stars": 4467
               }
             },
             {
@@ -691,7 +691,7 @@
                 "last_commit": "2026-08-16T14:44:43Z",
                 "owner": "Kong",
                 "repo": "kong",
-                "stars": 43989
+                "stars": 43996
               }
             },
             {
@@ -941,7 +941,7 @@
             "last_commit": "2025-11-03T12:54:01Z",
             "owner": "kikito",
             "repo": "middleclass",
-            "stars": 1917
+            "stars": 1918
           }
         },
         {
@@ -1009,7 +1009,7 @@
             "last_commit": "2026-02-17T21:38:31Z",
             "owner": "Tieske",
             "repo": "date",
-            "stars": 276
+            "stars": 275
           }
         },
         {
@@ -1215,7 +1215,7 @@
                 "last_commit": "2022-04-07T12:07:23Z",
                 "owner": "pygy",
                 "repo": "LuLPeg",
-                "stars": 271
+                "stars": 272
               }
             },
             {
@@ -1279,7 +1279,7 @@
             "last_commit": "2026-01-05T16:28:00Z",
             "owner": "kikito",
             "repo": "inspect.lua",
-            "stars": 1538
+            "stars": 1537
           }
         },
         {
@@ -1720,7 +1720,7 @@
             "last_commit": "2022-12-18T19:53:23Z",
             "owner": "mpeterv",
             "repo": "luacheck",
-            "stars": 2046
+            "stars": 2047
           }
         },
         {
@@ -1890,10 +1890,10 @@
           "repo_info": {
             "archived": false,
             "language": "Lua",
-            "last_commit": "2026-08-17T16:20:02Z",
+            "last_commit": "2026-08-18T15:32:12Z",
             "owner": "koreader",
             "repo": "koreader",
-            "stars": 29080
+            "stars": 29094
           }
         },
         {
@@ -1932,7 +1932,7 @@
             "last_commit": "2026-06-18T20:27:08Z",
             "owner": "love2d-community",
             "repo": "awesome-love2d",
-            "stars": 4468
+            "stars": 4467
           }
         },
         {
@@ -1964,7 +1964,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T16:38:59.450Z",
+    "last_updated": "2026-08-18T16:43:17.577Z",
     "original_repository": "LewisJEllis/awesome-lua",
     "original_repository_sha": "5cda10f263190f2c926d95652044a17ef937d6f8",
     "enhanced_repository": "enhansome/enhansome-lua",
