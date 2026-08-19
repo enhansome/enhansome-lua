@@ -137,7 +137,7 @@
                 "last_commit": "2016-01-15T11:36:21Z",
                 "owner": "Neopallium",
                 "repo": "llvm-lua",
-                "stars": 161
+                "stars": 162
               }
             },
             {
@@ -157,7 +157,7 @@
                     "last_commit": "2026-08-07T19:00:03Z",
                     "owner": "lua",
                     "repo": "lua",
-                    "stars": 10241
+                    "stars": 10242
                   }
                 }
               ]
@@ -464,7 +464,7 @@
                 "last_commit": "2022-10-21T09:02:33Z",
                 "owner": "Yonaba",
                 "repo": "Jumper",
-                "stars": 649
+                "stars": 650
               }
             },
             {
@@ -743,7 +743,7 @@
                     "last_commit": "2026-08-16T14:44:43Z",
                     "owner": "Kong",
                     "repo": "kong",
-                    "stars": 44002
+                    "stars": 44003
                   }
                 },
                 {
@@ -2027,10 +2027,10 @@
                 "archived": false,
                 "id": 8986217,
                 "language": "Lua",
-                "last_commit": "2026-08-19T11:44:08Z",
+                "last_commit": "2026-08-19T16:27:55Z",
                 "owner": "koreader",
                 "repo": "koreader",
-                "stars": 29107
+                "stars": 29114
               }
             },
             {
@@ -2101,7 +2101,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:41:43.311Z",
+    "last_updated": "2026-08-19T16:41:59.972Z",
     "original_repository": "LewisJEllis/awesome-lua",
     "original_repository_id": 23039606,
     "original_repository_sha": "5cda10f263190f2c926d95652044a17ef937d6f8",
