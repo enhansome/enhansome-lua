@@ -1,455 +1,2065 @@
 {
   "items": [
     {
-      "description": "",
+      "description": null,
       "items": [
         {
-          "node_type": "item",
-          "title": "GopherLua",
-          "description": "Lua 5.1 VM and compiler implemented in Go with Go APIs.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2026-04-01T00:54:16Z",
-            "owner": "yuin",
-            "repo": "gopher-lua",
-            "stars": 6963
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "LuaBridge",
-          "description": "A lightweight library for mapping data, functions, and classes back and forth between C++ and Lua.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2025-10-13T13:15:40Z",
-            "owner": "vinniefalco",
-            "repo": "LuaBridge",
-            "stars": 1779
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "MoonSharp",
-          "description": "A Lua interpreter written entirely in C# for the .NET, Mono and Unity platforms.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C#",
-            "last_commit": "2026-08-04T06:45:45Z",
-            "owner": "moonsharp-devs",
-            "repo": "moonsharp",
-            "stars": 1612
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "lupa",
-          "description": "Python bindings to LuaJIT2.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-07-17T11:48:50Z",
-            "owner": "scoder",
-            "repo": "lupa",
-            "stars": 1150
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "UniLua",
-          "description": "A pure C# implementation of Lua 5.2, focused on compatibility with the Unity game engine.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C#",
-            "last_commit": "2024-06-22T03:11:53Z",
-            "owner": "xebecnan",
-            "repo": "UniLua",
-            "stars": 1121
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "lua.vm.js",
-          "description": "Lua VM on the web; a direct port of the C interpreter via LLVM, emscripten, and asm.js.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "C",
-            "last_commit": "2018-07-27T08:18:28Z",
-            "owner": "daurnimator",
-            "repo": "lua.vm.js",
-            "stars": 840
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "golua",
-          "description": "Golang bindings to the Lua C API.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2025-02-17T09:14:09Z",
-            "owner": "aarzilli",
-            "repo": "golua",
-            "stars": 699
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Moonshine",
-          "description": "A Lua VM implemented in JavaScript. Slower than lua.vm.js, but with better docs, examples, and JS interfacing.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Lua",
-            "last_commit": "2021-05-28T11:48:04Z",
-            "owner": "gamesys",
-            "repo": "moonshine",
-            "stars": 507
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "LLVM-Lua",
-          "description": "Compiles Lua to LLVM.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2016-01-15T11:36:21Z",
-            "owner": "Neopallium",
-            "repo": "llvm-lua",
-            "stars": 161
-          }
-        },
-        {
-          "node_type": "group",
-          "title": "Lua",
-          "description": "Lua's original ANSI C interpreter.",
           "children": [
             {
               "node_type": "item",
-              "title": "Lua Repo",
-              "description": "The official Lua repo, as seen by the Lua team, mirrored to GitHub.",
+              "title": "GopherLua",
+              "description": "Lua 5.1 VM and compiler implemented in Go with Go APIs.",
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 30828052,
+                "language": "Go",
+                "last_commit": "2026-04-01T00:54:16Z",
+                "owner": "yuin",
+                "repo": "gopher-lua",
+                "stars": 6964
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "LuaBridge",
+              "description": "A lightweight library for mapping data, functions, and classes back and forth between C++ and Lua.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 3977188,
                 "language": "C",
-                "last_commit": "2026-08-07T19:00:03Z",
-                "owner": "lua",
-                "repo": "lua",
-                "stars": 10236
+                "last_commit": "2025-10-13T13:15:40Z",
+                "owner": "vinniefalco",
+                "repo": "LuaBridge",
+                "stars": 1779
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "MoonSharp",
+              "description": "A Lua interpreter written entirely in C# for the .NET, Mono and Unity platforms.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 20139055,
+                "language": "C#",
+                "last_commit": "2026-08-04T06:45:45Z",
+                "owner": "moonsharp-devs",
+                "repo": "moonsharp",
+                "stars": 1612
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "lupa",
+              "description": "Python bindings to LuaJIT2.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1347652,
+                "language": "Python",
+                "last_commit": "2026-07-17T11:48:50Z",
+                "owner": "scoder",
+                "repo": "lupa",
+                "stars": 1150
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "UniLua",
+              "description": "A pure C# implementation of Lua 5.2, focused on compatibility with the Unity game engine.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 7815646,
+                "language": "C#",
+                "last_commit": "2024-06-22T03:11:53Z",
+                "owner": "xebecnan",
+                "repo": "UniLua",
+                "stars": 1121
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "lua.vm.js",
+              "description": "Lua VM on the web; a direct port of the C interpreter via LLVM, emscripten, and asm.js.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 10158801,
+                "language": "C",
+                "last_commit": "2018-07-27T08:18:28Z",
+                "owner": "daurnimator",
+                "repo": "lua.vm.js",
+                "stars": 840
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "golua",
+              "description": "Golang bindings to the Lua C API.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1144572,
+                "language": "C",
+                "last_commit": "2025-02-17T09:14:09Z",
+                "owner": "aarzilli",
+                "repo": "golua",
+                "stars": 699
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Moonshine",
+              "description": "A Lua VM implemented in JavaScript. Slower than lua.vm.js, but with better docs, examples, and JS interfacing.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 10099250,
+                "language": "Lua",
+                "last_commit": "2021-05-28T11:48:04Z",
+                "owner": "gamesys",
+                "repo": "moonshine",
+                "stars": 507
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "LLVM-Lua",
+              "description": "Compiles Lua to LLVM.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 49715372,
+                "language": "C",
+                "last_commit": "2016-01-15T11:36:21Z",
+                "owner": "Neopallium",
+                "repo": "llvm-lua",
+                "stars": 161
+              }
+            },
+            {
+              "node_type": "group",
+              "title": "Lua",
+              "description": "Lua's original ANSI C interpreter.",
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Lua Repo",
+                  "description": "The official Lua repo, as seen by the Lua team, mirrored to GitHub.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 5805256,
+                    "language": "C",
+                    "last_commit": "2026-08-07T19:00:03Z",
+                    "owner": "lua",
+                    "repo": "lua",
+                    "stars": 10241
+                  }
+                }
+              ]
+            }
+          ],
+          "description": "Note: From LuaJIT to Lua to lua.vm.js to Moonshine, a basic benchmark sees performance drop by roughly a factor of 6 with each hop.",
+          "node_type": "group",
+          "title": "Implementations, Interpreters, and Bindings"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "luastatic",
+              "description": "Simple tool for turning Lua programs into standalone executables.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 44882134,
+                "language": "Lua",
+                "last_commit": "2023-10-28T13:25:11Z",
+                "owner": "ers35",
+                "repo": "luastatic",
+                "stars": 875
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Lake",
+              "description": "A build engine written in Lua, similar to Ruby's rake.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 979128,
+                "language": "Lua",
+                "last_commit": "2015-09-24T18:52:23Z",
+                "owner": "stevedonovan",
+                "repo": "Lake",
+                "stars": 143
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Luabuild",
+              "description": "Highly customizable Lua 5.2 build system.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 4040245,
+                "language": "C",
+                "last_commit": "2015-12-21T09:57:18Z",
+                "owner": "stevedonovan",
+                "repo": "luabuild",
+                "stars": 81
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "omnia",
+              "description": "A batteries-included creator of standalone executables, built on top of luastatic.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 33995031,
+                "language": "C",
+                "last_commit": "2020-11-05T01:13:06Z",
+                "owner": "tongson",
+                "repo": "omnia",
+                "stars": 47
               }
             }
-          ]
-        }
-      ],
-      "title": "Implementations, Interpreters, and Bindings"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "luastatic",
-          "description": "Simple tool for turning Lua programs into standalone executables.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Lua",
-            "last_commit": "2023-10-28T13:25:11Z",
-            "owner": "ers35",
-            "repo": "luastatic",
-            "stars": 875
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Lake",
-          "description": "A build engine written in Lua, similar to Ruby's rake.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Lua",
-            "last_commit": "2015-09-24T18:52:23Z",
-            "owner": "stevedonovan",
-            "repo": "Lake",
-            "stars": 143
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Luabuild",
-          "description": "Highly customizable Lua 5.2 build system.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2015-12-21T09:57:18Z",
-            "owner": "stevedonovan",
-            "repo": "luabuild",
-            "stars": 81
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "omnia",
-          "description": "A batteries-included creator of standalone executables, built on top of luastatic.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "C",
-            "last_commit": "2020-11-05T01:13:06Z",
-            "owner": "tongson",
-            "repo": "omnia",
-            "stars": 47
-          }
-        }
-      ],
-      "title": "Build Tools and Standalone Makers"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "MobDebug",
-          "description": "Powerful remote debugger with breakpoints and stack inspection. Used by ZeroBraneStudio.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Lua",
-            "last_commit": "2023-10-17T23:53:21Z",
-            "owner": "pkulchenko",
-            "repo": "MobDebug",
-            "stars": 947
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "lovebird",
-          "description": "Browser-based debug console. Originally made for LÖVE, but works in any project with LuaSocket support.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Lua",
-            "last_commit": "2021-05-08T07:48:32Z",
-            "owner": "rxi",
-            "repo": "lovebird",
-            "stars": 329
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "StackTracePlus",
-          "description": "Drop-in upgrade to Lua's stack traces which adds local context and improves readability.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Lua",
-            "last_commit": "2023-07-24T00:50:55Z",
-            "owner": "ignacio",
-            "repo": "StackTracePlus",
-            "stars": 200
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "luatrace",
-          "description": "Toolset for tracing/analyzing/profiling script execution and generating detailed reports.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Lua",
-            "last_commit": "2015-11-30T05:31:34Z",
-            "owner": "geoffleyland",
-            "repo": "luatrace",
-            "stars": 179
-          }
-        }
-      ],
-      "title": "Debugging and Profiling"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "lua-mode",
-          "description": "Emacs major mode for editing Lua.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Emacs Lisp",
-            "last_commit": "2025-03-10T11:50:56Z",
-            "owner": "immerrr",
-            "repo": "lua-mode",
-            "stars": 344
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "vscode-lua",
-          "description": "VSCode intellisense and linting.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2024-03-21T02:01:46Z",
-            "owner": "trixnz",
-            "repo": "vscode-lua",
-            "stars": 123
-          }
-        }
-      ],
-      "title": "IDEs and Plugins"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Lua Fun",
-          "description": "High-performance functional programming library designed for LuaJIT.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Lua",
-            "last_commit": "2025-04-15T14:55:30Z",
-            "owner": "luafun",
-            "repo": "luafun",
-            "stars": 2260
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Penlight",
-          "description": "Broad, heavyweight utility library, inspired by Python's standard libs. Provides the batteries that Lua doesn't.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Lua",
-            "last_commit": "2026-08-15T09:13:03Z",
-            "owner": "lunarmodules",
-            "repo": "Penlight",
-            "stars": 2123
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Moses",
-          "description": "Functional programming utility belt, inspired by Underscore.js.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Lua",
-            "last_commit": "2019-12-18T02:39:18Z",
-            "owner": "Yonaba",
-            "repo": "Moses",
-            "stars": 655
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "RxLua",
-          "description": "Reactive Extensions, Observables, etc.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Lua",
-            "last_commit": "2020-06-21T03:32:15Z",
-            "owner": "bjornbytes",
-            "repo": "RxLua",
-            "stars": 538
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "lua-stdlib",
-          "description": "Middle-weight standard library extension; adds some useful data structures, utility functions, and basic functional stuff.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Lua",
-            "last_commit": "2026-07-26T18:16:30Z",
-            "owner": "lua-stdlib",
-            "repo": "lua-stdlib",
-            "stars": 305
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Microlight",
-          "description": "A little library of useful Lua functions; the 'extra light' version of Penlight.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Lua",
-            "last_commit": "2022-07-05T07:10:00Z",
-            "owner": "stevedonovan",
-            "repo": "Microlight",
-            "stars": 190
-          }
-        }
-      ],
-      "title": "Utility Belts"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "lume",
-          "description": "Utility belt library geared toward game development.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Lua",
-            "last_commit": "2023-11-19T23:59:15Z",
-            "owner": "rxi",
-            "repo": "lume",
-            "stars": 1238
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Jumper",
-          "description": "Fast, lightweight, and easy-to-use pathfinding library for grid-based games.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Lua",
-            "last_commit": "2022-10-21T09:02:33Z",
-            "owner": "Yonaba",
-            "repo": "Jumper",
-            "stars": 649
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "NoobHub",
-          "description": "Network multiplayer for Corona, LÖVE, and more, following a simple pub-sub model.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Lua",
-            "last_commit": "2026-06-22T15:19:55Z",
-            "owner": "Overtorment",
-            "repo": "NoobHub",
-            "stars": 356
-          }
-        },
-        {
-          "node_type": "group",
-          "title": "LÖVE",
+          ],
           "description": null,
+          "node_type": "group",
+          "title": "Build Tools and Standalone Makers"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "MobDebug",
+              "description": "Powerful remote debugger with breakpoints and stack inspection. Used by ZeroBraneStudio.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 2907940,
+                "language": "Lua",
+                "last_commit": "2023-10-17T23:53:21Z",
+                "owner": "pkulchenko",
+                "repo": "MobDebug",
+                "stars": 947
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "lovebird",
+              "description": "Browser-based debug console. Originally made for LÖVE, but works in any project with LuaSocket support.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 18712087,
+                "language": "Lua",
+                "last_commit": "2021-05-08T07:48:32Z",
+                "owner": "rxi",
+                "repo": "lovebird",
+                "stars": 329
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "StackTracePlus",
+              "description": "Drop-in upgrade to Lua's stack traces which adds local context and improves readability.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1051851,
+                "language": "Lua",
+                "last_commit": "2023-07-24T00:50:55Z",
+                "owner": "ignacio",
+                "repo": "StackTracePlus",
+                "stars": 200
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "luatrace",
+              "description": "Toolset for tracing/analyzing/profiling script execution and generating detailed reports.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1548768,
+                "language": "Lua",
+                "last_commit": "2015-11-30T05:31:34Z",
+                "owner": "geoffleyland",
+                "repo": "luatrace",
+                "stars": 179
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Debugging and Profiling"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "lua-mode",
+              "description": "Emacs major mode for editing Lua.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1418662,
+                "language": "Emacs Lisp",
+                "last_commit": "2025-03-10T11:50:56Z",
+                "owner": "immerrr",
+                "repo": "lua-mode",
+                "stars": 344
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "vscode-lua",
+              "description": "VSCode intellisense and linting.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 81980564,
+                "language": "TypeScript",
+                "last_commit": "2024-03-21T02:01:46Z",
+                "owner": "trixnz",
+                "repo": "vscode-lua",
+                "stars": 123
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "IDEs and Plugins"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Lua Fun",
+              "description": "High-performance functional programming library designed for LuaJIT.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 14534744,
+                "language": "Lua",
+                "last_commit": "2025-04-15T14:55:30Z",
+                "owner": "luafun",
+                "repo": "luafun",
+                "stars": 2260
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Penlight",
+              "description": "Broad, heavyweight utility library, inspired by Python's standard libs. Provides the batteries that Lua doesn't.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 553803,
+                "language": "Lua",
+                "last_commit": "2026-08-15T09:13:03Z",
+                "owner": "lunarmodules",
+                "repo": "Penlight",
+                "stars": 2124
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Moses",
+              "description": "Functional programming utility belt, inspired by Underscore.js.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 5163180,
+                "language": "Lua",
+                "last_commit": "2019-12-18T02:39:18Z",
+                "owner": "Yonaba",
+                "repo": "Moses",
+                "stars": 655
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "RxLua",
+              "description": "Reactive Extensions, Observables, etc.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 39123279,
+                "language": "Lua",
+                "last_commit": "2020-06-21T03:32:15Z",
+                "owner": "bjornbytes",
+                "repo": "RxLua",
+                "stars": 538
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "lua-stdlib",
+              "description": "Middle-weight standard library extension; adds some useful data structures, utility functions, and basic functional stuff.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 973697,
+                "language": "Lua",
+                "last_commit": "2026-07-26T18:16:30Z",
+                "owner": "lua-stdlib",
+                "repo": "lua-stdlib",
+                "stars": 305
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Microlight",
+              "description": "A little library of useful Lua functions; the 'extra light' version of Penlight.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 3469283,
+                "language": "Lua",
+                "last_commit": "2022-07-05T07:10:00Z",
+                "owner": "stevedonovan",
+                "repo": "Microlight",
+                "stars": 190
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Utility Belts"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "lume",
+              "description": "Utility belt library geared toward game development.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 17262930,
+                "language": "Lua",
+                "last_commit": "2023-11-19T23:59:15Z",
+                "owner": "rxi",
+                "repo": "lume",
+                "stars": 1238
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Jumper",
+              "description": "Fast, lightweight, and easy-to-use pathfinding library for grid-based games.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 6157826,
+                "language": "Lua",
+                "last_commit": "2022-10-21T09:02:33Z",
+                "owner": "Yonaba",
+                "repo": "Jumper",
+                "stars": 649
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "NoobHub",
+              "description": "Network multiplayer for Corona, LÖVE, and more, following a simple pub-sub model.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 5294729,
+                "language": "Lua",
+                "last_commit": "2026-06-22T15:19:55Z",
+                "owner": "Overtorment",
+                "repo": "NoobHub",
+                "stars": 356
+              }
+            },
+            {
+              "node_type": "group",
+              "title": "LÖVE",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "awesome-love2d",
+                  "description": "A list like this one, but focused on game dev and the LÖVE platform.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 42526631,
+                    "language": "PowerShell",
+                    "last_commit": "2026-06-18T20:27:08Z",
+                    "owner": "love2d-community",
+                    "repo": "awesome-love2d",
+                    "stars": 4469
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "lurker",
+                  "description": "Shortens the iteration cycle by auto-swapping changed Lua files in a running LÖVE project.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 17454896,
+                    "language": "Lua",
+                    "last_commit": "2023-07-22T23:29:56Z",
+                    "owner": "rxi",
+                    "repo": "lurker",
+                    "stars": 377
+                  }
+                }
+              ]
+            },
+            {
+              "node_type": "group",
+              "title": "Collision detection",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "bump.lua",
+                  "description": "Minimal rectangle-based collision detection which handles tunnelling and basic collision resolution.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 4465215,
+                    "language": "Lua",
+                    "last_commit": "2023-09-29T16:28:50Z",
+                    "owner": "kikito",
+                    "repo": "bump.lua",
+                    "stars": 1098
+                  }
+                }
+              ]
+            },
+            {
+              "node_type": "group",
+              "title": "Tweening",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "tween.lua",
+                  "description": "Small library for tweening, with several easing functions.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 1662036,
+                    "language": "Lua",
+                    "last_commit": "2023-02-02T00:13:15Z",
+                    "owner": "kikito",
+                    "repo": "tween.lua",
+                    "stars": 664
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "flux",
+                  "description": "A fast, lightweight tweening library for Lua with easing functions and the ability to group tweens together.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 19047468,
+                    "language": "Lua",
+                    "last_commit": "2020-12-16T13:21:47Z",
+                    "owner": "rxi",
+                    "repo": "flux",
+                    "stars": 486
+                  }
+                }
+              ]
+            },
+            {
+              "node_type": "group",
+              "title": "Examples",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Journey to the Center of Hawkthorne",
+                  "description": "2D platformer based on Community's Digital Estate Planning episode, made with LÖVE.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 4383030,
+                    "language": "Lua",
+                    "last_commit": "2024-11-26T22:24:01Z",
+                    "owner": "hawkthorne",
+                    "repo": "hawkthorne-journey",
+                    "stars": 1150
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Mari0",
+                  "description": "Fusion of Mario and Portal, made with LÖVE. See also its wikipedia entry.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 3682103,
+                    "language": "Lua",
+                    "last_commit": "2023-09-15T02:33:44Z",
+                    "owner": "Stabyourself",
+                    "repo": "mari0",
+                    "stars": 769
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "termtris",
+                  "description": "A tetris clone, written in literate style with \"an emphasis on learn-from-ability\".",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 24363582,
+                    "language": "Lua",
+                    "last_commit": "2019-12-09T23:45:55Z",
+                    "owner": "tylerneylon",
+                    "repo": "termtris",
+                    "stars": 463
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "PacPac",
+                  "description": "A Pac-man clone, made with LÖVE.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 8770121,
+                    "language": "Lua",
+                    "last_commit": "2015-06-18T21:32:21Z",
+                    "owner": "tylerneylon",
+                    "repo": "pacpac",
+                    "stars": 353
+                  }
+                }
+              ]
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Game Development"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "LuaLogging",
+              "description": "Log4j-inspired logging library supporting various appenders.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 1317738,
+                "language": "Lua",
+                "last_commit": "2021-04-30T11:58:02Z",
+                "owner": "Neopallium",
+                "repo": "lualogging",
+                "stars": 145
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "lua-log",
+              "description": "Asynchronous logging library with pluggable writers for file system, network, ZeroMQ, and more.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 5510793,
+                "language": "Lua",
+                "last_commit": "2018-09-19T21:15:01Z",
+                "owner": "moteus",
+                "repo": "lua-log",
+                "stars": 114
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Logging"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "awesome-resty",
+              "description": "A list like this one, but focused on OpenResty.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 30886767,
+                "language": null,
+                "last_commit": "2026-05-26T11:49:23Z",
+                "owner": "bungle",
+                "repo": "awesome-resty",
+                "stars": 2482
+              }
+            },
+            {
+              "node_type": "group",
+              "title": "Third-party modules",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "lua-resty-http",
+                  "description": "Lua HTTP client driver, built on the cosocket API.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 13468660,
+                    "language": "Lua",
+                    "last_commit": "2026-08-11T08:14:16Z",
+                    "owner": "ledgetech",
+                    "repo": "lua-resty-http",
+                    "stars": 2079
+                  }
+                }
+              ]
+            },
+            {
+              "node_type": "group",
+              "title": "Frameworks & tools",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Kong",
+                  "description": "Microservice & API Management Layer.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 26783295,
+                    "language": "Lua",
+                    "last_commit": "2026-08-16T14:44:43Z",
+                    "owner": "Kong",
+                    "repo": "kong",
+                    "stars": 44002
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Sailor",
+                  "description": "An MVC web framework compatible with OpenResty, Apache and other webservers.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 15582132,
+                    "language": "Lua",
+                    "last_commit": "2022-10-28T09:53:01Z",
+                    "owner": "sailorproject",
+                    "repo": "sailor",
+                    "stars": 935
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "ledge",
+                  "description": "Lua module providing scriptable, RFC-compliant HTTP cache functionality.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 1975130,
+                    "language": "Lua",
+                    "last_commit": "2021-05-07T08:33:05Z",
+                    "owner": "ledgetech",
+                    "repo": "ledge",
+                    "stars": 458
+                  }
+                }
+              ]
+            }
+          ],
+          "description": "Search this page for 'OpenResty' to find related packages under other categories (data stores in particular).",
+          "node_type": "group",
+          "title": "OpenResty"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "argparse",
+              "description": "A feature-rich command line parser inspired by argparse for Python.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 15529305,
+                "language": "Lua",
+                "last_commit": "2020-11-25T07:19:23Z",
+                "owner": "mpeterv",
+                "repo": "argparse",
+                "stars": 290
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "lua-term",
+              "description": "Terminal operations and manipulations.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 4787404,
+                "language": "Lua",
+                "last_commit": "2024-08-24T16:16:45Z",
+                "owner": "hoelzro",
+                "repo": "lua-term",
+                "stars": 175
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ansicolors",
+              "description": "Simple function for printing to the console in color.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1738730,
+                "language": "Lua",
+                "last_commit": "2024-05-25T22:38:45Z",
+                "owner": "kikito",
+                "repo": "ansicolors.lua",
+                "stars": 155
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "cliargs",
+              "description": "A simple command-line argument parsing module.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 4819811,
+                "language": "Lua",
+                "last_commit": "2026-08-15T09:12:32Z",
+                "owner": "lunarmodules",
+                "repo": "lua_cliargs",
+                "stars": 128
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Command-line Utilities"
+        },
+        {
+          "children": [
+            {
+              "node_type": "group",
+              "title": "Coroutine-based multitasking:",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "ConcurrentLua",
+                  "description": "Implements an Erlang-style message-passing concurrency model.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 1417970,
+                    "language": "Lua",
+                    "last_commit": "2014-11-22T19:07:56Z",
+                    "owner": "lefcha",
+                    "repo": "concurrentlua",
+                    "stars": 162
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Lumen",
+                  "description": "Simple concurrent task scheduling.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 3139480,
+                    "language": "Lua",
+                    "last_commit": "2025-10-27T17:33:38Z",
+                    "owner": "xopxe",
+                    "repo": "lumen",
+                    "stars": 161
+                  }
+                }
+              ]
+            },
+            {
+              "node_type": "group",
+              "title": "Multithreading:",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "lanes",
+                  "description": "Library implementing a message passing model with one OS thread per Lua thread.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 1257578,
+                    "language": "C++",
+                    "last_commit": "2026-03-12T10:21:59Z",
+                    "owner": "LuaLanes",
+                    "repo": "lanes",
+                    "stars": 538
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "llthreads",
+                  "description": "A simple wrapper for low-level pthreads & WIN32 threads.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 1520060,
+                    "language": "C",
+                    "last_commit": "2024-10-02T10:05:59Z",
+                    "owner": "Neopallium",
+                    "repo": "lua-llthreads",
+                    "stars": 150
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "luaproc",
+                  "description": "Message-passing model which allows multiple threads per OS thread and easily generalizes across a network. See also the paper where it originated.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 825029,
+                    "language": "C",
+                    "last_commit": "2017-07-29T16:02:06Z",
+                    "owner": "askyrme",
+                    "repo": "luaproc",
+                    "stars": 130
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "llthreads2",
+                  "description": "Newer rewrite of llthreads.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 15448386,
+                    "language": "Lua",
+                    "last_commit": "2023-10-16T20:55:18Z",
+                    "owner": "moteus",
+                    "repo": "lua-llthreads2",
+                    "stars": 80
+                  }
+                }
+              ]
+            }
+          ],
+          "description": "For more on the differences (particularly between and ), see this comparison of options; somewhat dated, but covers how each one works and the significant differences.",
+          "node_type": "group",
+          "title": "Concurrency and Multithreading"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "lua-resty-template",
+              "description": "Lua-oriented template engine for OpenResty, somewhat Jinja-like.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 17054544,
+                "language": "Lua",
+                "last_commit": "2023-07-21T13:39:41Z",
+                "owner": "bungle",
+                "repo": "lua-resty-template",
+                "stars": 923
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "etlua",
+              "description": "Embedded Lua templates, ERB-style.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 13854020,
+                "language": "Lua",
+                "last_commit": "2023-10-02T15:30:26Z",
+                "owner": "leafo",
+                "repo": "etlua",
+                "stars": 258
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Templating"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "middleclass",
+              "description": "Simple but robust OOP library with inheritance, methods, metamethods, class variables and mixins.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 622403,
+                "language": "Lua",
+                "last_commit": "2025-11-03T12:54:01Z",
+                "owner": "kikito",
+                "repo": "middleclass",
+                "stars": 1918
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "30log",
+              "description": "Minimalist OOP library with basic classes, inheritance, and mixins in 30 lines.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 5544368,
+                "language": "Lua",
+                "last_commit": "2021-05-08T02:47:43Z",
+                "owner": "Yonaba",
+                "repo": "30log",
+                "stars": 484
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Object-oriented Programming"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "luaposix",
+              "description": "Bindings for POSIX APIs, including curses.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1523340,
+                "language": "C",
+                "last_commit": "2026-07-20T03:54:44Z",
+                "owner": "luaposix",
+                "repo": "luaposix",
+                "stars": 590
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "lua-path",
+              "description": "File system path manipulation library.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 8534297,
+                "language": "Lua",
+                "last_commit": "2021-01-07T13:28:11Z",
+                "owner": "moteus",
+                "repo": "lua-path",
+                "stars": 90
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "File system and OS"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "LuaDate",
+              "description": "Date and time module with parsing, formatting, addition/subtraction, localization, and ISO 8601 support.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 9855766,
+                "language": "Lua",
+                "last_commit": "2026-02-17T21:38:31Z",
+                "owner": "Tieske",
+                "repo": "date",
+                "stars": 275
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "cron.lua",
+              "description": "Time-related functions for Lua, inspired by JavaScript's setTimeout and setInterval.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1656444,
+                "language": "Lua",
+                "last_commit": "2023-09-10T17:30:10Z",
+                "owner": "kikito",
+                "repo": "cron.lua",
+                "stars": 188
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "luatx",
+              "description": "Time, date, and timezone library.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 11378555,
+                "language": "Lua",
+                "last_commit": "2025-10-19T22:47:57Z",
+                "owner": "daurnimator",
+                "repo": "luatz",
+                "stars": 140
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Time and Date"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "lua-pb",
+              "description": "Protocol Buffers implementation.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1909263,
+                "language": "Lua",
+                "last_commit": "2018-05-31T14:59:37Z",
+                "owner": "Neopallium",
+                "repo": "lua-pb",
+                "stars": 293
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "lyaml",
+              "description": "YAML encoding/decoding via binding to LibYAML.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 8834157,
+                "language": "Lua",
+                "last_commit": "2026-07-25T18:45:14Z",
+                "owner": "gvvaughan",
+                "repo": "lyaml",
+                "stars": 228
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "lunamark",
+              "description": "Converts Markdown to other textual formats including HTML and LaTeX. Uses LPeg for fast parsing.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 304099,
+                "language": "C",
+                "last_commit": "2024-08-10T09:22:43Z",
+                "owner": "jgm",
+                "repo": "lunamark",
+                "stars": 220
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "LXSH",
+              "description": "A collection of lexers and syntax highlighters written with LPeg.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1251868,
+                "language": "Lua",
+                "last_commit": "2022-11-07T07:35:36Z",
+                "owner": "xolox",
+                "repo": "lua-lxsh",
+                "stars": 76
+              }
+            },
+            {
+              "node_type": "group",
+              "title": "JSON",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "json.lua",
+                  "description": "A fast and tiny JSON library in pure Lua.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 40619562,
+                    "language": "Lua",
+                    "last_commit": "2023-11-28T04:38:13Z",
+                    "owner": "rxi",
+                    "repo": "json.lua",
+                    "stars": 2183
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "lua-cjson",
+                  "description": "Blazing fast JSON encoding/decoding implemented in C and exposed to Lua.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 3617004,
+                    "language": "C",
+                    "last_commit": "2024-06-19T06:50:25Z",
+                    "owner": "mpx",
+                    "repo": "lua-cjson",
+                    "stars": 997
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "luajson",
+                  "description": "JSON encoder/decoder implemented in Lua on top of LPeg.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 56627,
+                    "language": "Lua",
+                    "last_commit": "2026-05-26T01:29:11Z",
+                    "owner": "harningt",
+                    "repo": "luajson",
+                    "stars": 257
+                  }
+                }
+              ]
+            },
+            {
+              "node_type": "group",
+              "title": "XML",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "SLAXML",
+                  "description": "Pure Lua SAX-like streaming XML parser.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 8074409,
+                    "language": "Lua",
+                    "last_commit": "2024-07-12T09:37:53Z",
+                    "owner": "Phrogz",
+                    "repo": "SLAXML",
+                    "stars": 165
+                  }
+                }
+              ]
+            },
+            {
+              "node_type": "group",
+              "title": "MessagePack",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "lua-cmsgpack",
+                  "description": "A MessagePack C implementation with Lua bindings, as used by Redis.=",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 3486465,
+                    "language": "C",
+                    "last_commit": "2021-12-28T19:18:31Z",
+                    "owner": "antirez",
+                    "repo": "lua-cmsgpack",
+                    "stars": 383
+                  }
+                }
+              ]
+            },
+            {
+              "node_type": "group",
+              "title": "LPeg",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "LuLPeg",
+                  "description": "A pure Lua implementation of LPeg v0.12.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 10596939,
+                    "language": "Lua",
+                    "last_commit": "2022-04-07T12:07:23Z",
+                    "owner": "pygy",
+                    "repo": "LuLPeg",
+                    "stars": 272
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "LPegLabel",
+                  "description": "An extension of LPeg adding support for labeled failures.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 25941396,
+                    "language": "C",
+                    "last_commit": "2023-05-02T17:27:51Z",
+                    "owner": "sqmedeiros",
+                    "repo": "lpeglabel",
+                    "stars": 151
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "lpeg_patterns",
+                  "description": "A collection of LPeg patterns.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 30002176,
+                    "language": "Lua",
+                    "last_commit": "2022-05-23T14:28:11Z",
+                    "owner": "daurnimator",
+                    "repo": "lpeg_patterns",
+                    "stars": 129
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "LPegLJ",
+                  "description": "A pure LuaJIT implementation of LPeg v1.0.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 10690602,
+                    "language": "Lua",
+                    "last_commit": "2022-05-09T09:55:51Z",
+                    "owner": "sacek",
+                    "repo": "LPegLJ",
+                    "stars": 115
+                  }
+                }
+              ]
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Parsing and Serialization"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "inspect.lua",
+              "description": "Human-readable representation of Lua tables.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1642940,
+                "language": "Lua",
+                "last_commit": "2026-01-05T16:28:00Z",
+                "owner": "kikito",
+                "repo": "inspect.lua",
+                "stars": 1537
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "serpent",
+              "description": "Serializer and pretty printer.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 4527238,
+                "language": "Lua",
+                "last_commit": "2022-05-21T18:47:41Z",
+                "owner": "pkulchenko",
+                "repo": "serpent",
+                "stars": 621
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "i18n.lua",
+              "description": "Internationalization library with locales, formatting, and pluralization.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 6116560,
+                "language": "Lua",
+                "last_commit": "2022-11-10T07:03:52Z",
+                "owner": "kikito",
+                "repo": "i18n.lua",
+                "stars": 271
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Ser",
+              "description": "Dead simple serializer with good performance.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 14088487,
+                "language": "Lua",
+                "last_commit": "2016-05-19T23:03:02Z",
+                "owner": "gvx",
+                "repo": "Ser",
+                "stars": 85
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "say",
+              "description": "Simple string key-value store for i18n.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 5501959,
+                "language": "Lua",
+                "last_commit": "2026-08-15T09:18:59Z",
+                "owner": "lunarmodules",
+                "repo": "say",
+                "stars": 51
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Humanize"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "lua-zlib",
+              "description": "Simple streaming interface to zlib for gzip/gunzip.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 204393,
+                "language": "C",
+                "last_commit": "2026-01-04T00:28:06Z",
+                "owner": "brimworks",
+                "repo": "lua-zlib",
+                "stars": 288
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "lua-zip",
+              "description": "Lua binding to libzip. Reads and writes zip files.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1311215,
+                "language": "C",
+                "last_commit": "2022-02-03T12:37:47Z",
+                "owner": "brimworks",
+                "repo": "lua-zip",
+                "stars": 88
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Compression"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "lua-lockbox",
+              "description": "A collection of cryptographic primitives written in pure Lua.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 29778796,
+                "language": "Lua",
+                "last_commit": "2024-01-27T15:55:11Z",
+                "owner": "somesocks",
+                "repo": "lua-lockbox",
+                "stars": 378
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "luaossl",
+              "description": "\"Most comprehensive OpenSSL module in the Lua universe\" - used by lapis, kong, and lua-http.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 15096032,
+                "language": "C",
+                "last_commit": "2026-07-27T10:08:59Z",
+                "owner": "wahern",
+                "repo": "luaossl",
+                "stars": 161
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "LuaCrypto",
+              "description": "Lua bindings to OpenSSL.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 612604,
+                "language": "Shell",
+                "last_commit": "2019-06-25T09:07:30Z",
+                "owner": "mkottman",
+                "repo": "luacrypto",
+                "stars": 104
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "luatweetnacl",
+              "description": "Bindings to tweetnacl, modern high-security cryptographic library.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 66732386,
+                "language": "C",
+                "last_commit": "2021-11-18T00:56:37Z",
+                "owner": "philanc",
+                "repo": "luatweetnacl",
+                "stars": 18
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Cryptography"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "LuaSocket",
+              "description": "Networking extension which provides a socket API for TCP and UDP, and implements HTTP, FTP, and SMTP.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 4002075,
+                "language": "HTML",
+                "last_commit": "2026-08-17T05:39:55Z",
+                "owner": "lunarmodules",
+                "repo": "luasocket",
+                "stars": 2021
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "lua-http",
+              "description": "Asynchronous HTTP and WebSocket library with client and server APIs, TLS, and HTTP/2; based on cqueues.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 29999057,
+                "language": "Lua",
+                "last_commit": "2024-09-08T14:17:59Z",
+                "owner": "daurnimator",
+                "repo": "lua-http",
+                "stars": 874
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "lua-websockets",
+              "description": "WebSocket client and server modules. Webserver-agnostic, implemented in Lua on top of LuaSocket.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 3523733,
+                "language": "Lua",
+                "last_commit": "2026-07-29T14:33:10Z",
+                "owner": "lipp",
+                "repo": "lua-websockets",
+                "stars": 418
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "lua-cURLv3",
+              "description": "Lua binding to libcurl.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 23307884,
+                "language": "C",
+                "last_commit": "2023-07-03T06:20:14Z",
+                "owner": "Lua-cURL",
+                "repo": "Lua-cURLv3",
+                "stars": 294
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Network"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "lua-resty-mysql",
+              "description": "Lua MySQL driver for OpenResty.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 3420775,
+                "language": "Lua",
+                "last_commit": "2026-06-20T14:42:27Z",
+                "owner": "openresty",
+                "repo": "lua-resty-mysql",
+                "stars": 726
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "pgmoon",
+              "description": "Lua PostgreSQL driver for OpenResty, LuaSocket, and cqueues.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 19365171,
+                "language": "MoonScript",
+                "last_commit": "2026-08-11T14:59:08Z",
+                "owner": "leafo",
+                "repo": "pgmoon",
+                "stars": 432
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "lua-resty-cassandra",
+              "description": "Lua Cassandra client driver for OpenResty and others.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 21579476,
+                "language": "Lua",
+                "last_commit": "2017-06-09T18:40:44Z",
+                "owner": "jbochi",
+                "repo": "lua-resty-cassandra",
+                "stars": 68
+              }
+            },
+            {
+              "node_type": "group",
+              "title": "Redis",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "lua-resty-redis",
+                  "description": "Lua Redis client driver for OpenResty.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 3366743,
+                    "language": "Lua",
+                    "last_commit": "2026-07-17T08:23:46Z",
+                    "owner": "openresty",
+                    "repo": "lua-resty-redis",
+                    "stars": 1956
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "redis-lua",
+                  "description": "Pure Lua client library for Redis.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 158382,
+                    "language": "Lua",
+                    "last_commit": "2023-11-06T14:23:02Z",
+                    "owner": "nrk",
+                    "repo": "redis-lua",
+                    "stars": 746
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "lredis",
+                  "description": "Asynchronous Redis client with pipelining and Pub/Sub support; based on cqueues.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 42848386,
+                    "language": "Lua",
+                    "last_commit": "2021-02-15T09:42:56Z",
+                    "owner": "daurnimator",
+                    "repo": "lredis",
+                    "stars": 42
+                  }
+                }
+              ]
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Data Stores"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "lua-resty-kafka",
+              "description": "Kafka client driver based on OpenResty cosockets.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 24495769,
+                "language": "Lua",
+                "last_commit": "2023-11-03T14:50:51Z",
+                "owner": "doujiang24",
+                "repo": "lua-resty-kafka",
+                "stars": 814
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "lua-resty-rabbitmqstomp",
+              "description": "RabbitMQ client library based on OpenResty cosockets.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 10382805,
+                "language": "Lua",
+                "last_commit": "2020-04-27T11:18:21Z",
+                "owner": "wingify",
+                "repo": "lua-resty-rabbitmqstomp",
+                "stars": 194
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "lua-zmq",
+              "description": "Lua bindings to ZeroMQ.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1180884,
+                "language": "C",
+                "last_commit": "2024-10-03T10:15:43Z",
+                "owner": "Neopallium",
+                "repo": "lua-zmq",
+                "stars": 158
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "lzmq",
+              "description": "A newer Lua binding to ZeroMQ.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 5398158,
+                "language": "Lua",
+                "last_commit": "2020-07-20T18:34:06Z",
+                "owner": "zeromq",
+                "repo": "lzmq",
+                "stars": 145
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Message Brokers"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "luassert",
+              "description": "Assertion library extending Lua's built-in assertions.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 5502005,
+                "language": "Lua",
+                "last_commit": "2026-08-15T09:10:03Z",
+                "owner": "lunarmodules",
+                "repo": "luassert",
+                "stars": 249
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "telescope",
+              "description": "Flexible and highly customizable testing library.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 286495,
+                "language": "Lua",
+                "last_commit": "2017-08-05T18:32:37Z",
+                "owner": "norman",
+                "repo": "telescope",
+                "stars": 164
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "lust",
+              "description": "Minimal test framework.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 28700502,
+                "language": "Lua",
+                "last_commit": "2026-07-17T04:40:12Z",
+                "owner": "bjornbytes",
+                "repo": "lust",
+                "stars": 134
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Testing"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "luacheck",
+              "description": "Simple static analyzer which detects accidental globals and undefined or shadowed locals.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 17594341,
+                "language": "Lua",
+                "last_commit": "2022-12-18T19:53:23Z",
+                "owner": "mpeterv",
+                "repo": "luacheck",
+                "stars": 2047
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Typed Lua",
+              "description": "A typed superset of Lua that compiles to plain Lua.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 10320933,
+                "language": "Lua",
+                "last_commit": "2020-03-11T21:54:53Z",
+                "owner": "andremm",
+                "repo": "typedlua",
+                "stars": 589
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Metalua",
+              "description": "Pure Lua parser and compiler, used for generating ASTs. A number of other tools make use of the Metalua parser in this way.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 83639,
+                "language": "Lua",
+                "last_commit": "2024-01-16T11:00:29Z",
+                "owner": "fab13n",
+                "repo": "metalua",
+                "stars": 369
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "luadec51",
+              "description": "Lua Decompiler for Lua version 5.1.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 4352506,
+                "language": "C",
+                "last_commit": "2022-03-14T09:24:38Z",
+                "owner": "sztupy",
+                "repo": "luadec51",
+                "stars": 357
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "LuaMinify",
+              "description": "Minifier which also brings its own static analysis tools, lexer, and parser.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 5918468,
+                "language": "Lua",
+                "last_commit": "2022-11-05T01:32:05Z",
+                "owner": "stravant",
+                "repo": "LuaMinify",
+                "stars": 275
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "lua-parser",
+              "description": "A Lua 5.3 parser written using LPegLabel, with improved error messages.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 15764361,
+                "language": "Lua",
+                "last_commit": "2026-01-07T16:52:25Z",
+                "owner": "andremm",
+                "repo": "lua-parser",
+                "stars": 209
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "LuaInspect",
+              "description": "Lua's most powerful code analysis and linting tool, built on Metalua. Used by ZeroBraneStudio, among others.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 792563,
+                "language": "Lua",
+                "last_commit": "2016-04-22T04:24:27Z",
+                "owner": "davidm",
+                "repo": "lua-inspect",
+                "stars": 178
+              }
+            },
+            {
+              "node_type": "group",
+              "title": "luacov",
+              "description": "Simple coverage analyzer, used by busted and telescope for checking test coverage.",
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "luacov-coveralls",
+                  "description": "LuaCov reporter for coveralls.io.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 19485249,
+                    "language": "Lua",
+                    "last_commit": "2022-04-06T23:26:17Z",
+                    "owner": "moteus",
+                    "repo": "luacov-coveralls",
+                    "stars": 48
+                  }
+                }
+              ]
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Analysis Tools and ASTs"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "luvit",
+              "description": "Node.js's underlying architecture (libUV) with Lua on top instead of JavaScript.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 2363097,
+                "language": "Lua",
+                "last_commit": "2026-04-02T18:48:54Z",
+                "owner": "luvit",
+                "repo": "luvit",
+                "stars": 3961
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "graphql-lua",
+              "description": "Lua implementation of GraphQL.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 46766457,
+                "language": "Lua",
+                "last_commit": "2023-03-13T08:29:08Z",
+                "owner": "bjornbytes",
+                "repo": "graphql-lua",
+                "stars": 191
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "punchdrunk.js",
+              "description": "Moonshine + LÖVE API reimplementation = run LÖVE games in the browser.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 18364406,
+                "language": "JavaScript",
+                "last_commit": "2016-02-07T20:30:44Z",
+                "owner": "TannerRogalsky",
+                "repo": "punchdrunk",
+                "stars": 81
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Experimental, etc"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "KoReader",
+              "description": "An ebook reader application supports PDF, DJVU, EPUB, FB2 and much more, running on Kindle, Kobo, PocketBook and Android devices.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 8986217,
+                "language": "Lua",
+                "last_commit": "2026-08-19T11:44:08Z",
+                "owner": "koreader",
+                "repo": "koreader",
+                "stars": 29107
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "kpie",
+              "description": "A scripting utility to juggle windows.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 22042826,
+                "language": "C",
+                "last_commit": "2020-12-21T06:32:59Z",
+                "owner": "skx",
+                "repo": "kpie",
+                "stars": 80
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Scriptable by Lua"
+        }
+      ],
+      "title": "Resources"
+    },
+    {
+      "description": null,
+      "items": [
+        {
           "children": [
             {
               "node_type": "item",
@@ -458,1514 +2068,42 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 42526631,
                 "language": "PowerShell",
                 "last_commit": "2026-06-18T20:27:08Z",
                 "owner": "love2d-community",
                 "repo": "awesome-love2d",
-                "stars": 4467
+                "stars": 4469
               }
             },
             {
               "node_type": "item",
-              "title": "lurker",
-              "description": "Shortens the iteration cycle by auto-swapping changed Lua files in a running LÖVE project.",
+              "title": "awesome-resty",
+              "description": "A list like this one, but focused on OpenResty.",
               "children": [],
               "repo_info": {
                 "archived": false,
-                "language": "Lua",
-                "last_commit": "2023-07-22T23:29:56Z",
-                "owner": "rxi",
-                "repo": "lurker",
-                "stars": 377
+                "id": 30886767,
+                "language": null,
+                "last_commit": "2026-05-26T11:49:23Z",
+                "owner": "bungle",
+                "repo": "awesome-resty",
+                "stars": 2482
               }
             }
-          ]
-        },
-        {
-          "node_type": "group",
-          "title": "Collision detection",
+          ],
           "description": null,
-          "children": [
-            {
-              "node_type": "item",
-              "title": "bump.lua",
-              "description": "Minimal rectangle-based collision detection which handles tunnelling and basic collision resolution.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "language": "Lua",
-                "last_commit": "2023-09-29T16:28:50Z",
-                "owner": "kikito",
-                "repo": "bump.lua",
-                "stars": 1098
-              }
-            }
-          ]
-        },
-        {
           "node_type": "group",
-          "title": "Tweening",
-          "description": null,
-          "children": [
-            {
-              "node_type": "item",
-              "title": "tween.lua",
-              "description": "Small library for tweening, with several easing functions.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "language": "Lua",
-                "last_commit": "2023-02-02T00:13:15Z",
-                "owner": "kikito",
-                "repo": "tween.lua",
-                "stars": 664
-              }
-            },
-            {
-              "node_type": "item",
-              "title": "flux",
-              "description": "A fast, lightweight tweening library for Lua with easing functions and the ability to group tweens together.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "language": "Lua",
-                "last_commit": "2020-12-16T13:21:47Z",
-                "owner": "rxi",
-                "repo": "flux",
-                "stars": 486
-              }
-            }
-          ]
-        },
-        {
-          "node_type": "group",
-          "title": "Examples",
-          "description": null,
-          "children": [
-            {
-              "node_type": "item",
-              "title": "Journey to the Center of Hawkthorne",
-              "description": "2D platformer based on Community's Digital Estate Planning episode, made with LÖVE.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "language": "Lua",
-                "last_commit": "2024-11-26T22:24:01Z",
-                "owner": "hawkthorne",
-                "repo": "hawkthorne-journey",
-                "stars": 1150
-              }
-            },
-            {
-              "node_type": "item",
-              "title": "Mari0",
-              "description": "Fusion of Mario and Portal, made with LÖVE. See also its wikipedia entry.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "language": "Lua",
-                "last_commit": "2023-09-15T02:33:44Z",
-                "owner": "Stabyourself",
-                "repo": "mari0",
-                "stars": 769
-              }
-            },
-            {
-              "node_type": "item",
-              "title": "termtris",
-              "description": "A tetris clone, written in literate style with \"an emphasis on learn-from-ability\".",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "language": "Lua",
-                "last_commit": "2019-12-09T23:45:55Z",
-                "owner": "tylerneylon",
-                "repo": "termtris",
-                "stars": 463
-              }
-            },
-            {
-              "node_type": "item",
-              "title": "PacPac",
-              "description": "A Pac-man clone, made with LÖVE.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "language": "Lua",
-                "last_commit": "2015-06-18T21:32:21Z",
-                "owner": "tylerneylon",
-                "repo": "pacpac",
-                "stars": 353
-              }
-            }
-          ]
+          "title": "Other Lists"
         }
       ],
-      "title": "Game Development"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "LuaLogging",
-          "description": "Log4j-inspired logging library supporting various appenders.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Lua",
-            "last_commit": "2021-04-30T11:58:02Z",
-            "owner": "Neopallium",
-            "repo": "lualogging",
-            "stars": 145
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "lua-log",
-          "description": "Asynchronous logging library with pluggable writers for file system, network, ZeroMQ, and more.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Lua",
-            "last_commit": "2018-09-19T21:15:01Z",
-            "owner": "moteus",
-            "repo": "lua-log",
-            "stars": 114
-          }
-        }
-      ],
-      "title": "Logging"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "awesome-resty",
-          "description": "A list like this one, but focused on OpenResty.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2026-05-26T11:49:23Z",
-            "owner": "bungle",
-            "repo": "awesome-resty",
-            "stars": 2482
-          }
-        },
-        {
-          "node_type": "group",
-          "title": "Third-party modules",
-          "description": null,
-          "children": [
-            {
-              "node_type": "item",
-              "title": "lua-resty-http",
-              "description": "Lua HTTP client driver, built on the cosocket API.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "language": "Lua",
-                "last_commit": "2026-08-11T08:14:16Z",
-                "owner": "ledgetech",
-                "repo": "lua-resty-http",
-                "stars": 2079
-              }
-            }
-          ]
-        },
-        {
-          "node_type": "group",
-          "title": "Frameworks & tools",
-          "description": null,
-          "children": [
-            {
-              "node_type": "item",
-              "title": "Kong",
-              "description": "Microservice & API Management Layer.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "language": "Lua",
-                "last_commit": "2026-08-16T14:44:43Z",
-                "owner": "Kong",
-                "repo": "kong",
-                "stars": 43996
-              }
-            },
-            {
-              "node_type": "item",
-              "title": "Sailor",
-              "description": "An MVC web framework compatible with OpenResty, Apache and other webservers.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "language": "Lua",
-                "last_commit": "2022-10-28T09:53:01Z",
-                "owner": "sailorproject",
-                "repo": "sailor",
-                "stars": 935
-              }
-            },
-            {
-              "node_type": "item",
-              "title": "ledge",
-              "description": "Lua module providing scriptable, RFC-compliant HTTP cache functionality.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "language": "Lua",
-                "last_commit": "2021-05-07T08:33:05Z",
-                "owner": "ledgetech",
-                "repo": "ledge",
-                "stars": 458
-              }
-            }
-          ]
-        }
-      ],
-      "title": "OpenResty"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "argparse",
-          "description": "A feature-rich command line parser inspired by argparse for Python.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Lua",
-            "last_commit": "2020-11-25T07:19:23Z",
-            "owner": "mpeterv",
-            "repo": "argparse",
-            "stars": 290
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "lua-term",
-          "description": "Terminal operations and manipulations.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Lua",
-            "last_commit": "2024-08-24T16:16:45Z",
-            "owner": "hoelzro",
-            "repo": "lua-term",
-            "stars": 175
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "ansicolors",
-          "description": "Simple function for printing to the console in color.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Lua",
-            "last_commit": "2024-05-25T22:38:45Z",
-            "owner": "kikito",
-            "repo": "ansicolors.lua",
-            "stars": 155
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "cliargs",
-          "description": "A simple command-line argument parsing module.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Lua",
-            "last_commit": "2026-08-15T09:12:32Z",
-            "owner": "lunarmodules",
-            "repo": "lua_cliargs",
-            "stars": 128
-          }
-        }
-      ],
-      "title": "Command-line Utilities"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "group",
-          "title": "Coroutine-based multitasking:",
-          "description": null,
-          "children": [
-            {
-              "node_type": "item",
-              "title": "ConcurrentLua",
-              "description": "Implements an Erlang-style message-passing concurrency model.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "language": "Lua",
-                "last_commit": "2014-11-22T19:07:56Z",
-                "owner": "lefcha",
-                "repo": "concurrentlua",
-                "stars": 162
-              }
-            },
-            {
-              "node_type": "item",
-              "title": "Lumen",
-              "description": "Simple concurrent task scheduling.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "language": "Lua",
-                "last_commit": "2025-10-27T17:33:38Z",
-                "owner": "xopxe",
-                "repo": "lumen",
-                "stars": 161
-              }
-            }
-          ]
-        },
-        {
-          "node_type": "group",
-          "title": "Multithreading:",
-          "description": null,
-          "children": [
-            {
-              "node_type": "item",
-              "title": "lanes",
-              "description": "Library implementing a message passing model with one OS thread per Lua thread.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "language": "C++",
-                "last_commit": "2026-03-12T10:21:59Z",
-                "owner": "LuaLanes",
-                "repo": "lanes",
-                "stars": 538
-              }
-            },
-            {
-              "node_type": "item",
-              "title": "llthreads",
-              "description": "A simple wrapper for low-level pthreads & WIN32 threads.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "language": "C",
-                "last_commit": "2024-10-02T10:05:59Z",
-                "owner": "Neopallium",
-                "repo": "lua-llthreads",
-                "stars": 150
-              }
-            },
-            {
-              "node_type": "item",
-              "title": "luaproc",
-              "description": "Message-passing model which allows multiple threads per OS thread and easily generalizes across a network. See also the paper where it originated.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "language": "C",
-                "last_commit": "2017-07-29T16:02:06Z",
-                "owner": "askyrme",
-                "repo": "luaproc",
-                "stars": 130
-              }
-            },
-            {
-              "node_type": "item",
-              "title": "llthreads2",
-              "description": "Newer rewrite of llthreads.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "language": "Lua",
-                "last_commit": "2023-10-16T20:55:18Z",
-                "owner": "moteus",
-                "repo": "lua-llthreads2",
-                "stars": 80
-              }
-            }
-          ]
-        }
-      ],
-      "title": "Concurrency and Multithreading"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "lua-resty-template",
-          "description": "Lua-oriented template engine for OpenResty, somewhat Jinja-like.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Lua",
-            "last_commit": "2023-07-21T13:39:41Z",
-            "owner": "bungle",
-            "repo": "lua-resty-template",
-            "stars": 923
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "etlua",
-          "description": "Embedded Lua templates, ERB-style.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Lua",
-            "last_commit": "2023-10-02T15:30:26Z",
-            "owner": "leafo",
-            "repo": "etlua",
-            "stars": 258
-          }
-        }
-      ],
-      "title": "Templating"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "middleclass",
-          "description": "Simple but robust OOP library with inheritance, methods, metamethods, class variables and mixins.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Lua",
-            "last_commit": "2025-11-03T12:54:01Z",
-            "owner": "kikito",
-            "repo": "middleclass",
-            "stars": 1918
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "30log",
-          "description": "Minimalist OOP library with basic classes, inheritance, and mixins in 30 lines.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Lua",
-            "last_commit": "2021-05-08T02:47:43Z",
-            "owner": "Yonaba",
-            "repo": "30log",
-            "stars": 484
-          }
-        }
-      ],
-      "title": "Object-oriented Programming"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "luaposix",
-          "description": "Bindings for POSIX APIs, including curses.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2026-07-20T03:54:44Z",
-            "owner": "luaposix",
-            "repo": "luaposix",
-            "stars": 590
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "lua-path",
-          "description": "File system path manipulation library.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Lua",
-            "last_commit": "2021-01-07T13:28:11Z",
-            "owner": "moteus",
-            "repo": "lua-path",
-            "stars": 90
-          }
-        }
-      ],
-      "title": "File system and OS"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "LuaDate",
-          "description": "Date and time module with parsing, formatting, addition/subtraction, localization, and ISO 8601 support.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Lua",
-            "last_commit": "2026-02-17T21:38:31Z",
-            "owner": "Tieske",
-            "repo": "date",
-            "stars": 275
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "cron.lua",
-          "description": "Time-related functions for Lua, inspired by JavaScript's setTimeout and setInterval.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Lua",
-            "last_commit": "2023-09-10T17:30:10Z",
-            "owner": "kikito",
-            "repo": "cron.lua",
-            "stars": 188
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "luatx",
-          "description": "Time, date, and timezone library.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Lua",
-            "last_commit": "2025-10-19T22:47:57Z",
-            "owner": "daurnimator",
-            "repo": "luatz",
-            "stars": 140
-          }
-        }
-      ],
-      "title": "Time and Date"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "lua-pb",
-          "description": "Protocol Buffers implementation.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Lua",
-            "last_commit": "2018-05-31T14:59:37Z",
-            "owner": "Neopallium",
-            "repo": "lua-pb",
-            "stars": 293
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "lyaml",
-          "description": "YAML encoding/decoding via binding to LibYAML.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Lua",
-            "last_commit": "2026-07-25T18:45:14Z",
-            "owner": "gvvaughan",
-            "repo": "lyaml",
-            "stars": 228
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "lunamark",
-          "description": "Converts Markdown to other textual formats including HTML and LaTeX. Uses LPeg for fast parsing.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2024-08-10T09:22:43Z",
-            "owner": "jgm",
-            "repo": "lunamark",
-            "stars": 220
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "LXSH",
-          "description": "A collection of lexers and syntax highlighters written with LPeg.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Lua",
-            "last_commit": "2022-11-07T07:35:36Z",
-            "owner": "xolox",
-            "repo": "lua-lxsh",
-            "stars": 76
-          }
-        },
-        {
-          "node_type": "group",
-          "title": "JSON",
-          "description": null,
-          "children": [
-            {
-              "node_type": "item",
-              "title": "json.lua",
-              "description": "A fast and tiny JSON library in pure Lua.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "language": "Lua",
-                "last_commit": "2023-11-28T04:38:13Z",
-                "owner": "rxi",
-                "repo": "json.lua",
-                "stars": 2183
-              }
-            },
-            {
-              "node_type": "item",
-              "title": "lua-cjson",
-              "description": "Blazing fast JSON encoding/decoding implemented in C and exposed to Lua.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "language": "C",
-                "last_commit": "2024-06-19T06:50:25Z",
-                "owner": "mpx",
-                "repo": "lua-cjson",
-                "stars": 997
-              }
-            },
-            {
-              "node_type": "item",
-              "title": "luajson",
-              "description": "JSON encoder/decoder implemented in Lua on top of LPeg.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "language": "Lua",
-                "last_commit": "2026-05-26T01:29:11Z",
-                "owner": "harningt",
-                "repo": "luajson",
-                "stars": 257
-              }
-            }
-          ]
-        },
-        {
-          "node_type": "group",
-          "title": "XML",
-          "description": null,
-          "children": [
-            {
-              "node_type": "item",
-              "title": "SLAXML",
-              "description": "Pure Lua SAX-like streaming XML parser.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "language": "Lua",
-                "last_commit": "2024-07-12T09:37:53Z",
-                "owner": "Phrogz",
-                "repo": "SLAXML",
-                "stars": 164
-              }
-            }
-          ]
-        },
-        {
-          "node_type": "group",
-          "title": "MessagePack",
-          "description": null,
-          "children": [
-            {
-              "node_type": "item",
-              "title": "lua-cmsgpack",
-              "description": "A MessagePack C implementation with Lua bindings, as used by Redis.=",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "language": "C",
-                "last_commit": "2021-12-28T19:18:31Z",
-                "owner": "antirez",
-                "repo": "lua-cmsgpack",
-                "stars": 383
-              }
-            },
-            {
-              "node_type": "item",
-              "title": "lua-MessagePack",
-              "description": "Pure Lua implementation of MessagePack.",
-              "children": []
-            }
-          ]
-        },
-        {
-          "node_type": "group",
-          "title": "LPeg",
-          "description": null,
-          "children": [
-            {
-              "node_type": "item",
-              "title": "LuLPeg",
-              "description": "A pure Lua implementation of LPeg v0.12.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "language": "Lua",
-                "last_commit": "2022-04-07T12:07:23Z",
-                "owner": "pygy",
-                "repo": "LuLPeg",
-                "stars": 272
-              }
-            },
-            {
-              "node_type": "item",
-              "title": "LPegLabel",
-              "description": "An extension of LPeg adding support for labeled failures.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "language": "C",
-                "last_commit": "2023-05-02T17:27:51Z",
-                "owner": "sqmedeiros",
-                "repo": "lpeglabel",
-                "stars": 151
-              }
-            },
-            {
-              "node_type": "item",
-              "title": "lpeg_patterns",
-              "description": "A collection of LPeg patterns.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "language": "Lua",
-                "last_commit": "2022-05-23T14:28:11Z",
-                "owner": "daurnimator",
-                "repo": "lpeg_patterns",
-                "stars": 129
-              }
-            },
-            {
-              "node_type": "item",
-              "title": "LPegLJ",
-              "description": "A pure LuaJIT implementation of LPeg v1.0.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "language": "Lua",
-                "last_commit": "2022-05-09T09:55:51Z",
-                "owner": "sacek",
-                "repo": "LPegLJ",
-                "stars": 115
-              }
-            }
-          ]
-        }
-      ],
-      "title": "Parsing and Serialization"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "inspect.lua",
-          "description": "Human-readable representation of Lua tables.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Lua",
-            "last_commit": "2026-01-05T16:28:00Z",
-            "owner": "kikito",
-            "repo": "inspect.lua",
-            "stars": 1537
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "serpent",
-          "description": "Serializer and pretty printer.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Lua",
-            "last_commit": "2022-05-21T18:47:41Z",
-            "owner": "pkulchenko",
-            "repo": "serpent",
-            "stars": 621
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "i18n.lua",
-          "description": "Internationalization library with locales, formatting, and pluralization.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Lua",
-            "last_commit": "2022-11-10T07:03:52Z",
-            "owner": "kikito",
-            "repo": "i18n.lua",
-            "stars": 271
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Ser",
-          "description": "Dead simple serializer with good performance.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Lua",
-            "last_commit": "2016-05-19T23:03:02Z",
-            "owner": "gvx",
-            "repo": "Ser",
-            "stars": 85
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "say",
-          "description": "Simple string key-value store for i18n.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Lua",
-            "last_commit": "2026-08-15T09:18:59Z",
-            "owner": "lunarmodules",
-            "repo": "say",
-            "stars": 51
-          }
-        }
-      ],
-      "title": "Humanize"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "lua-zlib",
-          "description": "Simple streaming interface to zlib for gzip/gunzip.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2026-01-04T00:28:06Z",
-            "owner": "brimworks",
-            "repo": "lua-zlib",
-            "stars": 288
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "lua-zip",
-          "description": "Lua binding to libzip. Reads and writes zip files.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2022-02-03T12:37:47Z",
-            "owner": "brimworks",
-            "repo": "lua-zip",
-            "stars": 88
-          }
-        }
-      ],
-      "title": "Compression"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "lua-lockbox",
-          "description": "A collection of cryptographic primitives written in pure Lua.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Lua",
-            "last_commit": "2024-01-27T15:55:11Z",
-            "owner": "somesocks",
-            "repo": "lua-lockbox",
-            "stars": 378
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "luaossl",
-          "description": "\"Most comprehensive OpenSSL module in the Lua universe\" - used by lapis, kong, and lua-http.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2026-07-27T10:08:59Z",
-            "owner": "wahern",
-            "repo": "luaossl",
-            "stars": 161
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "LuaCrypto",
-          "description": "Lua bindings to OpenSSL.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Shell",
-            "last_commit": "2019-06-25T09:07:30Z",
-            "owner": "mkottman",
-            "repo": "luacrypto",
-            "stars": 104
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "luatweetnacl",
-          "description": "Bindings to tweetnacl, modern high-security cryptographic library.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2021-11-18T00:56:37Z",
-            "owner": "philanc",
-            "repo": "luatweetnacl",
-            "stars": 18
-          }
-        }
-      ],
-      "title": "Cryptography"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "LuaSocket",
-          "description": "Networking extension which provides a socket API for TCP and UDP, and implements HTTP, FTP, and SMTP.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "HTML",
-            "last_commit": "2026-08-17T05:39:55Z",
-            "owner": "lunarmodules",
-            "repo": "luasocket",
-            "stars": 2021
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "lua-http",
-          "description": "Asynchronous HTTP and WebSocket library with client and server APIs, TLS, and HTTP/2; based on cqueues.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Lua",
-            "last_commit": "2024-09-08T14:17:59Z",
-            "owner": "daurnimator",
-            "repo": "lua-http",
-            "stars": 874
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "lua-websockets",
-          "description": "WebSocket client and server modules. Webserver-agnostic, implemented in Lua on top of LuaSocket.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Lua",
-            "last_commit": "2026-07-29T14:33:10Z",
-            "owner": "lipp",
-            "repo": "lua-websockets",
-            "stars": 418
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "lua-cURLv3",
-          "description": "Lua binding to libcurl.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2023-07-03T06:20:14Z",
-            "owner": "Lua-cURL",
-            "repo": "Lua-cURLv3",
-            "stars": 294
-          }
-        }
-      ],
-      "title": "Network"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "lua-resty-mysql",
-          "description": "Lua MySQL driver for OpenResty.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Lua",
-            "last_commit": "2026-06-20T14:42:27Z",
-            "owner": "openresty",
-            "repo": "lua-resty-mysql",
-            "stars": 726
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "pgmoon",
-          "description": "Lua PostgreSQL driver for OpenResty, LuaSocket, and cqueues.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "MoonScript",
-            "last_commit": "2026-08-11T14:59:08Z",
-            "owner": "leafo",
-            "repo": "pgmoon",
-            "stars": 432
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "lua-resty-cassandra",
-          "description": "Lua Cassandra client driver for OpenResty and others.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Lua",
-            "last_commit": "2017-06-09T18:40:44Z",
-            "owner": "jbochi",
-            "repo": "lua-resty-cassandra",
-            "stars": 68
-          }
-        },
-        {
-          "node_type": "group",
-          "title": "Redis",
-          "description": null,
-          "children": [
-            {
-              "node_type": "item",
-              "title": "lua-resty-redis",
-              "description": "Lua Redis client driver for OpenResty.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "language": "Lua",
-                "last_commit": "2026-07-17T08:23:46Z",
-                "owner": "openresty",
-                "repo": "lua-resty-redis",
-                "stars": 1956
-              }
-            },
-            {
-              "node_type": "item",
-              "title": "redis-lua",
-              "description": "Pure Lua client library for Redis.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "language": "Lua",
-                "last_commit": "2023-11-06T14:23:02Z",
-                "owner": "nrk",
-                "repo": "redis-lua",
-                "stars": 746
-              }
-            },
-            {
-              "node_type": "item",
-              "title": "lredis",
-              "description": "Asynchronous Redis client with pipelining and Pub/Sub support; based on cqueues.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "language": "Lua",
-                "last_commit": "2021-02-15T09:42:56Z",
-                "owner": "daurnimator",
-                "repo": "lredis",
-                "stars": 42
-              }
-            }
-          ]
-        }
-      ],
-      "title": "Data Stores"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "lua-resty-kafka",
-          "description": "Kafka client driver based on OpenResty cosockets.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Lua",
-            "last_commit": "2023-11-03T14:50:51Z",
-            "owner": "doujiang24",
-            "repo": "lua-resty-kafka",
-            "stars": 814
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "lua-resty-rabbitmqstomp",
-          "description": "RabbitMQ client library based on OpenResty cosockets.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Lua",
-            "last_commit": "2020-04-27T11:18:21Z",
-            "owner": "wingify",
-            "repo": "lua-resty-rabbitmqstomp",
-            "stars": 194
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "lua-zmq",
-          "description": "Lua bindings to ZeroMQ.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2024-10-03T10:15:43Z",
-            "owner": "Neopallium",
-            "repo": "lua-zmq",
-            "stars": 158
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "lzmq",
-          "description": "A newer Lua binding to ZeroMQ.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Lua",
-            "last_commit": "2020-07-20T18:34:06Z",
-            "owner": "zeromq",
-            "repo": "lzmq",
-            "stars": 145
-          }
-        }
-      ],
-      "title": "Message Brokers"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "luassert",
-          "description": "Assertion library extending Lua's built-in assertions.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Lua",
-            "last_commit": "2026-08-15T09:10:03Z",
-            "owner": "lunarmodules",
-            "repo": "luassert",
-            "stars": 249
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "telescope",
-          "description": "Flexible and highly customizable testing library.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Lua",
-            "last_commit": "2017-08-05T18:32:37Z",
-            "owner": "norman",
-            "repo": "telescope",
-            "stars": 164
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "lust",
-          "description": "Minimal test framework.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Lua",
-            "last_commit": "2026-07-17T04:40:12Z",
-            "owner": "bjornbytes",
-            "repo": "lust",
-            "stars": 134
-          }
-        }
-      ],
-      "title": "Testing"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "luacheck",
-          "description": "Simple static analyzer which detects accidental globals and undefined or shadowed locals.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Lua",
-            "last_commit": "2022-12-18T19:53:23Z",
-            "owner": "mpeterv",
-            "repo": "luacheck",
-            "stars": 2047
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Typed Lua",
-          "description": "A typed superset of Lua that compiles to plain Lua.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Lua",
-            "last_commit": "2020-03-11T21:54:53Z",
-            "owner": "andremm",
-            "repo": "typedlua",
-            "stars": 589
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Metalua",
-          "description": "Pure Lua parser and compiler, used for generating ASTs. A number of other tools make use of the Metalua parser in this way.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Lua",
-            "last_commit": "2024-01-16T11:00:29Z",
-            "owner": "fab13n",
-            "repo": "metalua",
-            "stars": 369
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "luadec51",
-          "description": "Lua Decompiler for Lua version 5.1.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2022-03-14T09:24:38Z",
-            "owner": "sztupy",
-            "repo": "luadec51",
-            "stars": 357
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "LuaMinify",
-          "description": "Minifier which also brings its own static analysis tools, lexer, and parser.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Lua",
-            "last_commit": "2022-11-05T01:32:05Z",
-            "owner": "stravant",
-            "repo": "LuaMinify",
-            "stars": 275
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "lua-parser",
-          "description": "A Lua 5.3 parser written using LPegLabel, with improved error messages.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Lua",
-            "last_commit": "2026-01-07T16:52:25Z",
-            "owner": "andremm",
-            "repo": "lua-parser",
-            "stars": 209
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "LuaInspect",
-          "description": "Lua's most powerful code analysis and linting tool, built on Metalua. Used by ZeroBraneStudio, among others.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Lua",
-            "last_commit": "2016-04-22T04:24:27Z",
-            "owner": "davidm",
-            "repo": "lua-inspect",
-            "stars": 178
-          }
-        },
-        {
-          "node_type": "group",
-          "title": "luacov",
-          "description": "Simple coverage analyzer, used by busted and telescope for checking test coverage.",
-          "children": [
-            {
-              "node_type": "item",
-              "title": "luacov-coveralls",
-              "description": "LuaCov reporter for coveralls.io.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "language": "Lua",
-                "last_commit": "2022-04-06T23:26:17Z",
-                "owner": "moteus",
-                "repo": "luacov-coveralls",
-                "stars": 48
-              }
-            }
-          ]
-        }
-      ],
-      "title": "Analysis Tools and ASTs"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "luvit",
-          "description": "Node.js's underlying architecture (libUV) with Lua on top instead of JavaScript.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Lua",
-            "last_commit": "2026-04-02T18:48:54Z",
-            "owner": "luvit",
-            "repo": "luvit",
-            "stars": 3960
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "graphql-lua",
-          "description": "Lua implementation of GraphQL.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Lua",
-            "last_commit": "2023-03-13T08:29:08Z",
-            "owner": "bjornbytes",
-            "repo": "graphql-lua",
-            "stars": 191
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "punchdrunk.js",
-          "description": "Moonshine + LÖVE API reimplementation = run LÖVE games in the browser.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2016-02-07T20:30:44Z",
-            "owner": "TannerRogalsky",
-            "repo": "punchdrunk",
-            "stars": 81
-          }
-        }
-      ],
-      "title": "Experimental, etc"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "KoReader",
-          "description": "An ebook reader application supports PDF, DJVU, EPUB, FB2 and much more, running on Kindle, Kobo, PocketBook and Android devices.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Lua",
-            "last_commit": "2026-08-18T15:32:12Z",
-            "owner": "koreader",
-            "repo": "koreader",
-            "stars": 29094
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "kpie",
-          "description": "A scripting utility to juggle windows.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "C",
-            "last_commit": "2020-12-21T06:32:59Z",
-            "owner": "skx",
-            "repo": "kpie",
-            "stars": 80
-          }
-        }
-      ],
-      "title": "Scriptable by Lua"
-    },
-    {
-      "description": "",
-      "items": [],
       "title": "Resources"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "awesome-love2d",
-          "description": "A list like this one, but focused on game dev and the LÖVE platform.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "PowerShell",
-            "last_commit": "2026-06-18T20:27:08Z",
-            "owner": "love2d-community",
-            "repo": "awesome-love2d",
-            "stars": 4467
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "awesome-resty",
-          "description": "A list like this one, but focused on OpenResty.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2026-05-26T11:49:23Z",
-            "owner": "bungle",
-            "repo": "awesome-resty",
-            "stars": 2482
-          }
-        }
-      ],
-      "title": "Other Lists"
-    },
-    {
-      "description": "Contributions welcome and wanted! Read the contribution guidelines first.",
-      "items": [],
-      "title": "Contribute"
-    },
-    {
-      "description": "To the extent possible under law, Lewis Ellis has waived all copyright and related or neighboring rights to this work.",
-      "items": [],
-      "title": "License"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T16:43:17.577Z",
+    "last_updated": "2026-08-19T12:41:43.311Z",
     "original_repository": "LewisJEllis/awesome-lua",
+    "original_repository_id": 23039606,
     "original_repository_sha": "5cda10f263190f2c926d95652044a17ef937d6f8",
     "enhanced_repository": "enhansome/enhansome-lua",
     "enhanced_repository_description": null,
