@@ -17,7 +17,7 @@
                 "last_commit": "2026-04-01T00:54:16Z",
                 "owner": "yuin",
                 "repo": "gopher-lua",
-                "stars": 6968
+                "stars": 6969
               }
             },
             {
@@ -352,7 +352,7 @@
                 "last_commit": "2025-04-15T14:55:30Z",
                 "owner": "luafun",
                 "repo": "luafun",
-                "stars": 2260
+                "stars": 2261
               }
             },
             {
@@ -499,7 +499,7 @@
                     "last_commit": "2026-06-18T20:27:08Z",
                     "owner": "love2d-community",
                     "repo": "awesome-love2d",
-                    "stars": 4472
+                    "stars": 4475
                   }
                 },
                 {
@@ -743,7 +743,7 @@
                     "last_commit": "2026-08-16T14:44:43Z",
                     "owner": "Kong",
                     "repo": "kong",
-                    "stars": 44020
+                    "stars": 44026
                   }
                 },
                 {
@@ -1554,7 +1554,7 @@
                 "last_commit": "2026-08-17T05:39:55Z",
                 "owner": "lunarmodules",
                 "repo": "luasocket",
-                "stars": 2021
+                "stars": 2020
               }
             },
             {
@@ -1725,7 +1725,7 @@
                 "last_commit": "2023-11-03T14:50:51Z",
                 "owner": "doujiang24",
                 "repo": "lua-resty-kafka",
-                "stars": 814
+                "stars": 813
               }
             },
             {
@@ -2027,10 +2027,10 @@
                 "archived": false,
                 "id": 8986217,
                 "language": "Lua",
-                "last_commit": "2026-08-22T16:26:03Z",
+                "last_commit": "2026-08-23T14:30:02Z",
                 "owner": "koreader",
                 "repo": "koreader",
-                "stars": 29186
+                "stars": 29215
               }
             },
             {
@@ -2073,7 +2073,7 @@
                 "last_commit": "2026-06-18T20:27:08Z",
                 "owner": "love2d-community",
                 "repo": "awesome-love2d",
-                "stars": 4472
+                "stars": 4475
               }
             },
             {
@@ -2101,7 +2101,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-22T16:35:26.341Z",
+    "last_updated": "2026-08-23T16:36:44.998Z",
     "original_repository": "LewisJEllis/awesome-lua",
     "original_repository_id": 23039606,
     "original_repository_sha": "5cda10f263190f2c926d95652044a17ef937d6f8",
