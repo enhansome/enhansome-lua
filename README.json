@@ -32,7 +32,7 @@
                 "last_commit": "2025-10-13T13:15:40Z",
                 "owner": "vinniefalco",
                 "repo": "LuaBridge",
-                "stars": 1779
+                "stars": 1778
               }
             },
             {
@@ -157,7 +157,7 @@
                     "last_commit": "2026-08-07T19:00:03Z",
                     "owner": "lua",
                     "repo": "lua",
-                    "stars": 10249
+                    "stars": 10250
                   }
                 }
               ]
@@ -499,7 +499,7 @@
                     "last_commit": "2026-08-23T19:12:18Z",
                     "owner": "love2d-community",
                     "repo": "awesome-love2d",
-                    "stars": 4474
+                    "stars": 4476
                   }
                 },
                 {
@@ -1932,7 +1932,7 @@
                 "last_commit": "2020-12-19T19:26:32Z",
                 "owner": "jmckaskill",
                 "repo": "luaffi",
-                "stars": 477
+                "stars": 476
               }
             }
           ],
@@ -2137,10 +2137,10 @@
                 "archived": false,
                 "id": 8986217,
                 "language": "Lua",
-                "last_commit": "2026-08-24T10:56:05Z",
+                "last_commit": "2026-08-24T16:22:09Z",
                 "owner": "koreader",
                 "repo": "koreader",
-                "stars": 29234
+                "stars": 29235
               }
             },
             {
@@ -2227,7 +2227,7 @@
                 "last_commit": "2026-08-23T19:12:18Z",
                 "owner": "love2d-community",
                 "repo": "awesome-love2d",
-                "stars": 4474
+                "stars": 4476
               }
             },
             {
@@ -2255,7 +2255,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T13:59:34.763Z",
+    "last_updated": "2026-08-24T16:50:29.158Z",
     "original_repository": "LewisJEllis/awesome-lua",
     "original_repository_id": 23039606,
     "original_repository_sha": "5cda10f263190f2c926d95652044a17ef937d6f8",
