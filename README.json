@@ -496,10 +496,10 @@
                     "archived": false,
                     "id": 42526631,
                     "language": "PowerShell",
-                    "last_commit": "2026-06-18T20:27:08Z",
+                    "last_commit": "2026-08-23T19:12:18Z",
                     "owner": "love2d-community",
                     "repo": "awesome-love2d",
-                    "stars": 4475
+                    "stars": 4474
                   }
                 },
                 {
@@ -691,6 +691,28 @@
           "children": [
             {
               "node_type": "item",
+              "title": "Pegasus.lua",
+              "description": "Pegasus.lua is a http server to work with web applications written in Lua language.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 26644450,
+                "language": "Lua",
+                "last_commit": "2026-03-08T10:23:18Z",
+                "owner": "EvandroLG",
+                "repo": "pegasus.lua",
+                "stars": 465
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Web/Networking Platforms"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "awesome-resty",
               "description": "A list like this one, but focused on OpenResty.",
               "children": [],
@@ -743,7 +765,7 @@
                     "last_commit": "2026-08-16T14:44:43Z",
                     "owner": "Kong",
                     "repo": "kong",
-                    "stars": 44026
+                    "stars": 44029
                   }
                 },
                 {
@@ -797,7 +819,7 @@
                 "last_commit": "2020-11-25T07:19:23Z",
                 "owner": "mpeterv",
                 "repo": "argparse",
-                "stars": 290
+                "stars": 289
               }
             },
             {
@@ -1002,6 +1024,28 @@
           "children": [
             {
               "node_type": "item",
+              "title": "docroc",
+              "description": "Parse comments into a Lua table to generate documentation.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 41196326,
+                "language": "Lua",
+                "last_commit": "2015-12-25T21:35:49Z",
+                "owner": "bjornbytes",
+                "repo": "docroc",
+                "stars": 14
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Documentation"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "middleclass",
               "description": "Simple but robust OOP library with inheritance, methods, metamethods, class variables and mixins.",
               "children": [],
@@ -1123,6 +1167,50 @@
           "description": null,
           "node_type": "group",
           "title": "Time and Date"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "magick",
+              "description": "Lua bindings to ImageMagick for LuaJIT using FFI.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 7842234,
+                "language": "Lua",
+                "last_commit": "2024-05-17T12:00:10Z",
+                "owner": "leafo",
+                "repo": "magick",
+                "stars": 427
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Image Manipulation"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "LuaFFT",
+              "description": "An easy to use Fast Fourier Transformation package in pure Lua.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1264798,
+                "language": "Lua",
+                "last_commit": "2024-05-04T18:52:48Z",
+                "owner": "h4rm",
+                "repo": "luafft",
+                "stars": 65
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Digital Signal Processing"
         },
         {
           "children": [
@@ -1368,7 +1456,7 @@
                 "last_commit": "2026-01-05T16:28:00Z",
                 "owner": "kikito",
                 "repo": "inspect.lua",
-                "stars": 1537
+                "stars": 1538
               }
             },
             {
@@ -1636,7 +1724,7 @@
                 "last_commit": "2026-08-11T14:59:08Z",
                 "owner": "leafo",
                 "repo": "pgmoon",
-                "stars": 432
+                "stars": 433
               }
             },
             {
@@ -1668,7 +1756,7 @@
                     "archived": false,
                     "id": 3366743,
                     "language": "Lua",
-                    "last_commit": "2026-07-17T08:23:46Z",
+                    "last_commit": "2026-08-24T07:34:57Z",
                     "owner": "openresty",
                     "repo": "lua-resty-redis",
                     "stars": 1956
@@ -1829,6 +1917,28 @@
           "description": null,
           "node_type": "group",
           "title": "Testing"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "luaffi",
+              "description": "Standalone FFI library, compatible with the LuaJIT FFI interface.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 2002714,
+                "language": "C",
+                "last_commit": "2020-12-19T19:26:32Z",
+                "owner": "jmckaskill",
+                "repo": "luaffi",
+                "stars": 477
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Foreign Function Interfaces"
         },
         {
           "children": [
@@ -2027,10 +2137,10 @@
                 "archived": false,
                 "id": 8986217,
                 "language": "Lua",
-                "last_commit": "2026-08-23T14:30:02Z",
+                "last_commit": "2026-08-24T10:56:05Z",
                 "owner": "koreader",
                 "repo": "koreader",
-                "stars": 29215
+                "stars": 29234
               }
             },
             {
@@ -2063,6 +2173,50 @@
           "children": [
             {
               "node_type": "item",
+              "title": "Olivine style guide",
+              "description": "A more opinionated and specific, and therefore more rigorous, guide.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 7496828,
+                "language": null,
+                "last_commit": "2021-08-29T23:04:49Z",
+                "owner": "Olivine-Labs",
+                "repo": "lua-style-guide",
+                "stars": 549
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Style Guides"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Lua Missions",
+              "description": "A series of 'Missions' to work through which are designed to teach aspects of Lua along the way.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1834518,
+                "language": "Lua",
+                "last_commit": "2024-06-08T17:54:21Z",
+                "owner": "kikito",
+                "repo": "lua_missions",
+                "stars": 396
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Tutorials"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "awesome-love2d",
               "description": "A list like this one, but focused on game dev and the LÖVE platform.",
               "children": [],
@@ -2070,10 +2224,10 @@
                 "archived": false,
                 "id": 42526631,
                 "language": "PowerShell",
-                "last_commit": "2026-06-18T20:27:08Z",
+                "last_commit": "2026-08-23T19:12:18Z",
                 "owner": "love2d-community",
                 "repo": "awesome-love2d",
-                "stars": 4475
+                "stars": 4474
               }
             },
             {
@@ -2101,7 +2255,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T16:36:44.998Z",
+    "last_updated": "2026-08-24T13:59:34.763Z",
     "original_repository": "LewisJEllis/awesome-lua",
     "original_repository_id": 23039606,
     "original_repository_sha": "5cda10f263190f2c926d95652044a17ef937d6f8",
