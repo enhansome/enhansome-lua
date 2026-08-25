@@ -2,7 +2,7 @@
 
 > A curated list of quality Lua [packages](#packages) and [resources](#resources).
 
-Inspired by the lists [awesome](https://github.com/sindresorhus/awesome) ⭐ 499,691 | 🐛 106 | 📅 2026-08-21, [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) ⭐ 33,625 | 🐛 61 | 🌐 Ruby | 📅 2024-06-02, and [awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) ⭐ 66,621 | 🐛 26 | 📅 2026-05-03.
+Inspired by the lists [awesome](https://github.com/sindresorhus/awesome) ⭐ 499,853 | 🐛 106 | 📅 2026-08-21, [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) ⭐ 33,624 | 🐛 61 | 🌐 Ruby | 📅 2024-06-02, and [awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) ⭐ 66,616 | 🐛 26 | 📅 2026-05-03.
 
 ## Packages
 
@@ -55,7 +55,7 @@ Inspired by the lists [awesome](https://github.com/sindresorhus/awesome) ⭐ 499
 
 ### Implementations, Interpreters, and Bindings
 
-* [GopherLua](https://github.com/yuin/gopher-lua) ⭐ 6,970 | 🐛 103 | 🌐 Go | 📅 2026-04-01 - Lua 5.1 VM and compiler implemented in Go with Go APIs.
+* [GopherLua](https://github.com/yuin/gopher-lua) ⭐ 6,972 | 🐛 103 | 🌐 Go | 📅 2026-04-01 - Lua 5.1 VM and compiler implemented in Go with Go APIs.
 * [LuaBridge](https://github.com/vinniefalco/LuaBridge) ⭐ 1,778 | 🐛 48 | 🌐 C | 📅 2025-10-13 - A lightweight library for mapping data, functions, and classes back and forth between C++ and Lua.
 * [MoonSharp](https://github.com/xanathar/moonsharp) ⭐ 1,613 | 🐛 111 | 🌐 C# | 📅 2026-08-04 - A Lua interpreter written entirely in C# for the .NET, Mono and Unity platforms.
 * [lupa](https://github.com/scoder/lupa) ⭐ 1,148 | 🐛 61 | 🌐 Python | 📅 2026-07-17 - Python bindings to LuaJIT2.
@@ -269,7 +269,7 @@ For more on the differences (particularly between `lanes` and `luaproc`), see th
 ### Humanize
 
 * [inspect.lua](https://github.com/kikito/inspect.lua) ⭐ 1,538 | 🐛 4 | 🌐 Lua | 📅 2026-01-05 - Human-readable representation of Lua tables.
-* [serpent](https://github.com/pkulchenko/serpent) ⭐ 621 | 🐛 12 | 🌐 Lua | 📅 2022-05-21 - Serializer and pretty printer.
+* [serpent](https://github.com/pkulchenko/serpent) ⭐ 620 | 🐛 12 | 🌐 Lua | 📅 2022-05-21 - Serializer and pretty printer.
 * [i18n.lua](https://github.com/kikito/i18n.lua) ⭐ 271 | 🐛 11 | 🌐 Lua | 📅 2022-11-10 - Internationalization library with locales, formatting, and pluralization.
 * [Ser](https://github.com/gvx/Ser) ⭐ 85 | 🐛 0 | 🌐 Lua | 📅 2016-05-19 - Dead simple serializer with good performance.
 * [say](https://github.com/Olivine-Labs/say) ⭐ 51 | 🐛 0 | 🌐 Lua | 📅 2026-08-15 - Simple string key-value store for i18n.
@@ -325,7 +325,7 @@ For more on the differences (particularly between `lanes` and `luaproc`), see th
 
 ### Analysis Tools and ASTs
 
-* [luacheck](https://github.com/mpeterv/luacheck) ⭐ 2,048 | 🐛 46 | 🌐 Lua | 📅 2022-12-18 - Simple static analyzer which detects accidental globals and undefined or shadowed locals.
+* [luacheck](https://github.com/mpeterv/luacheck) ⭐ 2,047 | 🐛 46 | 🌐 Lua | 📅 2022-12-18 - Simple static analyzer which detects accidental globals and undefined or shadowed locals.
 * [Typed Lua](https://github.com/andremm/typedlua) ⭐ 589 | 🐛 28 | 🌐 Lua | 📅 2020-03-11 - A typed superset of Lua that compiles to plain Lua.
 * [Metalua](https://github.com/fab13n/metalua) ⭐ 369 | 🐛 19 | 🌐 Lua | 📅 2024-01-16 - Pure Lua parser and compiler, used for generating ASTs. A number of other tools make use of the Metalua parser in this way.
 * [luadec51](https://github.com/sztupy/luadec51) ⭐ 357 | 🐛 7 | 🌐 C | 📅 2022-03-14 - Lua Decompiler for Lua version 5.1.
@@ -343,7 +343,7 @@ For more on the differences (particularly between `lanes` and `luaproc`), see th
 
 ### Scriptable by Lua
 
-* [KoReader](https://github.com/koreader/koreader) ⭐ 29,245 | 🐛 1,324 | 🌐 Lua | 📅 2026-08-24 - An ebook reader application supports PDF, DJVU, EPUB, FB2 and much more, running on Kindle, Kobo, PocketBook and Android devices.
+* [KoReader](https://github.com/koreader/koreader) ⭐ 29,257 | 🐛 1,324 | 🌐 Lua | 📅 2026-08-25 - An ebook reader application supports PDF, DJVU, EPUB, FB2 and much more, running on Kindle, Kobo, PocketBook and Android devices.
 * [kpie](https://github.com/skx/kpie) ⚠️ Archived - A scripting utility to juggle windows.
 * [luakit](https://luakit.github.io/luakit/) - Fast, small, webkit based browser framework extensible by Lua.
 * [Hammerspoon](http://www.hammerspoon.org) - A powerful, extensible OS X automation tool. A community-maintained fork of [Mjolnir](http://www.mjolnir.io/).
@@ -381,7 +381,7 @@ For more on the differences (particularly between `lanes` and `luaproc`), see th
 
 ### Style Guides
 
-* [Olivine style guide](https://github.com/Olivine-Labs/lua-style-guide) ⭐ 549 | 🐛 9 | 📅 2021-08-29 - A more opinionated and specific, and therefore more rigorous, guide.
+* [Olivine style guide](https://github.com/Olivine-Labs/lua-style-guide) ⭐ 548 | 🐛 9 | 📅 2021-08-29 - A more opinionated and specific, and therefore more rigorous, guide.
 * [Lua-users style guide](http://lua-users.org/wiki/LuaStyleGuide) - A general, high-level style guide; unopinionated, easily agreed on.
 
 ### Tutorials
