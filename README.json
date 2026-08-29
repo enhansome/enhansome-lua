@@ -21,7 +21,7 @@
                 "open_issues": 103,
                 "owner": "yuin",
                 "repo": "gopher-lua",
-                "stars": 6973,
+                "stars": 6974,
                 "topics": [
                   "go",
                   "gopher-lua",
@@ -64,7 +64,7 @@
                 "language": "C#",
                 "license": "NOASSERTION",
                 "last_commit": "2026-08-04T06:45:45Z",
-                "open_issues": 111,
+                "open_issues": 112,
                 "owner": "moonsharp-devs",
                 "repo": "moonsharp",
                 "stars": 1614,
@@ -232,7 +232,7 @@
                     "open_issues": 0,
                     "owner": "lua",
                     "repo": "lua",
-                    "stars": 10260,
+                    "stars": 10262,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:31:51.080Z"
@@ -790,7 +790,7 @@
                     "open_issues": 13,
                     "owner": "kikito",
                     "repo": "bump.lua",
-                    "stars": 1098,
+                    "stars": 1099,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:31:51.080Z"
@@ -1108,7 +1108,7 @@
                     "open_issues": 191,
                     "owner": "Kong",
                     "repo": "kong",
-                    "stars": 44055,
+                    "stars": 44058,
                     "topics": [
                       "ai",
                       "ai-gateway",
@@ -2103,7 +2103,7 @@
                 "open_issues": 4,
                 "owner": "kikito",
                 "repo": "inspect.lua",
-                "stars": 1538,
+                "stars": 1539,
                 "topics": [
                   "human-readable",
                   "lua",
@@ -2355,8 +2355,8 @@
                 "id": 4002075,
                 "language": "HTML",
                 "license": "MIT",
-                "last_commit": "2026-08-17T05:39:55Z",
-                "open_issues": 106,
+                "last_commit": "2026-08-29T18:05:00Z",
+                "open_issues": 107,
                 "owner": "lunarmodules",
                 "repo": "luasocket",
                 "stars": 2021,
@@ -3072,11 +3072,11 @@
                 "id": 8986217,
                 "language": "Lua",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-08-29T00:23:31Z",
-                "open_issues": 1326,
+                "last_commit": "2026-08-29T15:54:43Z",
+                "open_issues": 1328,
                 "owner": "koreader",
                 "repo": "koreader",
-                "stars": 29334,
+                "stars": 29356,
                 "topics": [
                   "cbz",
                   "djvu",
@@ -3250,7 +3250,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:16:13.673Z",
+    "last_updated": "2026-08-29T19:22:29.462Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of quality Lua packages and resources.",
@@ -3262,7 +3262,7 @@
       "open_issues": 48,
       "owner": "LewisJEllis",
       "repo": "awesome-lua",
-      "stars": 4559,
+      "stars": 4560,
       "topics": []
     },
     "original_repository_sha": "5cda10f263190f2c926d95652044a17ef937d6f8",
