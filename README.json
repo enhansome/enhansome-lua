@@ -17,8 +17,9 @@
                 "last_commit": "2026-04-01T00:54:16Z",
                 "owner": "yuin",
                 "repo": "gopher-lua",
-                "stars": 6974
-              }
+                "stars": 6973
+              },
+              "first_seen": "2026-08-29T00:31:51.080Z"
             },
             {
               "node_type": "item",
@@ -33,7 +34,8 @@
                 "owner": "vinniefalco",
                 "repo": "LuaBridge",
                 "stars": 1779
-              }
+              },
+              "first_seen": "2026-08-29T00:31:51.080Z"
             },
             {
               "node_type": "item",
@@ -47,8 +49,9 @@
                 "last_commit": "2026-08-04T06:45:45Z",
                 "owner": "moonsharp-devs",
                 "repo": "moonsharp",
-                "stars": 1613
-              }
+                "stars": 1614
+              },
+              "first_seen": "2026-08-29T00:31:51.080Z"
             },
             {
               "node_type": "item",
@@ -63,7 +66,8 @@
                 "owner": "scoder",
                 "repo": "lupa",
                 "stars": 1148
-              }
+              },
+              "first_seen": "2026-08-29T00:31:51.080Z"
             },
             {
               "node_type": "item",
@@ -78,7 +82,8 @@
                 "owner": "xebecnan",
                 "repo": "UniLua",
                 "stars": 1121
-              }
+              },
+              "first_seen": "2026-08-29T00:31:51.080Z"
             },
             {
               "node_type": "item",
@@ -93,7 +98,8 @@
                 "owner": "daurnimator",
                 "repo": "lua.vm.js",
                 "stars": 840
-              }
+              },
+              "first_seen": "2026-08-29T00:31:51.080Z"
             },
             {
               "node_type": "item",
@@ -107,8 +113,9 @@
                 "last_commit": "2025-02-17T09:14:09Z",
                 "owner": "aarzilli",
                 "repo": "golua",
-                "stars": 700
-              }
+                "stars": 701
+              },
+              "first_seen": "2026-08-29T00:31:51.080Z"
             },
             {
               "node_type": "item",
@@ -123,7 +130,8 @@
                 "owner": "gamesys",
                 "repo": "moonshine",
                 "stars": 507
-              }
+              },
+              "first_seen": "2026-08-29T00:31:51.080Z"
             },
             {
               "node_type": "item",
@@ -138,7 +146,8 @@
                 "owner": "Neopallium",
                 "repo": "llvm-lua",
                 "stars": 162
-              }
+              },
+              "first_seen": "2026-08-29T00:31:51.080Z"
             },
             {
               "node_type": "group",
@@ -154,11 +163,12 @@
                     "archived": false,
                     "id": 5805256,
                     "language": "C",
-                    "last_commit": "2026-08-07T19:00:03Z",
+                    "last_commit": "2026-08-28T12:38:45Z",
                     "owner": "lua",
                     "repo": "lua",
-                    "stars": 10256
-                  }
+                    "stars": 10259
+                  },
+                  "first_seen": "2026-08-29T00:31:51.080Z"
                 }
               ]
             }
@@ -182,7 +192,8 @@
                 "owner": "ers35",
                 "repo": "luastatic",
                 "stars": 875
-              }
+              },
+              "first_seen": "2026-08-29T00:31:51.080Z"
             },
             {
               "node_type": "item",
@@ -197,7 +208,8 @@
                 "owner": "stevedonovan",
                 "repo": "Lake",
                 "stars": 143
-              }
+              },
+              "first_seen": "2026-08-29T00:31:51.080Z"
             },
             {
               "node_type": "item",
@@ -212,7 +224,8 @@
                 "owner": "stevedonovan",
                 "repo": "luabuild",
                 "stars": 81
-              }
+              },
+              "first_seen": "2026-08-29T00:31:51.080Z"
             },
             {
               "node_type": "item",
@@ -227,7 +240,8 @@
                 "owner": "tongson",
                 "repo": "omnia",
                 "stars": 47
-              }
+              },
+              "first_seen": "2026-08-29T00:31:51.080Z"
             }
           ],
           "description": null,
@@ -249,7 +263,8 @@
                 "owner": "pkulchenko",
                 "repo": "MobDebug",
                 "stars": 947
-              }
+              },
+              "first_seen": "2026-08-29T00:31:51.080Z"
             },
             {
               "node_type": "item",
@@ -264,7 +279,8 @@
                 "owner": "rxi",
                 "repo": "lovebird",
                 "stars": 329
-              }
+              },
+              "first_seen": "2026-08-29T00:31:51.080Z"
             },
             {
               "node_type": "item",
@@ -279,7 +295,8 @@
                 "owner": "ignacio",
                 "repo": "StackTracePlus",
                 "stars": 200
-              }
+              },
+              "first_seen": "2026-08-29T00:31:51.080Z"
             },
             {
               "node_type": "item",
@@ -294,7 +311,8 @@
                 "owner": "geoffleyland",
                 "repo": "luatrace",
                 "stars": 179
-              }
+              },
+              "first_seen": "2026-08-29T00:31:51.080Z"
             }
           ],
           "description": null,
@@ -316,7 +334,8 @@
                 "owner": "immerrr",
                 "repo": "lua-mode",
                 "stars": 344
-              }
+              },
+              "first_seen": "2026-08-29T00:31:51.080Z"
             },
             {
               "node_type": "item",
@@ -331,7 +350,8 @@
                 "owner": "trixnz",
                 "repo": "vscode-lua",
                 "stars": 124
-              }
+              },
+              "first_seen": "2026-08-29T00:31:51.080Z"
             }
           ],
           "description": null,
@@ -352,8 +372,9 @@
                 "last_commit": "2025-04-15T14:55:30Z",
                 "owner": "luafun",
                 "repo": "luafun",
-                "stars": 2261
-              }
+                "stars": 2262
+              },
+              "first_seen": "2026-08-29T00:31:51.080Z"
             },
             {
               "node_type": "item",
@@ -368,7 +389,8 @@
                 "owner": "lunarmodules",
                 "repo": "Penlight",
                 "stars": 2125
-              }
+              },
+              "first_seen": "2026-08-29T00:31:51.080Z"
             },
             {
               "node_type": "item",
@@ -383,7 +405,8 @@
                 "owner": "Yonaba",
                 "repo": "Moses",
                 "stars": 655
-              }
+              },
+              "first_seen": "2026-08-29T00:31:51.080Z"
             },
             {
               "node_type": "item",
@@ -398,7 +421,8 @@
                 "owner": "bjornbytes",
                 "repo": "RxLua",
                 "stars": 537
-              }
+              },
+              "first_seen": "2026-08-29T00:31:51.080Z"
             },
             {
               "node_type": "item",
@@ -413,7 +437,8 @@
                 "owner": "lua-stdlib",
                 "repo": "lua-stdlib",
                 "stars": 305
-              }
+              },
+              "first_seen": "2026-08-29T00:31:51.080Z"
             },
             {
               "node_type": "item",
@@ -428,7 +453,8 @@
                 "owner": "stevedonovan",
                 "repo": "Microlight",
                 "stars": 190
-              }
+              },
+              "first_seen": "2026-08-29T00:31:51.080Z"
             }
           ],
           "description": null,
@@ -450,7 +476,8 @@
                 "owner": "rxi",
                 "repo": "lume",
                 "stars": 1240
-              }
+              },
+              "first_seen": "2026-08-29T00:31:51.080Z"
             },
             {
               "node_type": "item",
@@ -465,7 +492,8 @@
                 "owner": "Yonaba",
                 "repo": "Jumper",
                 "stars": 650
-              }
+              },
+              "first_seen": "2026-08-29T00:31:51.080Z"
             },
             {
               "node_type": "item",
@@ -480,7 +508,8 @@
                 "owner": "Overtorment",
                 "repo": "NoobHub",
                 "stars": 355
-              }
+              },
+              "first_seen": "2026-08-29T00:31:51.080Z"
             },
             {
               "node_type": "group",
@@ -500,7 +529,8 @@
                     "owner": "love2d-community",
                     "repo": "awesome-love2d",
                     "stars": 4478
-                  }
+                  },
+                  "first_seen": "2026-08-29T00:31:51.080Z"
                 },
                 {
                   "node_type": "item",
@@ -515,7 +545,8 @@
                     "owner": "rxi",
                     "repo": "lurker",
                     "stars": 378
-                  }
+                  },
+                  "first_seen": "2026-08-29T00:31:51.080Z"
                 }
               ]
             },
@@ -536,8 +567,9 @@
                     "last_commit": "2023-09-29T16:28:50Z",
                     "owner": "kikito",
                     "repo": "bump.lua",
-                    "stars": 1099
-                  }
+                    "stars": 1098
+                  },
+                  "first_seen": "2026-08-29T00:31:51.080Z"
                 }
               ]
             },
@@ -559,7 +591,8 @@
                     "owner": "kikito",
                     "repo": "tween.lua",
                     "stars": 664
-                  }
+                  },
+                  "first_seen": "2026-08-29T00:31:51.080Z"
                 },
                 {
                   "node_type": "item",
@@ -574,7 +607,8 @@
                     "owner": "rxi",
                     "repo": "flux",
                     "stars": 486
-                  }
+                  },
+                  "first_seen": "2026-08-29T00:31:51.080Z"
                 }
               ]
             },
@@ -596,7 +630,8 @@
                     "owner": "hawkthorne",
                     "repo": "hawkthorne-journey",
                     "stars": 1150
-                  }
+                  },
+                  "first_seen": "2026-08-29T00:31:51.080Z"
                 },
                 {
                   "node_type": "item",
@@ -610,8 +645,9 @@
                     "last_commit": "2023-09-15T02:33:44Z",
                     "owner": "Stabyourself",
                     "repo": "mari0",
-                    "stars": 770
-                  }
+                    "stars": 771
+                  },
+                  "first_seen": "2026-08-29T00:31:51.080Z"
                 },
                 {
                   "node_type": "item",
@@ -626,7 +662,8 @@
                     "owner": "tylerneylon",
                     "repo": "termtris",
                     "stars": 463
-                  }
+                  },
+                  "first_seen": "2026-08-29T00:31:51.080Z"
                 },
                 {
                   "node_type": "item",
@@ -641,7 +678,8 @@
                     "owner": "tylerneylon",
                     "repo": "pacpac",
                     "stars": 353
-                  }
+                  },
+                  "first_seen": "2026-08-29T00:31:51.080Z"
                 }
               ]
             }
@@ -665,7 +703,8 @@
                 "owner": "Neopallium",
                 "repo": "lualogging",
                 "stars": 145
-              }
+              },
+              "first_seen": "2026-08-29T00:31:51.080Z"
             },
             {
               "node_type": "item",
@@ -680,7 +719,8 @@
                 "owner": "moteus",
                 "repo": "lua-log",
                 "stars": 114
-              }
+              },
+              "first_seen": "2026-08-29T00:31:51.080Z"
             }
           ],
           "description": null,
@@ -701,8 +741,9 @@
                 "last_commit": "2026-03-08T10:23:18Z",
                 "owner": "EvandroLG",
                 "repo": "pegasus.lua",
-                "stars": 467
-              }
+                "stars": 468
+              },
+              "first_seen": "2026-08-29T00:31:51.080Z"
             }
           ],
           "description": null,
@@ -724,7 +765,8 @@
                 "owner": "bungle",
                 "repo": "awesome-resty",
                 "stars": 2484
-              }
+              },
+              "first_seen": "2026-08-29T00:31:51.080Z"
             },
             {
               "node_type": "group",
@@ -744,7 +786,8 @@
                     "owner": "ledgetech",
                     "repo": "lua-resty-http",
                     "stars": 2078
-                  }
+                  },
+                  "first_seen": "2026-08-29T00:31:51.080Z"
                 }
               ]
             },
@@ -765,8 +808,9 @@
                     "last_commit": "2026-08-16T14:44:43Z",
                     "owner": "Kong",
                     "repo": "kong",
-                    "stars": 44050
-                  }
+                    "stars": 44055
+                  },
+                  "first_seen": "2026-08-29T00:31:51.080Z"
                 },
                 {
                   "node_type": "item",
@@ -781,7 +825,8 @@
                     "owner": "sailorproject",
                     "repo": "sailor",
                     "stars": 935
-                  }
+                  },
+                  "first_seen": "2026-08-29T00:31:51.080Z"
                 },
                 {
                   "node_type": "item",
@@ -796,7 +841,8 @@
                     "owner": "ledgetech",
                     "repo": "ledge",
                     "stars": 458
-                  }
+                  },
+                  "first_seen": "2026-08-29T00:31:51.080Z"
                 }
               ]
             }
@@ -820,7 +866,8 @@
                 "owner": "mpeterv",
                 "repo": "argparse",
                 "stars": 289
-              }
+              },
+              "first_seen": "2026-08-29T00:31:51.080Z"
             },
             {
               "node_type": "item",
@@ -835,7 +882,8 @@
                 "owner": "hoelzro",
                 "repo": "lua-term",
                 "stars": 175
-              }
+              },
+              "first_seen": "2026-08-29T00:31:51.080Z"
             },
             {
               "node_type": "item",
@@ -850,7 +898,8 @@
                 "owner": "kikito",
                 "repo": "ansicolors.lua",
                 "stars": 155
-              }
+              },
+              "first_seen": "2026-08-29T00:31:51.080Z"
             },
             {
               "node_type": "item",
@@ -865,7 +914,8 @@
                 "owner": "lunarmodules",
                 "repo": "lua_cliargs",
                 "stars": 128
-              }
+              },
+              "first_seen": "2026-08-29T00:31:51.080Z"
             }
           ],
           "description": null,
@@ -892,7 +942,8 @@
                     "owner": "lefcha",
                     "repo": "concurrentlua",
                     "stars": 162
-                  }
+                  },
+                  "first_seen": "2026-08-29T00:31:51.080Z"
                 },
                 {
                   "node_type": "item",
@@ -907,7 +958,8 @@
                     "owner": "xopxe",
                     "repo": "lumen",
                     "stars": 161
-                  }
+                  },
+                  "first_seen": "2026-08-29T00:31:51.080Z"
                 }
               ]
             },
@@ -929,7 +981,8 @@
                     "owner": "LuaLanes",
                     "repo": "lanes",
                     "stars": 538
-                  }
+                  },
+                  "first_seen": "2026-08-29T00:31:51.080Z"
                 },
                 {
                   "node_type": "item",
@@ -944,7 +997,8 @@
                     "owner": "Neopallium",
                     "repo": "lua-llthreads",
                     "stars": 150
-                  }
+                  },
+                  "first_seen": "2026-08-29T00:31:51.080Z"
                 },
                 {
                   "node_type": "item",
@@ -959,7 +1013,8 @@
                     "owner": "askyrme",
                     "repo": "luaproc",
                     "stars": 130
-                  }
+                  },
+                  "first_seen": "2026-08-29T00:31:51.080Z"
                 },
                 {
                   "node_type": "item",
@@ -974,7 +1029,8 @@
                     "owner": "moteus",
                     "repo": "lua-llthreads2",
                     "stars": 80
-                  }
+                  },
+                  "first_seen": "2026-08-29T00:31:51.080Z"
                 }
               ]
             }
@@ -998,7 +1054,8 @@
                 "owner": "bungle",
                 "repo": "lua-resty-template",
                 "stars": 923
-              }
+              },
+              "first_seen": "2026-08-29T00:31:51.080Z"
             },
             {
               "node_type": "item",
@@ -1013,7 +1070,8 @@
                 "owner": "leafo",
                 "repo": "etlua",
                 "stars": 258
-              }
+              },
+              "first_seen": "2026-08-29T00:31:51.080Z"
             }
           ],
           "description": null,
@@ -1035,7 +1093,8 @@
                 "owner": "bjornbytes",
                 "repo": "docroc",
                 "stars": 14
-              }
+              },
+              "first_seen": "2026-08-29T00:31:51.080Z"
             }
           ],
           "description": null,
@@ -1057,7 +1116,8 @@
                 "owner": "kikito",
                 "repo": "middleclass",
                 "stars": 1919
-              }
+              },
+              "first_seen": "2026-08-29T00:31:51.080Z"
             },
             {
               "node_type": "item",
@@ -1072,7 +1132,8 @@
                 "owner": "Yonaba",
                 "repo": "30log",
                 "stars": 484
-              }
+              },
+              "first_seen": "2026-08-29T00:31:51.080Z"
             }
           ],
           "description": null,
@@ -1094,7 +1155,8 @@
                 "owner": "luaposix",
                 "repo": "luaposix",
                 "stars": 591
-              }
+              },
+              "first_seen": "2026-08-29T00:31:51.080Z"
             },
             {
               "node_type": "item",
@@ -1109,7 +1171,8 @@
                 "owner": "moteus",
                 "repo": "lua-path",
                 "stars": 90
-              }
+              },
+              "first_seen": "2026-08-29T00:31:51.080Z"
             }
           ],
           "description": null,
@@ -1131,7 +1194,8 @@
                 "owner": "Tieske",
                 "repo": "date",
                 "stars": 275
-              }
+              },
+              "first_seen": "2026-08-29T00:31:51.080Z"
             },
             {
               "node_type": "item",
@@ -1146,7 +1210,8 @@
                 "owner": "kikito",
                 "repo": "cron.lua",
                 "stars": 188
-              }
+              },
+              "first_seen": "2026-08-29T00:31:51.080Z"
             },
             {
               "node_type": "item",
@@ -1161,7 +1226,8 @@
                 "owner": "daurnimator",
                 "repo": "luatz",
                 "stars": 140
-              }
+              },
+              "first_seen": "2026-08-29T00:31:51.080Z"
             }
           ],
           "description": null,
@@ -1183,7 +1249,8 @@
                 "owner": "leafo",
                 "repo": "magick",
                 "stars": 427
-              }
+              },
+              "first_seen": "2026-08-29T00:31:51.080Z"
             }
           ],
           "description": null,
@@ -1205,7 +1272,8 @@
                 "owner": "h4rm",
                 "repo": "luafft",
                 "stars": 65
-              }
+              },
+              "first_seen": "2026-08-29T00:31:51.080Z"
             }
           ],
           "description": null,
@@ -1227,7 +1295,8 @@
                 "owner": "Neopallium",
                 "repo": "lua-pb",
                 "stars": 293
-              }
+              },
+              "first_seen": "2026-08-29T00:31:51.080Z"
             },
             {
               "node_type": "item",
@@ -1242,7 +1311,8 @@
                 "owner": "gvvaughan",
                 "repo": "lyaml",
                 "stars": 229
-              }
+              },
+              "first_seen": "2026-08-29T00:31:51.080Z"
             },
             {
               "node_type": "item",
@@ -1257,7 +1327,8 @@
                 "owner": "jgm",
                 "repo": "lunamark",
                 "stars": 220
-              }
+              },
+              "first_seen": "2026-08-29T00:31:51.080Z"
             },
             {
               "node_type": "item",
@@ -1272,7 +1343,8 @@
                 "owner": "xolox",
                 "repo": "lua-lxsh",
                 "stars": 76
-              }
+              },
+              "first_seen": "2026-08-29T00:31:51.080Z"
             },
             {
               "node_type": "group",
@@ -1292,7 +1364,8 @@
                     "owner": "rxi",
                     "repo": "json.lua",
                     "stars": 2185
-                  }
+                  },
+                  "first_seen": "2026-08-29T00:31:51.080Z"
                 },
                 {
                   "node_type": "item",
@@ -1307,7 +1380,8 @@
                     "owner": "mpx",
                     "repo": "lua-cjson",
                     "stars": 997
-                  }
+                  },
+                  "first_seen": "2026-08-29T00:31:51.080Z"
                 },
                 {
                   "node_type": "item",
@@ -1322,7 +1396,8 @@
                     "owner": "harningt",
                     "repo": "luajson",
                     "stars": 257
-                  }
+                  },
+                  "first_seen": "2026-08-29T00:31:51.080Z"
                 }
               ]
             },
@@ -1344,7 +1419,8 @@
                     "owner": "Phrogz",
                     "repo": "SLAXML",
                     "stars": 165
-                  }
+                  },
+                  "first_seen": "2026-08-29T00:31:51.080Z"
                 }
               ]
             },
@@ -1366,7 +1442,8 @@
                     "owner": "antirez",
                     "repo": "lua-cmsgpack",
                     "stars": 384
-                  }
+                  },
+                  "first_seen": "2026-08-29T00:31:51.080Z"
                 }
               ]
             },
@@ -1388,7 +1465,8 @@
                     "owner": "pygy",
                     "repo": "LuLPeg",
                     "stars": 272
-                  }
+                  },
+                  "first_seen": "2026-08-29T00:31:51.080Z"
                 },
                 {
                   "node_type": "item",
@@ -1403,7 +1481,8 @@
                     "owner": "sqmedeiros",
                     "repo": "lpeglabel",
                     "stars": 151
-                  }
+                  },
+                  "first_seen": "2026-08-29T00:31:51.080Z"
                 },
                 {
                   "node_type": "item",
@@ -1418,7 +1497,8 @@
                     "owner": "daurnimator",
                     "repo": "lpeg_patterns",
                     "stars": 129
-                  }
+                  },
+                  "first_seen": "2026-08-29T00:31:51.080Z"
                 },
                 {
                   "node_type": "item",
@@ -1433,7 +1513,8 @@
                     "owner": "sacek",
                     "repo": "LPegLJ",
                     "stars": 115
-                  }
+                  },
+                  "first_seen": "2026-08-29T00:31:51.080Z"
                 }
               ]
             }
@@ -1457,7 +1538,8 @@
                 "owner": "kikito",
                 "repo": "inspect.lua",
                 "stars": 1538
-              }
+              },
+              "first_seen": "2026-08-29T00:31:51.080Z"
             },
             {
               "node_type": "item",
@@ -1472,7 +1554,8 @@
                 "owner": "pkulchenko",
                 "repo": "serpent",
                 "stars": 620
-              }
+              },
+              "first_seen": "2026-08-29T00:31:51.080Z"
             },
             {
               "node_type": "item",
@@ -1487,7 +1570,8 @@
                 "owner": "kikito",
                 "repo": "i18n.lua",
                 "stars": 271
-              }
+              },
+              "first_seen": "2026-08-29T00:31:51.080Z"
             },
             {
               "node_type": "item",
@@ -1502,7 +1586,8 @@
                 "owner": "gvx",
                 "repo": "Ser",
                 "stars": 85
-              }
+              },
+              "first_seen": "2026-08-29T00:31:51.080Z"
             },
             {
               "node_type": "item",
@@ -1517,7 +1602,8 @@
                 "owner": "lunarmodules",
                 "repo": "say",
                 "stars": 51
-              }
+              },
+              "first_seen": "2026-08-29T00:31:51.080Z"
             }
           ],
           "description": null,
@@ -1539,7 +1625,8 @@
                 "owner": "brimworks",
                 "repo": "lua-zlib",
                 "stars": 288
-              }
+              },
+              "first_seen": "2026-08-29T00:31:51.080Z"
             },
             {
               "node_type": "item",
@@ -1554,7 +1641,8 @@
                 "owner": "brimworks",
                 "repo": "lua-zip",
                 "stars": 88
-              }
+              },
+              "first_seen": "2026-08-29T00:31:51.080Z"
             }
           ],
           "description": null,
@@ -1576,7 +1664,8 @@
                 "owner": "somesocks",
                 "repo": "lua-lockbox",
                 "stars": 377
-              }
+              },
+              "first_seen": "2026-08-29T00:31:51.080Z"
             },
             {
               "node_type": "item",
@@ -1591,7 +1680,8 @@
                 "owner": "wahern",
                 "repo": "luaossl",
                 "stars": 161
-              }
+              },
+              "first_seen": "2026-08-29T00:31:51.080Z"
             },
             {
               "node_type": "item",
@@ -1606,7 +1696,8 @@
                 "owner": "mkottman",
                 "repo": "luacrypto",
                 "stars": 104
-              }
+              },
+              "first_seen": "2026-08-29T00:31:51.080Z"
             },
             {
               "node_type": "item",
@@ -1621,7 +1712,8 @@
                 "owner": "philanc",
                 "repo": "luatweetnacl",
                 "stars": 18
-              }
+              },
+              "first_seen": "2026-08-29T00:31:51.080Z"
             }
           ],
           "description": null,
@@ -1643,7 +1735,8 @@
                 "owner": "lunarmodules",
                 "repo": "luasocket",
                 "stars": 2021
-              }
+              },
+              "first_seen": "2026-08-29T00:31:51.080Z"
             },
             {
               "node_type": "item",
@@ -1658,7 +1751,8 @@
                 "owner": "daurnimator",
                 "repo": "lua-http",
                 "stars": 874
-              }
+              },
+              "first_seen": "2026-08-29T00:31:51.080Z"
             },
             {
               "node_type": "item",
@@ -1673,7 +1767,8 @@
                 "owner": "lipp",
                 "repo": "lua-websockets",
                 "stars": 418
-              }
+              },
+              "first_seen": "2026-08-29T00:31:51.080Z"
             },
             {
               "node_type": "item",
@@ -1688,7 +1783,8 @@
                 "owner": "Lua-cURL",
                 "repo": "Lua-cURLv3",
                 "stars": 294
-              }
+              },
+              "first_seen": "2026-08-29T00:31:51.080Z"
             }
           ],
           "description": null,
@@ -1710,7 +1806,8 @@
                 "owner": "openresty",
                 "repo": "lua-resty-mysql",
                 "stars": 726
-              }
+              },
+              "first_seen": "2026-08-29T00:31:51.080Z"
             },
             {
               "node_type": "item",
@@ -1724,8 +1821,9 @@
                 "last_commit": "2026-08-11T14:59:08Z",
                 "owner": "leafo",
                 "repo": "pgmoon",
-                "stars": 433
-              }
+                "stars": 434
+              },
+              "first_seen": "2026-08-29T00:31:51.080Z"
             },
             {
               "node_type": "item",
@@ -1740,7 +1838,8 @@
                 "owner": "jbochi",
                 "repo": "lua-resty-cassandra",
                 "stars": 68
-              }
+              },
+              "first_seen": "2026-08-29T00:31:51.080Z"
             },
             {
               "node_type": "group",
@@ -1760,7 +1859,8 @@
                     "owner": "openresty",
                     "repo": "lua-resty-redis",
                     "stars": 1956
-                  }
+                  },
+                  "first_seen": "2026-08-29T00:31:51.080Z"
                 },
                 {
                   "node_type": "item",
@@ -1775,7 +1875,8 @@
                     "owner": "nrk",
                     "repo": "redis-lua",
                     "stars": 746
-                  }
+                  },
+                  "first_seen": "2026-08-29T00:31:51.080Z"
                 },
                 {
                   "node_type": "item",
@@ -1790,7 +1891,8 @@
                     "owner": "daurnimator",
                     "repo": "lredis",
                     "stars": 42
-                  }
+                  },
+                  "first_seen": "2026-08-29T00:31:51.080Z"
                 }
               ]
             }
@@ -1814,7 +1916,8 @@
                 "owner": "doujiang24",
                 "repo": "lua-resty-kafka",
                 "stars": 813
-              }
+              },
+              "first_seen": "2026-08-29T00:31:51.080Z"
             },
             {
               "node_type": "item",
@@ -1829,7 +1932,8 @@
                 "owner": "wingify",
                 "repo": "lua-resty-rabbitmqstomp",
                 "stars": 194
-              }
+              },
+              "first_seen": "2026-08-29T00:31:51.080Z"
             },
             {
               "node_type": "item",
@@ -1844,7 +1948,8 @@
                 "owner": "Neopallium",
                 "repo": "lua-zmq",
                 "stars": 158
-              }
+              },
+              "first_seen": "2026-08-29T00:31:51.080Z"
             },
             {
               "node_type": "item",
@@ -1859,7 +1964,8 @@
                 "owner": "zeromq",
                 "repo": "lzmq",
                 "stars": 145
-              }
+              },
+              "first_seen": "2026-08-29T00:31:51.080Z"
             }
           ],
           "description": null,
@@ -1881,7 +1987,8 @@
                 "owner": "lunarmodules",
                 "repo": "luassert",
                 "stars": 250
-              }
+              },
+              "first_seen": "2026-08-29T00:31:51.080Z"
             },
             {
               "node_type": "item",
@@ -1896,7 +2003,8 @@
                 "owner": "norman",
                 "repo": "telescope",
                 "stars": 164
-              }
+              },
+              "first_seen": "2026-08-29T00:31:51.080Z"
             },
             {
               "node_type": "item",
@@ -1911,7 +2019,8 @@
                 "owner": "bjornbytes",
                 "repo": "lust",
                 "stars": 134
-              }
+              },
+              "first_seen": "2026-08-29T00:31:51.080Z"
             }
           ],
           "description": null,
@@ -1933,7 +2042,8 @@
                 "owner": "jmckaskill",
                 "repo": "luaffi",
                 "stars": 476
-              }
+              },
+              "first_seen": "2026-08-29T00:31:51.080Z"
             }
           ],
           "description": null,
@@ -1954,8 +2064,9 @@
                 "last_commit": "2022-12-18T19:53:23Z",
                 "owner": "mpeterv",
                 "repo": "luacheck",
-                "stars": 2047
-              }
+                "stars": 2048
+              },
+              "first_seen": "2026-08-29T00:31:51.080Z"
             },
             {
               "node_type": "item",
@@ -1970,7 +2081,8 @@
                 "owner": "andremm",
                 "repo": "typedlua",
                 "stars": 589
-              }
+              },
+              "first_seen": "2026-08-29T00:31:51.080Z"
             },
             {
               "node_type": "item",
@@ -1985,7 +2097,8 @@
                 "owner": "fab13n",
                 "repo": "metalua",
                 "stars": 369
-              }
+              },
+              "first_seen": "2026-08-29T00:31:51.080Z"
             },
             {
               "node_type": "item",
@@ -1999,8 +2112,9 @@
                 "last_commit": "2022-03-14T09:24:38Z",
                 "owner": "sztupy",
                 "repo": "luadec51",
-                "stars": 357
-              }
+                "stars": 356
+              },
+              "first_seen": "2026-08-29T00:31:51.080Z"
             },
             {
               "node_type": "item",
@@ -2015,7 +2129,8 @@
                 "owner": "stravant",
                 "repo": "LuaMinify",
                 "stars": 275
-              }
+              },
+              "first_seen": "2026-08-29T00:31:51.080Z"
             },
             {
               "node_type": "item",
@@ -2030,7 +2145,8 @@
                 "owner": "andremm",
                 "repo": "lua-parser",
                 "stars": 209
-              }
+              },
+              "first_seen": "2026-08-29T00:31:51.080Z"
             },
             {
               "node_type": "item",
@@ -2045,7 +2161,8 @@
                 "owner": "davidm",
                 "repo": "lua-inspect",
                 "stars": 178
-              }
+              },
+              "first_seen": "2026-08-29T00:31:51.080Z"
             },
             {
               "node_type": "group",
@@ -2065,7 +2182,8 @@
                     "owner": "moteus",
                     "repo": "luacov-coveralls",
                     "stars": 48
-                  }
+                  },
+                  "first_seen": "2026-08-29T00:31:51.080Z"
                 }
               ]
             }
@@ -2089,7 +2207,8 @@
                 "owner": "luvit",
                 "repo": "luvit",
                 "stars": 3964
-              }
+              },
+              "first_seen": "2026-08-29T00:31:51.080Z"
             },
             {
               "node_type": "item",
@@ -2104,7 +2223,8 @@
                 "owner": "bjornbytes",
                 "repo": "graphql-lua",
                 "stars": 191
-              }
+              },
+              "first_seen": "2026-08-29T00:31:51.080Z"
             },
             {
               "node_type": "item",
@@ -2119,7 +2239,8 @@
                 "owner": "TannerRogalsky",
                 "repo": "punchdrunk",
                 "stars": 81
-              }
+              },
+              "first_seen": "2026-08-29T00:31:51.080Z"
             }
           ],
           "description": null,
@@ -2137,11 +2258,12 @@
                 "archived": false,
                 "id": 8986217,
                 "language": "Lua",
-                "last_commit": "2026-08-27T22:55:06Z",
+                "last_commit": "2026-08-29T00:23:31Z",
                 "owner": "koreader",
                 "repo": "koreader",
-                "stars": 29308
-              }
+                "stars": 29332
+              },
+              "first_seen": "2026-08-29T00:31:51.080Z"
             },
             {
               "node_type": "item",
@@ -2156,7 +2278,8 @@
                 "owner": "skx",
                 "repo": "kpie",
                 "stars": 80
-              }
+              },
+              "first_seen": "2026-08-29T00:31:51.080Z"
             }
           ],
           "description": null,
@@ -2184,7 +2307,8 @@
                 "owner": "Olivine-Labs",
                 "repo": "lua-style-guide",
                 "stars": 548
-              }
+              },
+              "first_seen": "2026-08-29T00:31:51.080Z"
             }
           ],
           "description": null,
@@ -2206,7 +2330,8 @@
                 "owner": "kikito",
                 "repo": "lua_missions",
                 "stars": 396
-              }
+              },
+              "first_seen": "2026-08-29T00:31:51.080Z"
             }
           ],
           "description": null,
@@ -2228,7 +2353,8 @@
                 "owner": "love2d-community",
                 "repo": "awesome-love2d",
                 "stars": 4478
-              }
+              },
+              "first_seen": "2026-08-29T00:31:51.080Z"
             },
             {
               "node_type": "item",
@@ -2243,7 +2369,8 @@
                 "owner": "bungle",
                 "repo": "awesome-resty",
                 "stars": 2484
-              }
+              },
+              "first_seen": "2026-08-29T00:31:51.080Z"
             }
           ],
           "description": null,
@@ -2255,7 +2382,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T00:50:43.096Z",
+    "last_updated": "2026-08-29T00:31:51.080Z",
     "original_repository_info": {
       "archived": false,
       "id": 23039606,
@@ -2263,7 +2390,7 @@
       "last_commit": "2024-08-11T17:32:00Z",
       "owner": "LewisJEllis",
       "repo": "awesome-lua",
-      "stars": 4557
+      "stars": 4559
     },
     "original_repository_sha": "5cda10f263190f2c926d95652044a17ef937d6f8",
     "enhanced_repository": "enhansome/enhansome-lua",
