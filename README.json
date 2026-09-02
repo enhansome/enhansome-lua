@@ -67,7 +67,7 @@
                 "open_issues": 112,
                 "owner": "moonsharp-devs",
                 "repo": "moonsharp",
-                "stars": 1614,
+                "stars": 1615,
                 "topics": [
                   "c-sharp",
                   "debugger",
@@ -232,7 +232,7 @@
                     "open_issues": 0,
                     "owner": "lua",
                     "repo": "lua",
-                    "stars": 10276,
+                    "stars": 10279,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:31:51.080Z"
@@ -378,7 +378,7 @@
                 "open_issues": 6,
                 "owner": "rxi",
                 "repo": "lovebird",
-                "stars": 329,
+                "stars": 328,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:31:51.080Z"
@@ -448,7 +448,7 @@
                 "open_issues": 37,
                 "owner": "immerrr",
                 "repo": "lua-mode",
-                "stars": 344,
+                "stars": 345,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:31:51.080Z"
@@ -735,7 +735,7 @@
                     "open_issues": 0,
                     "owner": "love2d-community",
                     "repo": "awesome-love2d",
-                    "stars": 4485,
+                    "stars": 4487,
                     "topics": [
                       "awesome",
                       "awesome-list",
@@ -790,7 +790,7 @@
                     "open_issues": 14,
                     "owner": "kikito",
                     "repo": "bump.lua",
-                    "stars": 1100,
+                    "stars": 1099,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:31:51.080Z"
@@ -818,7 +818,7 @@
                     "open_issues": 7,
                     "owner": "kikito",
                     "repo": "tween.lua",
-                    "stars": 664,
+                    "stars": 665,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:31:51.080Z"
@@ -1108,7 +1108,7 @@
                     "open_issues": 193,
                     "owner": "Kong",
                     "repo": "kong",
-                    "stars": 44071,
+                    "stars": 44077,
                     "topics": [
                       "ai",
                       "ai-gateway",
@@ -1313,7 +1313,7 @@
                     "open_issues": 0,
                     "owner": "lefcha",
                     "repo": "concurrentlua",
-                    "stars": 162,
+                    "stars": 163,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:31:51.080Z"
@@ -1538,7 +1538,7 @@
                 "open_issues": 1,
                 "owner": "kikito",
                 "repo": "middleclass",
-                "stars": 1920,
+                "stars": 1921,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:31:51.080Z"
@@ -2355,8 +2355,8 @@
                 "id": 4002075,
                 "language": "HTML",
                 "license": "MIT",
-                "last_commit": "2026-09-01T08:49:12Z",
-                "open_issues": 105,
+                "last_commit": "2026-09-02T18:57:48Z",
+                "open_issues": 104,
                 "owner": "lunarmodules",
                 "repo": "luasocket",
                 "stars": 2022,
@@ -2482,7 +2482,7 @@
                 "open_issues": 22,
                 "owner": "leafo",
                 "repo": "pgmoon",
-                "stars": 434,
+                "stars": 435,
                 "topics": [
                   "cqueues",
                   "lua",
@@ -2871,7 +2871,7 @@
                 "open_issues": 7,
                 "owner": "sztupy",
                 "repo": "luadec51",
-                "stars": 356,
+                "stars": 355,
                 "topics": [
                   "c",
                   "decompiler",
@@ -3072,11 +3072,11 @@
                 "id": 8986217,
                 "language": "Lua",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-09-01T17:26:54Z",
-                "open_issues": 1322,
+                "last_commit": "2026-09-02T17:41:38Z",
+                "open_issues": 1323,
                 "owner": "koreader",
                 "repo": "koreader",
-                "stars": 29417,
+                "stars": 29437,
                 "topics": [
                   "cbz",
                   "djvu",
@@ -3208,7 +3208,7 @@
                 "open_issues": 0,
                 "owner": "love2d-community",
                 "repo": "awesome-love2d",
-                "stars": 4485,
+                "stars": 4487,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -3250,7 +3250,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-01T19:21:29.340Z",
+    "last_updated": "2026-09-02T19:21:29.343Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of quality Lua packages and resources.",
@@ -3262,7 +3262,7 @@
       "open_issues": 49,
       "owner": "LewisJEllis",
       "repo": "awesome-lua",
-      "stars": 4564,
+      "stars": 4565,
       "topics": []
     },
     "original_repository_sha": "5cda10f263190f2c926d95652044a17ef937d6f8",
