@@ -46,7 +46,7 @@
                 "open_issues": 48,
                 "owner": "vinniefalco",
                 "repo": "LuaBridge",
-                "stars": 1779,
+                "stars": 1780,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:31:51.080Z"
@@ -232,7 +232,7 @@
                     "open_issues": 0,
                     "owner": "lua",
                     "repo": "lua",
-                    "stars": 10280,
+                    "stars": 10283,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:31:51.080Z"
@@ -651,7 +651,7 @@
                 "open_issues": 22,
                 "owner": "rxi",
                 "repo": "lume",
-                "stars": 1241,
+                "stars": 1242,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:31:51.080Z"
@@ -1105,10 +1105,10 @@
                     "language": "Lua",
                     "license": "Apache-2.0",
                     "last_commit": "2026-09-03T06:28:18Z",
-                    "open_issues": 194,
+                    "open_issues": 195,
                     "owner": "Kong",
                     "repo": "kong",
-                    "stars": 44080,
+                    "stars": 44084,
                     "topics": [
                       "ai",
                       "ai-gateway",
@@ -1270,7 +1270,7 @@
                 "id": 4819811,
                 "language": "Lua",
                 "license": "MIT",
-                "last_commit": "2026-08-15T09:12:32Z",
+                "last_commit": "2026-09-04T16:35:00Z",
                 "open_issues": 15,
                 "owner": "lunarmodules",
                 "repo": "lua_cliargs",
@@ -1538,7 +1538,7 @@
                 "open_issues": 1,
                 "owner": "kikito",
                 "repo": "middleclass",
-                "stars": 1921,
+                "stars": 1922,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:31:51.080Z"
@@ -1591,7 +1591,7 @@
                 "open_issues": 34,
                 "owner": "luaposix",
                 "repo": "luaposix",
-                "stars": 591,
+                "stars": 592,
                 "topics": [
                   "lua",
                   "lua-binding",
@@ -2045,7 +2045,7 @@
                     "open_issues": 9,
                     "owner": "daurnimator",
                     "repo": "lpeg_patterns",
-                    "stars": 131,
+                    "stars": 130,
                     "topics": [
                       "lpeg",
                       "lua",
@@ -2187,7 +2187,7 @@
                 "id": 5501959,
                 "language": "Lua",
                 "license": "MIT",
-                "last_commit": "2026-08-15T09:18:59Z",
+                "last_commit": "2026-09-04T16:35:46Z",
                 "open_issues": 0,
                 "owner": "lunarmodules",
                 "repo": "say",
@@ -2703,8 +2703,8 @@
                 "id": 5502005,
                 "language": "Lua",
                 "license": "MIT",
-                "last_commit": "2026-08-15T09:10:03Z",
-                "open_issues": 11,
+                "last_commit": "2026-09-04T07:45:47Z",
+                "open_issues": 12,
                 "owner": "lunarmodules",
                 "repo": "luassert",
                 "stars": 250,
@@ -3072,11 +3072,11 @@
                 "id": 8986217,
                 "language": "Lua",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-09-03T16:20:02Z",
-                "open_issues": 1322,
+                "last_commit": "2026-09-04T14:55:23Z",
+                "open_issues": 1326,
                 "owner": "koreader",
                 "repo": "koreader",
-                "stars": 29466,
+                "stars": 29487,
                 "topics": [
                   "cbz",
                   "djvu",
@@ -3250,7 +3250,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-03T19:15:49.477Z",
+    "last_updated": "2026-09-04T18:57:47.708Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of quality Lua packages and resources.",
@@ -3262,7 +3262,7 @@
       "open_issues": 49,
       "owner": "LewisJEllis",
       "repo": "awesome-lua",
-      "stars": 4565,
+      "stars": 4566,
       "topics": []
     },
     "original_repository_sha": "5cda10f263190f2c926d95652044a17ef937d6f8",
