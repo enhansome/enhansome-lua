@@ -228,11 +228,11 @@
                     "id": 5805256,
                     "language": "C",
                     "license": null,
-                    "last_commit": "2026-08-28T12:38:45Z",
+                    "last_commit": "2026-09-16T14:51:15Z",
                     "open_issues": 0,
                     "owner": "lua",
                     "repo": "lua",
-                    "stars": 10303,
+                    "stars": 10312,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:31:51.080Z"
@@ -523,7 +523,7 @@
                 "open_issues": 45,
                 "owner": "lunarmodules",
                 "repo": "Penlight",
-                "stars": 2128,
+                "stars": 2129,
                 "topics": [
                   "lua",
                   "lua-library",
@@ -735,7 +735,7 @@
                     "open_issues": 0,
                     "owner": "love2d-community",
                     "repo": "awesome-love2d",
-                    "stars": 4494,
+                    "stars": 4495,
                     "topics": [
                       "awesome",
                       "awesome-list",
@@ -867,7 +867,7 @@
                     "open_issues": 27,
                     "owner": "hawkthorne",
                     "repo": "hawkthorne-journey",
-                    "stars": 1149,
+                    "stars": 1150,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:31:51.080Z"
@@ -1108,7 +1108,7 @@
                     "open_issues": 200,
                     "owner": "Kong",
                     "repo": "kong",
-                    "stars": 44140,
+                    "stars": 44142,
                     "topics": [
                       "ai",
                       "ai-gateway",
@@ -1538,7 +1538,7 @@
                 "open_issues": 1,
                 "owner": "kikito",
                 "repo": "middleclass",
-                "stars": 1924,
+                "stars": 1925,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:31:51.080Z"
@@ -2240,7 +2240,7 @@
                 "open_issues": 5,
                 "owner": "brimworks",
                 "repo": "lua-zip",
-                "stars": 88,
+                "stars": 89,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:31:51.080Z"
@@ -2533,7 +2533,7 @@
                     "id": 3366743,
                     "language": "Lua",
                     "license": null,
-                    "last_commit": "2026-08-24T07:34:57Z",
+                    "last_commit": "2026-09-16T03:09:01Z",
                     "open_issues": 75,
                     "owner": "openresty",
                     "repo": "lua-resty-redis",
@@ -3072,11 +3072,11 @@
                 "id": 8986217,
                 "language": "Lua",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-09-15T17:57:17Z",
-                "open_issues": 1345,
+                "last_commit": "2026-09-16T18:33:07Z",
+                "open_issues": 1344,
                 "owner": "koreader",
                 "repo": "koreader",
-                "stars": 29721,
+                "stars": 29736,
                 "topics": [
                   "cbz",
                   "djvu",
@@ -3208,7 +3208,7 @@
                 "open_issues": 0,
                 "owner": "love2d-community",
                 "repo": "awesome-love2d",
-                "stars": 4494,
+                "stars": 4495,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -3250,7 +3250,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-15T19:40:02.627Z",
+    "last_updated": "2026-09-16T19:30:59.022Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of quality Lua packages and resources.",
@@ -3262,7 +3262,7 @@
       "open_issues": 50,
       "owner": "LewisJEllis",
       "repo": "awesome-lua",
-      "stars": 4570,
+      "stars": 4572,
       "topics": []
     },
     "original_repository_sha": "5cda10f263190f2c926d95652044a17ef937d6f8",
