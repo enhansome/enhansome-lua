@@ -46,7 +46,7 @@
                 "open_issues": 48,
                 "owner": "vinniefalco",
                 "repo": "LuaBridge",
-                "stars": 1782,
+                "stars": 1783,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:31:51.080Z"
@@ -228,11 +228,11 @@
                     "id": 5805256,
                     "language": "C",
                     "license": null,
-                    "last_commit": "2026-09-16T14:51:15Z",
+                    "last_commit": "2026-09-17T13:29:47Z",
                     "open_issues": 0,
                     "owner": "lua",
                     "repo": "lua",
-                    "stars": 10312,
+                    "stars": 10315,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:31:51.080Z"
@@ -497,7 +497,7 @@
                 "open_issues": 48,
                 "owner": "luafun",
                 "repo": "luafun",
-                "stars": 2263,
+                "stars": 2265,
                 "topics": [
                   "functional-programming",
                   "lua",
@@ -735,7 +735,7 @@
                     "open_issues": 0,
                     "owner": "love2d-community",
                     "repo": "awesome-love2d",
-                    "stars": 4495,
+                    "stars": 4496,
                     "topics": [
                       "awesome",
                       "awesome-list",
@@ -1108,7 +1108,7 @@
                     "open_issues": 200,
                     "owner": "Kong",
                     "repo": "kong",
-                    "stars": 44142,
+                    "stars": 44147,
                     "topics": [
                       "ai",
                       "ai-gateway",
@@ -2356,7 +2356,7 @@
                 "language": "HTML",
                 "license": "MIT",
                 "last_commit": "2026-09-02T18:57:48Z",
-                "open_issues": 103,
+                "open_issues": 104,
                 "owner": "lunarmodules",
                 "repo": "luasocket",
                 "stars": 2027,
@@ -2871,7 +2871,7 @@
                 "open_issues": 7,
                 "owner": "sztupy",
                 "repo": "luadec51",
-                "stars": 355,
+                "stars": 353,
                 "topics": [
                   "c",
                   "decompiler",
@@ -3072,11 +3072,11 @@
                 "id": 8986217,
                 "language": "Lua",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-09-16T18:33:07Z",
-                "open_issues": 1344,
+                "last_commit": "2026-09-17T18:34:30Z",
+                "open_issues": 1343,
                 "owner": "koreader",
                 "repo": "koreader",
-                "stars": 29736,
+                "stars": 29761,
                 "topics": [
                   "cbz",
                   "djvu",
@@ -3208,7 +3208,7 @@
                 "open_issues": 0,
                 "owner": "love2d-community",
                 "repo": "awesome-love2d",
-                "stars": 4495,
+                "stars": 4496,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -3250,7 +3250,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-16T19:30:59.022Z",
+    "last_updated": "2026-09-17T19:41:36.011Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of quality Lua packages and resources.",
