@@ -18,10 +18,10 @@
                 "language": "Go",
                 "license": "MIT",
                 "last_commit": "2026-04-01T00:54:16Z",
-                "open_issues": 104,
+                "open_issues": 105,
                 "owner": "yuin",
                 "repo": "gopher-lua",
-                "stars": 6980,
+                "stars": 6979,
                 "topics": [
                   "go",
                   "gopher-lua",
@@ -46,7 +46,7 @@
                 "open_issues": 48,
                 "owner": "vinniefalco",
                 "repo": "LuaBridge",
-                "stars": 1783,
+                "stars": 1782,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:31:51.080Z"
@@ -97,7 +97,7 @@
                 "open_issues": 64,
                 "owner": "scoder",
                 "repo": "lupa",
-                "stars": 1153,
+                "stars": 1154,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:31:51.080Z"
@@ -232,7 +232,7 @@
                     "open_issues": 0,
                     "owner": "lua",
                     "repo": "lua",
-                    "stars": 10327,
+                    "stars": 10328,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:31:51.080Z"
@@ -1071,7 +1071,7 @@
                     "open_issues": 41,
                     "owner": "ledgetech",
                     "repo": "lua-resty-http",
-                    "stars": 2079,
+                    "stars": 2078,
                     "topics": [
                       "http",
                       "http-client",
@@ -1104,11 +1104,11 @@
                     "id": 26783295,
                     "language": "Lua",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-09-07T06:16:21Z",
-                    "open_issues": 201,
+                    "last_commit": "2026-09-22T15:39:13Z",
+                    "open_issues": 203,
                     "owner": "Kong",
                     "repo": "kong",
-                    "stars": 44167,
+                    "stars": 44175,
                     "topics": [
                       "ai",
                       "ai-gateway",
@@ -2103,7 +2103,7 @@
                 "open_issues": 7,
                 "owner": "kikito",
                 "repo": "inspect.lua",
-                "stars": 1539,
+                "stars": 1540,
                 "topics": [
                   "human-readable",
                   "lua",
@@ -2356,7 +2356,7 @@
                 "language": "HTML",
                 "license": "MIT",
                 "last_commit": "2026-09-02T18:57:48Z",
-                "open_issues": 103,
+                "open_issues": 104,
                 "owner": "lunarmodules",
                 "repo": "luasocket",
                 "stars": 2026,
@@ -2805,7 +2805,7 @@
                 "open_issues": 46,
                 "owner": "mpeterv",
                 "repo": "luacheck",
-                "stars": 2051,
+                "stars": 2050,
                 "topics": [
                   "linter",
                   "lua"
@@ -2871,7 +2871,7 @@
                 "open_issues": 7,
                 "owner": "sztupy",
                 "repo": "luadec51",
-                "stars": 353,
+                "stars": 354,
                 "topics": [
                   "c",
                   "decompiler",
@@ -3000,7 +3000,7 @@
                 "open_issues": 95,
                 "owner": "luvit",
                 "repo": "luvit",
-                "stars": 3966,
+                "stars": 3968,
                 "topics": [
                   "hacktoberfest",
                   "libuv",
@@ -3072,11 +3072,11 @@
                 "id": 8986217,
                 "language": "Lua",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-09-21T17:27:32Z",
-                "open_issues": 1346,
+                "last_commit": "2026-09-22T16:59:37Z",
+                "open_issues": 1352,
                 "owner": "koreader",
                 "repo": "koreader",
-                "stars": 29838,
+                "stars": 29857,
                 "topics": [
                   "cbz",
                   "djvu",
@@ -3250,7 +3250,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-21T20:23:46.115Z",
+    "last_updated": "2026-09-22T19:42:30.782Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of quality Lua packages and resources.",
