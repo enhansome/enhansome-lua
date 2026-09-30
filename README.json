@@ -97,7 +97,7 @@
                 "open_issues": 63,
                 "owner": "scoder",
                 "repo": "lupa",
-                "stars": 1155,
+                "stars": 1156,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:31:51.080Z"
@@ -232,7 +232,7 @@
                     "open_issues": 0,
                     "owner": "lua",
                     "repo": "lua",
-                    "stars": 10342,
+                    "stars": 10345,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:31:51.080Z"
@@ -735,7 +735,7 @@
                     "open_issues": 0,
                     "owner": "love2d-community",
                     "repo": "awesome-love2d",
-                    "stars": 4509,
+                    "stars": 4510,
                     "topics": [
                       "awesome",
                       "awesome-list",
@@ -888,7 +888,7 @@
                     "open_issues": 13,
                     "owner": "Stabyourself",
                     "repo": "mari0",
-                    "stars": 776,
+                    "stars": 777,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:31:51.080Z"
@@ -1105,10 +1105,10 @@
                     "language": "Lua",
                     "license": "Apache-2.0",
                     "last_commit": "2026-09-29T04:13:49Z",
-                    "open_issues": 219,
+                    "open_issues": 220,
                     "owner": "Kong",
                     "repo": "kong",
-                    "stars": 44219,
+                    "stars": 44225,
                     "topics": [
                       "ai",
                       "ai-gateway",
@@ -1591,7 +1591,7 @@
                 "open_issues": 39,
                 "owner": "luaposix",
                 "repo": "luaposix",
-                "stars": 593,
+                "stars": 594,
                 "topics": [
                   "lua",
                   "lua-binding",
@@ -3072,11 +3072,11 @@
                 "id": 8986217,
                 "language": "Lua",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-09-29T18:01:51Z",
-                "open_issues": 1360,
+                "last_commit": "2026-09-30T13:23:04Z",
+                "open_issues": 1364,
                 "owner": "koreader",
                 "repo": "koreader",
-                "stars": 30003,
+                "stars": 30025,
                 "topics": [
                   "cbz",
                   "djvu",
@@ -3208,7 +3208,7 @@
                 "open_issues": 0,
                 "owner": "love2d-community",
                 "repo": "awesome-love2d",
-                "stars": 4509,
+                "stars": 4510,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -3250,7 +3250,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-29T20:41:16.787Z",
+    "last_updated": "2026-09-30T20:45:02.281Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of quality Lua packages and resources.",
