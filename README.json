@@ -232,7 +232,7 @@
                     "open_issues": 0,
                     "owner": "lua",
                     "repo": "lua",
-                    "stars": 10354,
+                    "stars": 10355,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:31:51.080Z"
@@ -732,7 +732,7 @@
                     "language": "PowerShell",
                     "license": "CC0-1.0",
                     "last_commit": "2026-09-26T21:02:34Z",
-                    "open_issues": 1,
+                    "open_issues": 0,
                     "owner": "love2d-community",
                     "repo": "awesome-love2d",
                     "stars": 4512,
@@ -790,7 +790,7 @@
                     "open_issues": 14,
                     "owner": "kikito",
                     "repo": "bump.lua",
-                    "stars": 1100,
+                    "stars": 1101,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:31:51.080Z"
@@ -1108,7 +1108,7 @@
                     "open_issues": 222,
                     "owner": "Kong",
                     "repo": "kong",
-                    "stars": 44235,
+                    "stars": 44239,
                     "topics": [
                       "ai",
                       "ai-gateway",
@@ -1362,7 +1362,7 @@
                     "open_issues": 2,
                     "owner": "LuaLanes",
                     "repo": "lanes",
-                    "stars": 538,
+                    "stars": 539,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:31:51.080Z"
@@ -2268,7 +2268,7 @@
                 "open_issues": 9,
                 "owner": "somesocks",
                 "repo": "lua-lockbox",
-                "stars": 377,
+                "stars": 378,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:31:51.080Z"
@@ -3072,11 +3072,11 @@
                 "id": 8986217,
                 "language": "Lua",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-10-03T04:47:00Z",
+                "last_commit": "2026-10-03T18:34:11Z",
                 "open_issues": 1375,
                 "owner": "koreader",
                 "repo": "koreader",
-                "stars": 30064,
+                "stars": 30078,
                 "topics": [
                   "cbz",
                   "djvu",
@@ -3205,7 +3205,7 @@
                 "language": "PowerShell",
                 "license": "CC0-1.0",
                 "last_commit": "2026-09-26T21:02:34Z",
-                "open_issues": 1,
+                "open_issues": 0,
                 "owner": "love2d-community",
                 "repo": "awesome-love2d",
                 "stars": 4512,
@@ -3250,7 +3250,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T04:55:50.756Z",
+    "last_updated": "2026-10-03T19:10:27.715Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of quality Lua packages and resources.",
