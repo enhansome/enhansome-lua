@@ -1108,7 +1108,7 @@
                     "open_issues": 222,
                     "owner": "Kong",
                     "repo": "kong",
-                    "stars": 44234,
+                    "stars": 44235,
                     "topics": [
                       "ai",
                       "ai-gateway",
@@ -3072,11 +3072,11 @@
                 "id": 8986217,
                 "language": "Lua",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-10-02T19:48:29Z",
-                "open_issues": 1373,
+                "last_commit": "2026-10-03T04:47:00Z",
+                "open_issues": 1375,
                 "owner": "koreader",
                 "repo": "koreader",
-                "stars": 30062,
+                "stars": 30064,
                 "topics": [
                   "cbz",
                   "djvu",
@@ -3250,7 +3250,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T20:39:13.379Z",
+    "last_updated": "2026-10-03T04:55:50.756Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of quality Lua packages and resources.",
