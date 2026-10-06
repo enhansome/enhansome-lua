@@ -97,7 +97,7 @@
                 "open_issues": 64,
                 "owner": "scoder",
                 "repo": "lupa",
-                "stars": 1157,
+                "stars": 1158,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:31:51.080Z"
@@ -523,7 +523,7 @@
                 "open_issues": 45,
                 "owner": "lunarmodules",
                 "repo": "Penlight",
-                "stars": 2132,
+                "stars": 2133,
                 "topics": [
                   "lua",
                   "lua-library",
@@ -699,7 +699,7 @@
                 "open_issues": 2,
                 "owner": "Overtorment",
                 "repo": "NoobHub",
-                "stars": 356,
+                "stars": 357,
                 "topics": [
                   "corona-sdk",
                   "gideros",
@@ -818,7 +818,7 @@
                     "open_issues": 7,
                     "owner": "kikito",
                     "repo": "tween.lua",
-                    "stars": 666,
+                    "stars": 665,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:31:51.080Z"
@@ -1108,7 +1108,7 @@
                     "open_issues": 223,
                     "owner": "Kong",
                     "repo": "kong",
-                    "stars": 44241,
+                    "stars": 44243,
                     "topics": [
                       "ai",
                       "ai-gateway",
@@ -1895,7 +1895,7 @@
                     "language": "C",
                     "license": "MIT",
                     "last_commit": "2024-06-19T06:50:25Z",
-                    "open_issues": 61,
+                    "open_issues": 62,
                     "owner": "mpx",
                     "repo": "lua-cjson",
                     "stars": 998,
@@ -2377,7 +2377,7 @@
                 "language": "Lua",
                 "license": "MIT",
                 "last_commit": "2024-09-08T14:17:59Z",
-                "open_issues": 68,
+                "open_issues": 69,
                 "owner": "daurnimator",
                 "repo": "lua-http",
                 "stars": 873,
@@ -2428,7 +2428,7 @@
                 "open_issues": 19,
                 "owner": "Lua-cURL",
                 "repo": "Lua-cURLv3",
-                "stars": 292,
+                "stars": 291,
                 "topics": [
                   "curl",
                   "libcurl",
@@ -3072,11 +3072,11 @@
                 "id": 8986217,
                 "language": "Lua",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-10-05T21:38:39Z",
+                "last_commit": "2026-10-06T10:48:06Z",
                 "open_issues": 1371,
                 "owner": "koreader",
                 "repo": "koreader",
-                "stars": 30125,
+                "stars": 30129,
                 "topics": [
                   "cbz",
                   "djvu",
@@ -3250,7 +3250,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-05T22:32:54.825Z",
+    "last_updated": "2026-10-06T10:53:14.497Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of quality Lua packages and resources.",
@@ -3262,7 +3262,7 @@
       "open_issues": 50,
       "owner": "LewisJEllis",
       "repo": "awesome-lua",
-      "stars": 4579,
+      "stars": 4582,
       "topics": []
     },
     "original_repository_sha": "5cda10f263190f2c926d95652044a17ef937d6f8",
