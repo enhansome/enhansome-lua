@@ -21,7 +21,7 @@
                 "open_issues": 117,
                 "owner": "yuin",
                 "repo": "gopher-lua",
-                "stars": 6992,
+                "stars": 6993,
                 "topics": [
                   "go",
                   "gopher-lua",
@@ -46,7 +46,7 @@
                 "open_issues": 48,
                 "owner": "vinniefalco",
                 "repo": "LuaBridge",
-                "stars": 1786,
+                "stars": 1787,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:31:51.080Z"
@@ -232,7 +232,7 @@
                     "open_issues": 0,
                     "owner": "lua",
                     "repo": "lua",
-                    "stars": 10381,
+                    "stars": 10383,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:31:51.080Z"
@@ -262,7 +262,7 @@
                 "open_issues": 10,
                 "owner": "ers35",
                 "repo": "luastatic",
-                "stars": 877,
+                "stars": 878,
                 "topics": [
                   "lua"
                 ]
@@ -520,7 +520,7 @@
                 "language": "Lua",
                 "license": "MIT",
                 "last_commit": "2026-09-03T17:16:02Z",
-                "open_issues": 46,
+                "open_issues": 47,
                 "owner": "lunarmodules",
                 "repo": "Penlight",
                 "stars": 2133,
@@ -598,7 +598,7 @@
                 "id": 973697,
                 "language": "Lua",
                 "license": "MIT",
-                "last_commit": "2026-07-26T18:16:30Z",
+                "last_commit": "2026-10-18T18:10:28Z",
                 "open_issues": 14,
                 "owner": "lua-stdlib",
                 "repo": "lua-stdlib",
@@ -735,7 +735,7 @@
                     "open_issues": 0,
                     "owner": "love2d-community",
                     "repo": "awesome-love2d",
-                    "stars": 4522,
+                    "stars": 4523,
                     "topics": [
                       "awesome",
                       "awesome-list",
@@ -1108,7 +1108,7 @@
                     "open_issues": 222,
                     "owner": "Kong",
                     "repo": "kong",
-                    "stars": 44277,
+                    "stars": 44279,
                     "topics": [
                       "ai",
                       "ai-gateway",
@@ -2268,7 +2268,7 @@
                 "open_issues": 9,
                 "owner": "somesocks",
                 "repo": "lua-lockbox",
-                "stars": 378,
+                "stars": 377,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:31:51.080Z"
@@ -2533,7 +2533,7 @@
                     "id": 3366743,
                     "language": "Lua",
                     "license": null,
-                    "last_commit": "2026-09-18T13:16:44Z",
+                    "last_commit": "2026-10-18T08:47:25Z",
                     "open_issues": 75,
                     "owner": "openresty",
                     "repo": "lua-resty-redis",
@@ -2609,7 +2609,7 @@
                 "open_issues": 83,
                 "owner": "doujiang24",
                 "repo": "lua-resty-kafka",
-                "stars": 813,
+                "stars": 814,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:31:51.080Z"
@@ -3072,11 +3072,11 @@
                 "id": 8986217,
                 "language": "Lua",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-10-17T13:48:07Z",
-                "open_issues": 1394,
+                "last_commit": "2026-10-18T18:25:01Z",
+                "open_issues": 1395,
                 "owner": "koreader",
                 "repo": "koreader",
-                "stars": 30383,
+                "stars": 30408,
                 "topics": [
                   "cbz",
                   "djvu",
@@ -3152,7 +3152,7 @@
                 "open_issues": 9,
                 "owner": "Olivine-Labs",
                 "repo": "lua-style-guide",
-                "stars": 549,
+                "stars": 550,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:31:51.080Z"
@@ -3208,7 +3208,7 @@
                 "open_issues": 0,
                 "owner": "love2d-community",
                 "repo": "awesome-love2d",
-                "stars": 4522,
+                "stars": 4523,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -3250,7 +3250,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-17T18:24:07.822Z",
+    "last_updated": "2026-10-18T18:34:40.739Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of quality Lua packages and resources.",
@@ -3259,10 +3259,10 @@
       "language": null,
       "license": null,
       "last_commit": "2024-08-11T17:32:00Z",
-      "open_issues": 49,
+      "open_issues": 50,
       "owner": "LewisJEllis",
       "repo": "awesome-lua",
-      "stars": 4586,
+      "stars": 4587,
       "topics": []
     },
     "original_repository_sha": "5cda10f263190f2c926d95652044a17ef937d6f8",
