@@ -232,7 +232,7 @@
                     "open_issues": 0,
                     "owner": "lua",
                     "repo": "lua",
-                    "stars": 10390,
+                    "stars": 10392,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:31:51.080Z"
@@ -581,7 +581,7 @@
                 "open_issues": 12,
                 "owner": "bjornbytes",
                 "repo": "RxLua",
-                "stars": 536,
+                "stars": 537,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:31:51.080Z"
@@ -651,7 +651,7 @@
                 "open_issues": 23,
                 "owner": "rxi",
                 "repo": "lume",
-                "stars": 1245,
+                "stars": 1246,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:31:51.080Z"
@@ -1108,7 +1108,7 @@
                     "open_issues": 220,
                     "owner": "Kong",
                     "repo": "kong",
-                    "stars": 44288,
+                    "stars": 44291,
                     "topics": [
                       "ai",
                       "ai-gateway",
@@ -1458,10 +1458,10 @@
                 "language": "Lua",
                 "license": "BSD-3-Clause",
                 "last_commit": "2023-07-21T13:39:41Z",
-                "open_issues": 15,
+                "open_issues": 16,
                 "owner": "bungle",
                 "repo": "lua-resty-template",
-                "stars": 924,
+                "stars": 923,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:31:51.080Z"
@@ -2380,7 +2380,7 @@
                 "open_issues": 69,
                 "owner": "daurnimator",
                 "repo": "lua-http",
-                "stars": 874,
+                "stars": 872,
                 "topics": [
                   "cqueues",
                   "http",
@@ -3072,11 +3072,11 @@
                 "id": 8986217,
                 "language": "Lua",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-10-21T17:47:20Z",
-                "open_issues": 1387,
+                "last_commit": "2026-10-22T19:16:40Z",
+                "open_issues": 1388,
                 "owner": "koreader",
                 "repo": "koreader",
-                "stars": 30501,
+                "stars": 30523,
                 "topics": [
                   "cbz",
                   "djvu",
@@ -3250,7 +3250,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-21T20:04:08.335Z",
+    "last_updated": "2026-10-22T19:58:56.904Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of quality Lua packages and resources.",
