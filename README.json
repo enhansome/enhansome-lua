@@ -21,7 +21,7 @@
                 "open_issues": 117,
                 "owner": "yuin",
                 "repo": "gopher-lua",
-                "stars": 6993,
+                "stars": 6992,
                 "topics": [
                   "go",
                   "gopher-lua",
@@ -232,7 +232,7 @@
                     "open_issues": 0,
                     "owner": "lua",
                     "repo": "lua",
-                    "stars": 10395,
+                    "stars": 10400,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:31:51.080Z"
@@ -735,7 +735,7 @@
                     "open_issues": 0,
                     "owner": "love2d-community",
                     "repo": "awesome-love2d",
-                    "stars": 4532,
+                    "stars": 4535,
                     "topics": [
                       "awesome",
                       "awesome-list",
@@ -790,7 +790,7 @@
                     "open_issues": 15,
                     "owner": "kikito",
                     "repo": "bump.lua",
-                    "stars": 1104,
+                    "stars": 1105,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:31:51.080Z"
@@ -1108,7 +1108,7 @@
                     "open_issues": 221,
                     "owner": "Kong",
                     "repo": "kong",
-                    "stars": 44299,
+                    "stars": 44301,
                     "topics": [
                       "ai",
                       "ai-gateway",
@@ -1788,7 +1788,7 @@
                 "open_issues": 12,
                 "owner": "Neopallium",
                 "repo": "lua-pb",
-                "stars": 293,
+                "stars": 294,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:31:51.080Z"
@@ -1803,9 +1803,9 @@
                 "description": "LibYAML binding for Lua.",
                 "homepage": "gvvaughan.github.io/lyaml",
                 "id": 8834157,
-                "language": "Lua",
+                "language": "C",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-23T16:49:07Z",
+                "last_commit": "2026-10-25T02:42:21Z",
                 "open_issues": 19,
                 "owner": "gvvaughan",
                 "repo": "lyaml",
@@ -1877,7 +1877,7 @@
                     "open_issues": 28,
                     "owner": "rxi",
                     "repo": "json.lua",
-                    "stars": 2202,
+                    "stars": 2200,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:31:51.080Z"
@@ -3072,11 +3072,11 @@
                 "id": 8986217,
                 "language": "Lua",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-10-24T18:27:40Z",
-                "open_issues": 1389,
+                "last_commit": "2026-10-25T16:35:18Z",
+                "open_issues": 1391,
                 "owner": "koreader",
                 "repo": "koreader",
-                "stars": 30568,
+                "stars": 30601,
                 "topics": [
                   "cbz",
                   "djvu",
@@ -3208,7 +3208,7 @@
                 "open_issues": 0,
                 "owner": "love2d-community",
                 "repo": "awesome-love2d",
-                "stars": 4532,
+                "stars": 4535,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -3250,7 +3250,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-24T18:44:27.153Z",
+    "last_updated": "2026-10-25T18:56:17.478Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of quality Lua packages and resources.",
