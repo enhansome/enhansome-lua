@@ -21,7 +21,7 @@
                 "open_issues": 120,
                 "owner": "yuin",
                 "repo": "gopher-lua",
-                "stars": 6995,
+                "stars": 6997,
                 "topics": [
                   "go",
                   "gopher-lua",
@@ -67,7 +67,7 @@
                 "open_issues": 114,
                 "owner": "moonsharp-devs",
                 "repo": "moonsharp",
-                "stars": 1623,
+                "stars": 1622,
                 "topics": [
                   "c-sharp",
                   "debugger",
@@ -232,7 +232,7 @@
                     "open_issues": 0,
                     "owner": "lua",
                     "repo": "lua",
-                    "stars": 10402,
+                    "stars": 10404,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:31:51.080Z"
@@ -497,7 +497,7 @@
                 "open_issues": 44,
                 "owner": "luafun",
                 "repo": "luafun",
-                "stars": 2265,
+                "stars": 2266,
                 "topics": [
                   "functional-programming",
                   "lua",
@@ -651,7 +651,7 @@
                 "open_issues": 23,
                 "owner": "rxi",
                 "repo": "lume",
-                "stars": 1246,
+                "stars": 1247,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:31:51.080Z"
@@ -732,10 +732,10 @@
                     "language": "PowerShell",
                     "license": "CC0-1.0",
                     "last_commit": "2026-09-26T21:02:34Z",
-                    "open_issues": 0,
+                    "open_issues": 1,
                     "owner": "love2d-community",
                     "repo": "awesome-love2d",
-                    "stars": 4537,
+                    "stars": 4538,
                     "topics": [
                       "awesome",
                       "awesome-list",
@@ -1105,10 +1105,10 @@
                     "language": "Lua",
                     "license": "Apache-2.0",
                     "last_commit": "2026-10-19T02:45:09Z",
-                    "open_issues": 221,
+                    "open_issues": 222,
                     "owner": "Kong",
                     "repo": "kong",
-                    "stars": 44304,
+                    "stars": 44309,
                     "topics": [
                       "ai",
                       "ai-gateway",
@@ -2356,10 +2356,10 @@
                 "language": "HTML",
                 "license": "MIT",
                 "last_commit": "2026-09-02T18:57:48Z",
-                "open_issues": 104,
+                "open_issues": 105,
                 "owner": "lunarmodules",
                 "repo": "luasocket",
-                "stars": 2029,
+                "stars": 2028,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:31:51.080Z"
@@ -3072,11 +3072,11 @@
                 "id": 8986217,
                 "language": "Lua",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-10-26T19:57:00Z",
-                "open_issues": 1391,
+                "last_commit": "2026-10-27T20:32:35Z",
+                "open_issues": 1390,
                 "owner": "koreader",
                 "repo": "koreader",
-                "stars": 30636,
+                "stars": 30661,
                 "topics": [
                   "cbz",
                   "djvu",
@@ -3205,10 +3205,10 @@
                 "language": "PowerShell",
                 "license": "CC0-1.0",
                 "last_commit": "2026-09-26T21:02:34Z",
-                "open_issues": 0,
+                "open_issues": 1,
                 "owner": "love2d-community",
                 "repo": "awesome-love2d",
-                "stars": 4537,
+                "stars": 4538,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -3250,7 +3250,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-26T20:59:07.296Z",
+    "last_updated": "2026-10-27T20:36:46.101Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of quality Lua packages and resources.",
@@ -3262,7 +3262,7 @@
       "open_issues": 51,
       "owner": "LewisJEllis",
       "repo": "awesome-lua",
-      "stars": 4589,
+      "stars": 4591,
       "topics": []
     },
     "original_repository_sha": "5cda10f263190f2c926d95652044a17ef937d6f8",
