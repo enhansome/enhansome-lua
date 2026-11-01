@@ -97,7 +97,7 @@
                 "open_issues": 63,
                 "owner": "scoder",
                 "repo": "lupa",
-                "stars": 1160,
+                "stars": 1161,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:31:51.080Z"
@@ -232,7 +232,7 @@
                     "open_issues": 0,
                     "owner": "lua",
                     "repo": "lua",
-                    "stars": 10411,
+                    "stars": 10414,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:31:51.080Z"
@@ -581,7 +581,7 @@
                 "open_issues": 12,
                 "owner": "bjornbytes",
                 "repo": "RxLua",
-                "stars": 537,
+                "stars": 538,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:31:51.080Z"
@@ -735,7 +735,7 @@
                     "open_issues": 1,
                     "owner": "love2d-community",
                     "repo": "awesome-love2d",
-                    "stars": 4543,
+                    "stars": 4545,
                     "topics": [
                       "awesome",
                       "awesome-list",
@@ -867,7 +867,7 @@
                     "open_issues": 27,
                     "owner": "hawkthorne",
                     "repo": "hawkthorne-journey",
-                    "stars": 1153,
+                    "stars": 1154,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:31:51.080Z"
@@ -1012,7 +1012,7 @@
                 "open_issues": 17,
                 "owner": "EvandroLG",
                 "repo": "pegasus.lua",
-                "stars": 469,
+                "stars": 470,
                 "topics": [
                   "http",
                   "http-server",
@@ -1045,7 +1045,7 @@
                 "open_issues": 2,
                 "owner": "bungle",
                 "repo": "awesome-resty",
-                "stars": 2479,
+                "stars": 2480,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:31:51.080Z"
@@ -1108,7 +1108,7 @@
                     "open_issues": 225,
                     "owner": "Kong",
                     "repo": "kong",
-                    "stars": 44336,
+                    "stars": 44342,
                     "topics": [
                       "ai",
                       "ai-gateway",
@@ -1330,7 +1330,7 @@
                     "id": 3139480,
                     "language": "Lua",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-10-30T20:27:00Z",
+                    "last_commit": "2026-11-01T19:23:28Z",
                     "open_issues": 5,
                     "owner": "xopxe",
                     "repo": "lumen",
@@ -3072,11 +3072,11 @@
                 "id": 8986217,
                 "language": "Lua",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-10-31T14:25:18Z",
-                "open_issues": 1395,
+                "last_commit": "2026-11-01T19:44:53Z",
+                "open_issues": 1400,
                 "owner": "koreader",
                 "repo": "koreader",
-                "stars": 30771,
+                "stars": 30796,
                 "topics": [
                   "cbz",
                   "djvu",
@@ -3208,7 +3208,7 @@
                 "open_issues": 1,
                 "owner": "love2d-community",
                 "repo": "awesome-love2d",
-                "stars": 4543,
+                "stars": 4545,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -3235,7 +3235,7 @@
                 "open_issues": 2,
                 "owner": "bungle",
                 "repo": "awesome-resty",
-                "stars": 2479,
+                "stars": 2480,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:31:51.080Z"
@@ -3250,7 +3250,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-31T19:53:54.829Z",
+    "last_updated": "2026-11-01T20:26:18.960Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of quality Lua packages and resources.",
