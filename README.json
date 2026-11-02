@@ -21,7 +21,7 @@
                 "open_issues": 122,
                 "owner": "yuin",
                 "repo": "gopher-lua",
-                "stars": 6999,
+                "stars": 7001,
                 "topics": [
                   "go",
                   "gopher-lua",
@@ -97,7 +97,7 @@
                 "open_issues": 63,
                 "owner": "scoder",
                 "repo": "lupa",
-                "stars": 1161,
+                "stars": 1162,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:31:51.080Z"
@@ -232,7 +232,7 @@
                     "open_issues": 0,
                     "owner": "lua",
                     "repo": "lua",
-                    "stars": 10414,
+                    "stars": 10417,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:31:51.080Z"
@@ -523,7 +523,7 @@
                 "open_issues": 45,
                 "owner": "lunarmodules",
                 "repo": "Penlight",
-                "stars": 2135,
+                "stars": 2136,
                 "topics": [
                   "lua",
                   "lua-library",
@@ -651,7 +651,7 @@
                 "open_issues": 23,
                 "owner": "rxi",
                 "repo": "lume",
-                "stars": 1247,
+                "stars": 1246,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:31:51.080Z"
@@ -735,7 +735,7 @@
                     "open_issues": 1,
                     "owner": "love2d-community",
                     "repo": "awesome-love2d",
-                    "stars": 4545,
+                    "stars": 4548,
                     "topics": [
                       "awesome",
                       "awesome-list",
@@ -790,7 +790,7 @@
                     "open_issues": 15,
                     "owner": "kikito",
                     "repo": "bump.lua",
-                    "stars": 1104,
+                    "stars": 1103,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:31:51.080Z"
@@ -839,7 +839,7 @@
                     "open_issues": 10,
                     "owner": "rxi",
                     "repo": "flux",
-                    "stars": 488,
+                    "stars": 489,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:31:51.080Z"
@@ -888,7 +888,7 @@
                     "open_issues": 13,
                     "owner": "Stabyourself",
                     "repo": "mari0",
-                    "stars": 783,
+                    "stars": 784,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:31:51.080Z"
@@ -1105,10 +1105,10 @@
                     "language": "Lua",
                     "license": "Apache-2.0",
                     "last_commit": "2026-10-19T02:45:09Z",
-                    "open_issues": 225,
+                    "open_issues": 227,
                     "owner": "Kong",
                     "repo": "kong",
-                    "stars": 44342,
+                    "stars": 44347,
                     "topics": [
                       "ai",
                       "ai-gateway",
@@ -1330,11 +1330,11 @@
                     "id": 3139480,
                     "language": "Lua",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-11-01T19:23:28Z",
+                    "last_commit": "2026-11-02T12:09:24Z",
                     "open_issues": 5,
                     "owner": "xopxe",
                     "repo": "lumen",
-                    "stars": 161,
+                    "stars": 162,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:31:51.080Z"
@@ -1877,7 +1877,7 @@
                     "open_issues": 28,
                     "owner": "rxi",
                     "repo": "json.lua",
-                    "stars": 2200,
+                    "stars": 2199,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:31:51.080Z"
@@ -2045,7 +2045,7 @@
                     "open_issues": 9,
                     "owner": "daurnimator",
                     "repo": "lpeg_patterns",
-                    "stars": 130,
+                    "stars": 131,
                     "topics": [
                       "lpeg",
                       "lua",
@@ -2359,7 +2359,7 @@
                 "open_issues": 105,
                 "owner": "lunarmodules",
                 "repo": "luasocket",
-                "stars": 2030,
+                "stars": 2029,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:31:51.080Z"
@@ -3072,11 +3072,11 @@
                 "id": 8986217,
                 "language": "Lua",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-11-01T19:44:53Z",
-                "open_issues": 1400,
+                "last_commit": "2026-11-02T20:41:19Z",
+                "open_issues": 1399,
                 "owner": "koreader",
                 "repo": "koreader",
-                "stars": 30796,
+                "stars": 30823,
                 "topics": [
                   "cbz",
                   "djvu",
@@ -3208,7 +3208,7 @@
                 "open_issues": 1,
                 "owner": "love2d-community",
                 "repo": "awesome-love2d",
-                "stars": 4545,
+                "stars": 4548,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -3250,7 +3250,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-01T20:26:18.960Z",
+    "last_updated": "2026-11-02T23:26:02.286Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of quality Lua packages and resources.",
