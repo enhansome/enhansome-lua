@@ -21,7 +21,7 @@
                 "open_issues": 122,
                 "owner": "yuin",
                 "repo": "gopher-lua",
-                "stars": 7001,
+                "stars": 7002,
                 "topics": [
                   "go",
                   "gopher-lua",
@@ -46,7 +46,7 @@
                 "open_issues": 47,
                 "owner": "vinniefalco",
                 "repo": "LuaBridge",
-                "stars": 1790,
+                "stars": 1791,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:31:51.080Z"
@@ -232,7 +232,7 @@
                     "open_issues": 0,
                     "owner": "lua",
                     "repo": "lua",
-                    "stars": 10417,
+                    "stars": 10418,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:31:51.080Z"
@@ -497,7 +497,7 @@
                 "open_issues": 44,
                 "owner": "luafun",
                 "repo": "luafun",
-                "stars": 2266,
+                "stars": 2267,
                 "topics": [
                   "functional-programming",
                   "lua",
@@ -523,7 +523,7 @@
                 "open_issues": 45,
                 "owner": "lunarmodules",
                 "repo": "Penlight",
-                "stars": 2136,
+                "stars": 2137,
                 "topics": [
                   "lua",
                   "lua-library",
@@ -651,7 +651,7 @@
                 "open_issues": 23,
                 "owner": "rxi",
                 "repo": "lume",
-                "stars": 1246,
+                "stars": 1245,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:31:51.080Z"
@@ -1108,7 +1108,7 @@
                     "open_issues": 227,
                     "owner": "Kong",
                     "repo": "kong",
-                    "stars": 44347,
+                    "stars": 44346,
                     "topics": [
                       "ai",
                       "ai-gateway",
@@ -1330,7 +1330,7 @@
                     "id": 3139480,
                     "language": "Lua",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-11-02T12:09:24Z",
+                    "last_commit": "2026-11-03T12:25:25Z",
                     "open_issues": 5,
                     "owner": "xopxe",
                     "repo": "lumen",
@@ -2170,7 +2170,7 @@
                 "open_issues": 0,
                 "owner": "gvx",
                 "repo": "Ser",
-                "stars": 85,
+                "stars": 86,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:31:51.080Z"
@@ -2359,7 +2359,7 @@
                 "open_issues": 105,
                 "owner": "lunarmodules",
                 "repo": "luasocket",
-                "stars": 2029,
+                "stars": 2030,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:31:51.080Z"
@@ -2380,7 +2380,7 @@
                 "open_issues": 69,
                 "owner": "daurnimator",
                 "repo": "lua-http",
-                "stars": 872,
+                "stars": 873,
                 "topics": [
                   "cqueues",
                   "http",
@@ -3072,11 +3072,11 @@
                 "id": 8986217,
                 "language": "Lua",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-11-02T20:41:19Z",
+                "last_commit": "2026-11-03T19:28:57Z",
                 "open_issues": 1399,
                 "owner": "koreader",
                 "repo": "koreader",
-                "stars": 30823,
+                "stars": 30851,
                 "topics": [
                   "cbz",
                   "djvu",
@@ -3250,7 +3250,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-02T23:26:02.286Z",
+    "last_updated": "2026-11-03T21:41:34.296Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of quality Lua packages and resources.",
