@@ -21,7 +21,7 @@
                 "open_issues": 122,
                 "owner": "yuin",
                 "repo": "gopher-lua",
-                "stars": 7002,
+                "stars": 7003,
                 "topics": [
                   "go",
                   "gopher-lua",
@@ -232,7 +232,7 @@
                     "open_issues": 0,
                     "owner": "lua",
                     "repo": "lua",
-                    "stars": 10418,
+                    "stars": 10423,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:31:51.080Z"
@@ -1105,10 +1105,10 @@
                     "language": "Lua",
                     "license": "Apache-2.0",
                     "last_commit": "2026-10-19T02:45:09Z",
-                    "open_issues": 227,
+                    "open_issues": 228,
                     "owner": "Kong",
                     "repo": "kong",
-                    "stars": 44346,
+                    "stars": 44356,
                     "topics": [
                       "ai",
                       "ai-gateway",
@@ -1898,7 +1898,7 @@
                     "open_issues": 62,
                     "owner": "mpx",
                     "repo": "lua-cjson",
-                    "stars": 1001,
+                    "stars": 1000,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:31:51.080Z"
@@ -1975,7 +1975,7 @@
                     "open_issues": 33,
                     "owner": "antirez",
                     "repo": "lua-cmsgpack",
-                    "stars": 383,
+                    "stars": 382,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:31:51.080Z"
@@ -3072,11 +3072,11 @@
                 "id": 8986217,
                 "language": "Lua",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-11-03T19:28:57Z",
-                "open_issues": 1399,
+                "last_commit": "2026-11-04T21:22:12Z",
+                "open_issues": 1402,
                 "owner": "koreader",
                 "repo": "koreader",
-                "stars": 30851,
+                "stars": 30865,
                 "topics": [
                   "cbz",
                   "djvu",
@@ -3250,7 +3250,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-03T21:41:34.296Z",
+    "last_updated": "2026-11-04T21:48:56.876Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of quality Lua packages and resources.",
@@ -3262,7 +3262,7 @@
       "open_issues": 52,
       "owner": "LewisJEllis",
       "repo": "awesome-lua",
-      "stars": 4595,
+      "stars": 4593,
       "topics": []
     },
     "original_repository_sha": "5cda10f263190f2c926d95652044a17ef937d6f8",
