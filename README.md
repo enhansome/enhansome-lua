@@ -2,7 +2,7 @@
 
 > A curated list of quality Lua [packages](#packages) and [resources](#resources).
 
-Inspired by the lists [awesome](https://github.com/sindresorhus/awesome) ⭐ 536,891 | 🐛 104 | 📅 2026-09-02, [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) ⭐ 33,787 | 🐛 66 | 🌐 Ruby | 📅 2024-06-02, and [awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) ⭐ 67,507 | 🐛 25 | 📅 2026-09-02.
+Inspired by the lists [awesome](https://github.com/sindresorhus/awesome) ⭐ 537,432 | 🐛 104 | 📅 2026-09-02, [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) ⭐ 33,787 | 🐛 66 | 🌐 Ruby | 📅 2024-06-02, and [awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) ⭐ 67,518 | 🐛 25 | 📅 2026-09-02.
 
 ## Packages
 
@@ -55,17 +55,17 @@ Inspired by the lists [awesome](https://github.com/sindresorhus/awesome) ⭐ 536
 
 ### Implementations, Interpreters, and Bindings
 
-* [GopherLua](https://github.com/yuin/gopher-lua) ⭐ 7,010 | 🐛 123 | 🌐 Go | 📅 2026-04-01 - Lua 5.1 VM and compiler implemented in Go with Go APIs.
+* [GopherLua](https://github.com/yuin/gopher-lua) ⭐ 7,009 | 🐛 123 | 🌐 Go | 📅 2026-04-01 - Lua 5.1 VM and compiler implemented in Go with Go APIs.
 * [LuaBridge](https://github.com/vinniefalco/LuaBridge) ⭐ 1,790 | 🐛 47 | 🌐 C | 📅 2025-10-13 - A lightweight library for mapping data, functions, and classes back and forth between C++ and Lua.
 * [MoonSharp](https://github.com/xanathar/moonsharp) ⭐ 1,627 | 🐛 114 | 🌐 C# | 📅 2026-10-14 - A Lua interpreter written entirely in C# for the .NET, Mono and Unity platforms.
-* [lupa](https://github.com/scoder/lupa) ⭐ 1,163 | 🐛 64 | 🌐 Python | 📅 2026-11-12 - Python bindings to LuaJIT2.
+* [lupa](https://github.com/scoder/lupa) ⭐ 1,165 | 🐛 64 | 🌐 Python | 📅 2026-11-12 - Python bindings to LuaJIT2.
 * [UniLua](https://github.com/xebecnan/UniLua) ⭐ 1,121 | 🐛 19 | 🌐 C# | 📅 2024-06-22 - A pure C# implementation of Lua 5.2, focused on compatibility with the Unity game engine.
 * [lua.vm.js](https://github.com/daurnimator/lua.vm.js) ⚠️ Archived - Lua VM on the web; a direct port of the C interpreter via LLVM, emscripten, and asm.js.
 * [golua](https://github.com/aarzilli/golua) ⭐ 701 | 🐛 14 | 🌐 C | 📅 2026-10-10 - Golang bindings to the Lua C API.
 * [Moonshine](https://github.com/gamesys/moonshine) ⭐ 507 | 🐛 22 | 🌐 Lua | 📅 2021-05-28 - A Lua VM implemented in JavaScript. Slower than lua.vm.js, but with better docs, examples, and JS interfacing.
 * [LLVM-Lua](https://github.com/neopallium/llvm-lua) ⭐ 164 | 🐛 7 | 🌐 C | 📅 2016-01-15 - Compiles Lua to LLVM.
 * [Lua](http://www.lua.org/download.html) - Lua's original ANSI C interpreter.
-  * [Lua Repo](https://github.com/lua/lua) ⭐ 10,450 | 🐛 0 | 🌐 C | 📅 2026-11-13 - The official Lua repo, as seen by the Lua team, mirrored to GitHub.
+  * [Lua Repo](https://github.com/lua/lua) ⭐ 10,449 | 🐛 0 | 🌐 C | 📅 2026-11-13 - The official Lua repo, as seen by the Lua team, mirrored to GitHub.
 * [LuaJIT](http://luajit.org/luajit.html) - High-performance Just-In-Time compiler for Lua.
 * [Fengari](https://fengari.io/) - The Lua VM rewritten in Javascript with seamless JS and DOM interoperability.
 
@@ -77,7 +77,7 @@ Note: From LuaJIT to Lua to lua.vm.js to Moonshine, a basic benchmark sees perfo
 
 ### Build Tools and Standalone Makers
 
-* [luastatic](https://github.com/ers35/luastatic) ⭐ 881 | 🐛 10 | 🌐 Lua | 📅 2023-10-28 - Simple tool for turning Lua programs into standalone executables.
+* [luastatic](https://github.com/ers35/luastatic) ⭐ 880 | 🐛 10 | 🌐 Lua | 📅 2023-10-28 - Simple tool for turning Lua programs into standalone executables.
 * [Lake](https://github.com/stevedonovan/Lake) ⭐ 144 | 🐛 23 | 🌐 Lua | 📅 2015-09-24 - A build engine written in Lua, similar to Ruby's rake.
 * [Luabuild](https://github.com/stevedonovan/luabuild) ⭐ 82 | 🐛 2 | 🌐 C | 📅 2015-12-21 - Highly customizable Lua 5.2 build system.
 * [omnia](https://github.com/tongson/omnia) ⚠️ Archived - A batteries-included creator of standalone executables, built on top of luastatic.
@@ -101,7 +101,7 @@ Note: From LuaJIT to Lua to lua.vm.js to Moonshine, a basic benchmark sees perfo
 
 ### Utility Belts
 
-* [Lua Fun](https://github.com/luafun/luafun) ⭐ 2,267 | 🐛 44 | 🌐 Lua | 📅 2026-09-21 - High-performance functional programming library designed for LuaJIT.
+* [Lua Fun](https://github.com/luafun/luafun) ⭐ 2,266 | 🐛 44 | 🌐 Lua | 📅 2026-09-21 - High-performance functional programming library designed for LuaJIT.
 * [Penlight](https://github.com/stevedonovan/Penlight) ⭐ 2,141 | 🐛 45 | 🌐 Lua | 📅 2026-11-08 - Broad, heavyweight utility library, inspired by Python's standard libs. Provides the batteries that Lua doesn't.
 * [Moses](https://github.com/Yonaba/Moses) ⭐ 652 | 🐛 6 | 🌐 Lua | 📅 2019-12-18 - Functional programming utility belt, inspired by Underscore.js.
 * [RxLua](https://github.com/bjornbytes/RxLua) ⭐ 538 | 🐛 12 | 🌐 Lua | 📅 2020-06-21 - Reactive Extensions, Observables, etc.
@@ -126,20 +126,20 @@ Note: From LuaJIT to Lua to lua.vm.js to Moonshine, a basic benchmark sees perfo
 * Corona
   * [Coronium](https://develephant.github.io/coronium-core-docs/) - Simple cloud platform supporting analytics, data objects, user management, and more.
 * LÖVE
-  * [awesome-love2d](https://github.com/love2d-community/awesome-love2d) ⭐ 4,561 | 🐛 1 | 🌐 PowerShell | 📅 2026-09-26 - A list like this one, but focused on game dev and the LÖVE platform.
+  * [awesome-love2d](https://github.com/love2d-community/awesome-love2d) ⭐ 4,560 | 🐛 1 | 🌐 PowerShell | 📅 2026-09-26 - A list like this one, but focused on game dev and the LÖVE platform.
   * [lurker](https://github.com/rxi/lurker) ⭐ 380 | 🐛 6 | 🌐 Lua | 📅 2023-07-22 - Shortens the iteration cycle by auto-swapping changed Lua files in a running LÖVE project.
   * [HUMP](http://vrld.github.io/hump/) - A set of lightweight helpers for LÖVE; a game-oriented utility belt.
 * MOAI
   * [moaifiddle](https://moaifiddle.com) - Edit and share short scripts for the MOAI game engine and run them in the browser using WebGL.
 * Collision detection
-  * [bump.lua](https://github.com/kikito/bump.lua) ⭐ 1,103 | 🐛 15 | 🌐 Lua | 📅 2023-09-29 - Minimal rectangle-based collision detection which handles tunnelling and basic collision resolution.
+  * [bump.lua](https://github.com/kikito/bump.lua) ⭐ 1,104 | 🐛 15 | 🌐 Lua | 📅 2023-09-29 - Minimal rectangle-based collision detection which handles tunnelling and basic collision resolution.
   * [HardonCollider](http://vrld.github.io/HardonCollider/) - Detect collisions between arbitrarily positioned and rotated shapes of any type.
 * Tweening
   * [tween.lua](https://github.com/kikito/tween.lua) ⭐ 665 | 🐛 7 | 🌐 Lua | 📅 2023-02-02 - Small library for tweening, with several easing functions.
   * [flux](https://github.com/rxi/flux) ⭐ 491 | 🐛 10 | 🌐 Lua | 📅 2020-12-16 - A fast, lightweight tweening library for Lua with easing functions and the ability to group tweens together.
 * Examples
   * [Journey to the Center of Hawkthorne](https://github.com/hawkthorne/hawkthorne-journey) ⭐ 1,155 | 🐛 27 | 🌐 Lua | 📅 2024-11-26 - 2D platformer based on Community's [Digital Estate Planning](https://en.wikipedia.org/wiki/Digital_Estate_Planning) episode, made with LÖVE.
-  * [Mari0](https://github.com/Stabyourself/mari0) ⭐ 785 | 🐛 13 | 🌐 Lua | 📅 2026-11-14 - Fusion of Mario and Portal, made with LÖVE. See also its [wikipedia entry](https://en.wikipedia.org/wiki/Mari0).
+  * [Mari0](https://github.com/Stabyourself/mari0) ⭐ 787 | 🐛 11 | 🌐 Lua | 📅 2026-11-15 - Fusion of Mario and Portal, made with LÖVE. See also its [wikipedia entry](https://en.wikipedia.org/wiki/Mari0).
   * [termtris](https://github.com/tylerneylon/termtris) ⭐ 466 | 🐛 2 | 🌐 Lua | 📅 2019-12-09 - A tetris clone, written in literate style with "an emphasis on learn-from-ability".
   * [PacPac](https://github.com/tylerneylon/pacpac) ⭐ 355 | 🐛 2 | 🌐 Lua | 📅 2015-06-18 - A Pac-man clone, made with LÖVE.
 
@@ -165,7 +165,7 @@ Note: From LuaJIT to Lua to lua.vm.js to Moonshine, a basic benchmark sees perfo
 * Third-party modules
   * [lua-resty-http](https://github.com/pintsized/lua-resty-http) ⭐ 2,077 | 🐛 41 | 🌐 Lua | 📅 2026-08-11 - Lua HTTP client driver, built on the cosocket API.
 * Frameworks & tools
-  * [Kong](https://github.com/Kong/kong) ⭐ 44,378 | 🐛 232 | 🌐 Lua | 📅 2026-10-19 - Microservice & API Management Layer.
+  * [Kong](https://github.com/Kong/kong) ⭐ 44,381 | 🐛 233 | 🌐 Lua | 📅 2026-10-19 - Microservice & API Management Layer.
   * [Sailor](https://github.com/sailorproject/sailor) ⭐ 937 | 🐛 48 | 🌐 Lua | 📅 2022-10-28 — An MVC web framework compatible with OpenResty, Apache and other webservers.
   * [ledge](https://github.com/pintsized/ledge) ⭐ 459 | 🐛 16 | 🌐 Lua | 📅 2021-05-07 - Lua module providing scriptable, RFC-compliant HTTP cache functionality.
   * [Lapis](http://leafo.net/lapis/) - Full-stack framework for Lua and OpenResty. Like the Django or Rails of Lua. Supports Moonscript.
@@ -212,7 +212,7 @@ For more on the differences (particularly between `lanes` and `luaproc`), see th
 
 ### File system and OS
 
-* [luaposix](https://github.com/luaposix/luaposix) ⭐ 599 | 🐛 22 | 🌐 C | 📅 2026-10-30 - Bindings for POSIX APIs, including curses.
+* [luaposix](https://github.com/luaposix/luaposix) ⭐ 598 | 🐛 22 | 🌐 C | 📅 2026-11-14 - Bindings for POSIX APIs, including curses.
 * [lua-path](https://github.com/moteus/lua-path) ⭐ 90 | 🐛 5 | 🌐 Lua | 📅 2021-01-07 - File system path manipulation library.
 * [LuaFileSystem](http://keplerproject.github.io/luafilesystem/) - Extends and complements Lua's built-in set of file system functions.
 * [lunix](http://25thandclement.com/~william/projects/lunix.html) - Bindings to common Unix system APIs, striving for thread-safety.
@@ -289,9 +289,9 @@ For more on the differences (particularly between `lanes` and `luaproc`), see th
 ### Network
 
 * [LuaSocket](https://github.com/diegonehab/luasocket) ⭐ 2,032 | 🐛 106 | 🌐 HTML | 📅 2026-09-02 - Networking extension which provides a socket API for TCP and UDP, and implements HTTP, FTP, and SMTP.
-* [lua-http](https://github.com/daurnimator/lua-http) ⭐ 876 | 🐛 69 | 🌐 Lua | 📅 2026-10-06 - Asynchronous HTTP and WebSocket library with client and server APIs, TLS, and HTTP/2; based on cqueues.
+* [lua-http](https://github.com/daurnimator/lua-http) ⭐ 875 | 🐛 69 | 🌐 Lua | 📅 2026-10-06 - Asynchronous HTTP and WebSocket library with client and server APIs, TLS, and HTTP/2; based on cqueues.
 * [lua-websockets](https://github.com/lipp/lua-websockets) ⭐ 421 | 🐛 44 | 🌐 Lua | 📅 2026-07-29 - WebSocket client and server modules. Webserver-agnostic, implemented in Lua on top of LuaSocket.
-* [lua-cURLv3](https://github.com/Lua-cURL/Lua-cURLv3) ⭐ 291 | 🐛 19 | 🌐 C | 📅 2023-07-03 - Lua binding to libcurl.
+* [lua-cURLv3](https://github.com/Lua-cURL/Lua-cURLv3) ⭐ 292 | 🐛 19 | 🌐 C | 📅 2023-07-03 - Lua binding to libcurl.
 
 ### Data Stores
 
@@ -315,7 +315,7 @@ For more on the differences (particularly between `lanes` and `luaproc`), see th
 
 * [luassert](https://github.com/Olivine-Labs/luassert) ⭐ 248 | 🐛 14 | 🌐 Lua | 📅 2026-09-04 - Assertion library extending Lua's built-in assertions.
 * [telescope](https://github.com/norman/telescope) ⭐ 165 | 🐛 8 | 🌐 Lua | 📅 2017-08-05 - Flexible and highly customizable testing library.
-* [lust](https://github.com/bjornbytes/lust) ⭐ 137 | 🐛 0 | 🌐 Lua | 📅 2026-07-17 - Minimal test framework.
+* [lust](https://github.com/bjornbytes/lust) ⭐ 136 | 🐛 0 | 🌐 Lua | 📅 2026-07-17 - Minimal test framework.
 * [busted](http://olivinelabs.com/busted/) - BDD-style unit testing framework with great docs and Moonscript support.
 
 ### Foreign Function Interfaces
@@ -337,13 +337,13 @@ For more on the differences (particularly between `lanes` and `luaproc`), see th
 
 ### Experimental, etc
 
-* [luvit](https://github.com/luvit/luvit) ⭐ 3,974 | 🐛 99 | 🌐 Lua | 📅 2026-04-02 - Node.js's underlying architecture (libUV) with Lua on top instead of JavaScript.
+* [luvit](https://github.com/luvit/luvit) ⭐ 3,973 | 🐛 99 | 🌐 Lua | 📅 2026-04-02 - Node.js's underlying architecture (libUV) with Lua on top instead of JavaScript.
 * [graphql-lua](https://github.com/bjornbytes/graphql-lua) ⭐ 190 | 🐛 4 | 🌐 Lua | 📅 2023-03-13 - Lua implementation of [GraphQL](http://graphql.org/).
 * [punchdrunk.js](https://github.com/TannerRogalsky/punchdrunk) ⭐ 81 | 🐛 15 | 🌐 JavaScript | 📅 2016-02-07 - Moonshine + LÖVE API reimplementation = run LÖVE games in the browser.
 
 ### Scriptable by Lua
 
-* [KoReader](https://github.com/koreader/koreader) ⭐ 31,089 | 🐛 1,390 | 🌐 Lua | 📅 2026-11-14 - An ebook reader application supports PDF, DJVU, EPUB, FB2 and much more, running on Kindle, Kobo, PocketBook and Android devices.
+* [KoReader](https://github.com/koreader/koreader) ⭐ 31,112 | 🐛 1,395 | 🌐 Lua | 📅 2026-11-15 - An ebook reader application supports PDF, DJVU, EPUB, FB2 and much more, running on Kindle, Kobo, PocketBook and Android devices.
 * [kpie](https://github.com/skx/kpie) ⚠️ Archived - A scripting utility to juggle windows.
 * [luakit](https://luakit.github.io/luakit/) - Fast, small, webkit based browser framework extensible by Lua.
 * [Hammerspoon](http://www.hammerspoon.org) - A powerful, extensible OS X automation tool. A community-maintained fork of [Mjolnir](http://www.mjolnir.io/).
@@ -413,7 +413,7 @@ For more on the differences (particularly between `lanes` and `luaproc`), see th
 
 ### Other Lists
 
-* [awesome-love2d](https://github.com/love2d-community/awesome-love2d) ⭐ 4,561 | 🐛 1 | 🌐 PowerShell | 📅 2026-09-26 - A list like this one, but focused on game dev and the LÖVE platform.
+* [awesome-love2d](https://github.com/love2d-community/awesome-love2d) ⭐ 4,560 | 🐛 1 | 🌐 PowerShell | 📅 2026-09-26 - A list like this one, but focused on game dev and the LÖVE platform.
 * [awesome-resty](https://github.com/bungle/awesome-resty) ⭐ 2,479 | 🐛 2 | 📅 2026-05-26 - A list like this one, but focused on OpenResty.
 * [Where Lua is Used](https://sites.google.com/site/marbux/home/where-lua-is-used) - A comprehensive list of stand-alone programs written in or extensible using Lua.
 
@@ -429,4 +429,4 @@ To the extent possible under law, Lewis Ellis has waived all copyright and relat
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-14._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-15._
