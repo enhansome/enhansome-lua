@@ -232,7 +232,7 @@
                     "open_issues": 0,
                     "owner": "lua",
                     "repo": "lua",
-                    "stars": 10477,
+                    "stars": 10480,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:31:51.080Z"
@@ -497,7 +497,7 @@
                 "open_issues": 44,
                 "owner": "luafun",
                 "repo": "luafun",
-                "stars": 2267,
+                "stars": 2266,
                 "topics": [
                   "functional-programming",
                   "lua",
@@ -520,7 +520,7 @@
                 "language": "Lua",
                 "license": "MIT",
                 "last_commit": "2026-11-21T18:09:46Z",
-                "open_issues": 38,
+                "open_issues": 40,
                 "owner": "lunarmodules",
                 "repo": "Penlight",
                 "stars": 2141,
@@ -651,7 +651,7 @@
                 "open_issues": 23,
                 "owner": "rxi",
                 "repo": "lume",
-                "stars": 1246,
+                "stars": 1247,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:31:51.080Z"
@@ -735,7 +735,7 @@
                     "open_issues": 2,
                     "owner": "love2d-community",
                     "repo": "awesome-love2d",
-                    "stars": 4571,
+                    "stars": 4572,
                     "topics": [
                       "awesome",
                       "awesome-list",
@@ -888,7 +888,7 @@
                     "open_issues": 10,
                     "owner": "Stabyourself",
                     "repo": "mari0",
-                    "stars": 785,
+                    "stars": 786,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:31:51.080Z"
@@ -1105,10 +1105,10 @@
                     "language": "Lua",
                     "license": "Apache-2.0",
                     "last_commit": "2026-11-23T09:13:42Z",
-                    "open_issues": 236,
+                    "open_issues": 238,
                     "owner": "Kong",
                     "repo": "kong",
-                    "stars": 44409,
+                    "stars": 44413,
                     "topics": [
                       "ai",
                       "ai-gateway",
@@ -1211,7 +1211,7 @@
                 "open_issues": 9,
                 "owner": "mpeterv",
                 "repo": "argparse",
-                "stars": 289,
+                "stars": 290,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:31:51.080Z"
@@ -1362,7 +1362,7 @@
                     "open_issues": 5,
                     "owner": "LuaLanes",
                     "repo": "lanes",
-                    "stars": 543,
+                    "stars": 542,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:31:51.080Z"
@@ -1877,7 +1877,7 @@
                     "open_issues": 28,
                     "owner": "rxi",
                     "repo": "json.lua",
-                    "stars": 2201,
+                    "stars": 2202,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:31:51.080Z"
@@ -2805,7 +2805,7 @@
                 "open_issues": 46,
                 "owner": "mpeterv",
                 "repo": "luacheck",
-                "stars": 2056,
+                "stars": 2055,
                 "topics": [
                   "linter",
                   "lua"
@@ -2996,7 +2996,7 @@
                 "id": 2363097,
                 "language": "Lua",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-23T07:59:02Z",
+                "last_commit": "2026-11-24T05:49:41Z",
                 "open_issues": 99,
                 "owner": "luvit",
                 "repo": "luvit",
@@ -3072,11 +3072,11 @@
                 "id": 8986217,
                 "language": "Lua",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-11-24T02:05:22Z",
+                "last_commit": "2026-11-24T23:24:19Z",
                 "open_issues": 1399,
                 "owner": "koreader",
                 "repo": "koreader",
-                "stars": 31289,
+                "stars": 31309,
                 "topics": [
                   "cbz",
                   "djvu",
@@ -3208,7 +3208,7 @@
                 "open_issues": 2,
                 "owner": "love2d-community",
                 "repo": "awesome-love2d",
-                "stars": 4571,
+                "stars": 4572,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -3250,7 +3250,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-24T02:51:49.992Z",
+    "last_updated": "2026-11-25T00:34:03.917Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of quality Lua packages and resources.",
